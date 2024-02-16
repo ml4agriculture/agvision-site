@@ -1,0 +1,381 @@
+site_name: "Machine Learning for Agriculture"
+site_description: "Machine Learning for Agriculture"
+# repo_name: "ml4agriculture.github.io"
+# repo_url: "https://github.com/ml4agriculture/ml4agriculture.github.io"
+
+
+site_url: ""
+site_author: "Leandro G. Almeida"
+docs_dir: pages
+site_dir: site
+
+copyright: Copyright &copy; 2024
+
+
+theme:
+  icon:
+    repo: octicons/git-branch-16
+    view: material/eye
+  name: material
+
+  custom_dir: pages/overrides
+  font:
+    code: Fira Code Nerd Mono
+    text: Fire Code Nerd
+    size : 20
+ 
+  palette:
+    - primary: custom
+      
+  include_sidebar: false
+
+
+  logo: assets/images/logos/ag-vision-logo.png
+  features:
+    - navigation.instant
+    - navigation.instant.prefetch # works like a single page application
+    - navigation.tracking
+    - navigation.top
+    - content.footnote.tooltips
+    - content.tooltips
+    - announce.dismiss
+ 
+nav:
+    - Call For Papers: call_papers.md
+    - Program Schedule : program_schedule.md
+    - Challenges : challenges.md
+    - Venue : venue.md
+    - Contact : contact.md
+
+extra:
+  alternate:
+    - name: Ag-Vision 2024
+      link: /2024/
+    - name: Ag-Vision 2023
+      link: /2023/
+    - name: Ag-Vision 2022
+      link: /2022/
+   
+
+extra_css:
+  - "stylesheets/extra.css"
+
+
+plugins:
+  - tags
+  - search
+  # - search # search bar on header
+
+markdown_extensions:
+  - abbr
+  - admonition
+  - pymdownx.details
+  - attr_list
+  - def_list
+  - md_in_html
+  - footnotes
+  - tables
+  - toc:
+      permalink: "¤"
+  - pymdownx.snippets
+  - pymdownx.inlinehilite
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.superfences
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.caret
+  - pymdownx.tilde
+
+extra:
+  generator: false
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+extra_css:
+  - "stylesheets/extra.css"
+
+
+speakers:
+  - speaker:
+    name: Ranveeer Chandra
+    title: 
+    company: 
+    image: "../assets/images/speakers/ranveeer-chandra.jpg"
+
+  - speaker:
+    name: Girish Chowdhary
+    title: 
+    company: 
+    image: "../assets/images/speakers/girish-chowdhary.png"
+
+  - speaker:
+    name: Shely Aronov
+    title: "  "
+    company: 
+    image: "../assets/images/speakers/shelly-aronov.jpg"
+    social_link:
+
+  - speaker:
+    name: George Kantor
+    title: 
+    company: 
+    image: "../assets/images/speakers/george-kantor.jpeg"
+
+  - speaker:
+    name: Paula Ramos
+    title: 
+    company: 
+    image: "../assets/images/speakers/paula-ramos.jpeg"
+
+  - speaker:
+    name: Frank Dellaert
+    title: 
+    company: 
+    image: "../assets/images/speakers/frank-dellaert.jpeg"
+
+  - speaker:
+    name: Igor Susmelj
+    company: ""
+    image: "../assets/images/speakers/igor-susmelj.jpeg"
+
+  - speaker:
+    name: Kenny Lee
+    company: ""
+    image: "../assets/images/speakers/kenny-lee.jpg"
+
+  - speaker:
+    name: Matthew Harrison
+    company: ""
+    image: "../assets/images/speakers/matthew-harrison.jpeg"
+
+
+organizers:
+
+  -
+    name: Chris Padwick
+    title: Director of ML
+    company: Blue River Tech
+    image: "../assets/images/organizers/chris_padwick.png"
+
+  -
+    name: Leandro G. Almeida
+    title: Head of DS & ML
+    company:
+    image: "../assets/images/organizers/Leandro_almeida.jpeg"
+
+  -
+    name: Naira Hovakimyan
+    title: Professor, MechSE
+    company: UIUC
+    image: "../assets/images/organizers/naira-hovakimyan.jpeg"
+  -
+    name: Ignacio Ciampitti
+    title: Professor, Agronomy
+    company: KSU
+    image: "../assets/images/organizers/ignacio-ciampitti.jpeg"
+  -
+    name: Ripudaman Arora
+    title: Principle Scientist & Manager
+    company: Blue River Tech
+    image: "../assets/images/organizers/ripudaman-arora.png"
+  
+  -
+    name: Jim Ostrowski
+    title: CTO
+    company: Blue River Tech
+    image: "../assets/images/organizers/Jim.jpeg"
+  -
+    name: Pan Zhao
+    title: Assistant Professor, AEM
+    company: University of Alabama 
+    image: "../assets/images/organizers/pzhao.jpeg"
+  -
+    name: Kai Wang
+    title: PhD candidate, CS
+    company: Georgia Tech
+    image: "../assets/images/organizers/kai-wang.png"
+  -
+    name: Humphrey Shi
+    title: Associate Professor, CS
+    company: Georgia Tech
+    image: "../assets/images/organizers/hShi.jpeg"
+  -
+    name: Leonardo Lemes Bosche
+    title: PhD candidate, Agronomy
+    company: KSU
+    image: "../assets/images/organizers/leonardo.jpeg"
+
+  -
+    name: Jing Wu
+    title: PhD candidate, MSE
+    company: UIUC
+    image: "../assets/images/organizers/jing-wu.jpeg"
+
+agenda:
+  - range: ["8:00", "8:15"]
+    display:
+      h: 8
+      m: ""
+      a: "am"
+    location: ""
+    desc: "Opening Remarks & Welcome"
+
+  - range: ["8:15", "9:45"]
+    display:
+      h: 8
+      m: 15
+      a: "am"
+    location: ""
+    desc: "Keynote Speech"
+
+  - range: ["8:45", "9:15"]
+    display:
+      h: 8
+      m: 45
+      a: "am"
+    location: ""
+    desc: "Invited Talk 1"
+
+  - range: ["9:15", "9:45"]
+    display:
+      h: 9
+      m: 15
+      a: "am"
+    location: ""
+    desc: "Invited Talk 2"
+
+  - range: ["9:45", "10:15"]
+    display:
+      h: 9
+      m: 45
+      a: "am"
+    location: ""
+    desc: "Invited Talk 3"
+
+  - range: ["10:15", "10:45"]
+    display:
+      h: 10
+      m: 15
+      a: "am"
+    location: ""
+    desc: "Invited Talk 4"
+
+  - range: ["10:45", "11:00"]
+    display:
+      h: 10
+      m: 45
+      a: "am"
+    location: ""
+    desc: "Invited Talk 5"
+
+  - range: ["11:00", "12:00"]
+    display:
+      h: 11
+      m: ""
+      a: "am"
+    location: ""
+    desc: "Oral Presentation 1-6"
+
+  - range: ["12:00", "13:00"]
+    display:
+      h: 12
+      m: ""
+      a: "pm"
+    location: ""
+    desc: "Lunch Break"
+
+  - range: ["13:00", "13:30"]
+    display:
+      h: 1
+      m: ""
+      a: "pm"
+    location: ""
+    desc: "Invited Talk 6"
+
+  - range: ["13:30", "14:00"]
+    display:
+      h: 1
+      m: 30
+      a: "pm"
+    location: ""
+    desc: "Invited Talk 7"
+
+  - range: ["14:00", "14:30"]
+    display:
+      h: 2
+      m: ""
+      a: "pm"
+    location: ""
+    desc: "Invited Talk 8"
+
+  - range: ["14:30", "15:00"]
+    display:
+      h: 2
+      m: 30
+      a: "pm"
+    location: ""
+    desc: "Invited Talk 9"
+
+  - range: ["15:00", "15:30"]
+    display:
+      h: 3
+      m: ""
+      a: "pm"
+    location: ""
+    desc: "Poster Session"
+
+  - range: ["15:30", "15:40"]
+    display:
+      h: 3
+      m: 30
+      a: "pm"
+    location: ""
+    desc: "AgriVision Challenge Results Summary and Award Ceremony"
+
+  - range: ["15:40", "15:50"]
+    display:
+      h: 3
+      m: 40
+      a: "pm"
+    location: ""
+    desc: "Challenge 1st Place Presentation"
+
+  - range: ["15:50", "16:00"]
+    display:
+      h: 3
+      m: 50
+      a: "pm"
+    location: ""
+    desc: "Challenge 2nd Place Presentation"
+
+  - range: ["16:00", "16:10"]
+    display:
+      h: 4
+      m: ""
+      a: "pm"
+    location: ""
+    desc: "Challenge 3rd Place Presentation"
+
+  - range: ["16:10", "17:20"]
+    display:
+      h: 4
+      m: 10
+      a: "pm"
+    location: ""
+    desc: "Panel Discussion"
+
+  - range: ["17:20", "17:30"]
+    display:
+      h: 5
+      m: 20
+      a: "pm"
+    location: ""
+    desc: "Closing Remark"
