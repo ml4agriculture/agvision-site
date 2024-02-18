@@ -1,0 +1,128 @@
+.schedule-grid {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    width: 100%;
+    
+    justify-items: end;
+}
+
+.content-wrapper { 
+    width: min(100% -2rem, 50% - 2rem);
+    margin-left: 1rem;
+    margin-right: 0.5rem;
+    font-size: 1rem;
+}
+/* .content-wrapper  * {
+  font-size: 2rem;
+} */
+
+.schedule-sidebar {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    height: 100%;
+    background: rgba(0, 0, 17, 0.8);
+    color: #fff;
+    width: 100%;
+}
+
+
+.schedule-sidebar .day_info {
+    
+
+    padding: 1em 0.5em;
+
+}
+
+
+.schedule-sidebar .day_info {
+    height: 100%;
+    width: 100%;
+    padding: 1em 1.25em;
+    line-height: 1;
+    font-size: 1.5rem;
+}
+ 
+
+.schedule-sidebar ul {
+    list-style: none;
+    margin: 0;
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.schedule-sidebar li {
+    position: relative;
+    transition: font-size 300ms ease-in, opacity 300ms ease-in;
+    font-size: 1.5em;
+    opacity: 0.2;
+    line-height: 1;
+    
+} 
+
+
+.schedule-sidebar li:hover {
+    font-size: 2em;
+    opacity: 1;
+}
+
+.schedule-sidebar li:hover::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: -2rem;
+    transform: translateY(-0.5rem);
+    border: 0.5em solid;
+    border-width: 1em 0 1em 0.625em;
+    border-color: transparent;
+    border-left-color: currentColor;
+}
+
+.schedule-sidebar li::hover~li {
+    opacity: 0.7;
+}
+
+.schedule-sidebar li::hover+li {
+    font-size: 0.975em;
+    opacity: 0.7;
+}
+
+.slot_time {
+    margin: 0;
+    text-transform: uppercase;
+    font-weight: 200;
+    font-size: 1.10rem;
+} 
+
+.slot_time b {
+    font-weight: 900;
+}
+
+small {
+    font-size: 2rem;
+    color: var(--accent);
+    transition: color 3000ms linear;
+} 
+
+@media (min-width: 768px) {
+    .schedule-grid {
+        flex-direction: row;
+    }
+.schedule-sidebar .day_info {
+
+    flex: 0 0 auto;
+    /* -ms-writing-mode: tb-rl; */
+    writing-mode: vertical-rl;
+    color: rgba(2, 2, 8, 0.506);
+    background: #fff;
+    line-height:0;
+    width:0px;
+}
+.schedule-sidebar {
+    flex-direction: row;;
+}
+}

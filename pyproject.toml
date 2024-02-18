@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "Agriculture Vision"
+version = "0.1.0"
+description = "Agriculture Vision Site"
+authors = ["Leandro G. Almeida <leandro.g.almeida@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+mkdocs = "^1.5.3"
+mkdocs-material = "^9.5.3"
+pymdown-extensions = "^10.7"
+fontawesome-markdown = "^0.2.6"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

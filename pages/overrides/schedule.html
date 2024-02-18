@@ -1,0 +1,45 @@
+{% extends "main.html" %}
+
+
+<!-- Custom front matter -->
+{% block extrahead %}
+{{super()}}
+<!-- Extra stylesheets (can't be set in mkdocs.yml due to content hash) -->
+<link rel="stylesheet" href="{{ 'overrides/stylesheets/schedule.css' | url }}" />
+{% endblock %}
+
+<!-- <link rel="stylesheet" href="stylesheets/schedule.css" /> -->
+{% block container %}
+
+<div class="schedule-grid">
+
+  <div class="content-wrapper">
+    {% block content %}
+    {{ super() }}
+    {% endblock %}
+  </div>
+
+  <div class="schedule-sidebar">
+
+    <div class="day_info">
+      Day 1 &mdash; June 18, 2024
+    </div>
+    <ul>
+      {% for slot in config.agenda %}
+      <li>
+        <div class="slot_time">
+
+          <b>{{slot.display.h}}</b>
+          {{slot.display.m}}{{slot.display.a}}
+        </div>
+        <div> {{slot.desc}} </div>
+        <div><small> {{slot.location}} </small></div>
+      </li>
+
+      {% endfor %}
+    </ul>
+  </div>
+</div>
+
+
+{% endblock %}
