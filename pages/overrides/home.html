@@ -1,7 +1,29 @@
 {% extends "main.html" %}
 
+
 {% block tabs %}
-{{ super() }}
+{{super()}}
+<div class="button-container">
+<div class="buttons-section" style="justify-content:center;">
+  <button type="button" title="{{ page.next_page.title | e }}" onclick="location.href='./call_papers/'"
+    class="btn-dark btn-xl-large btn-lg-large m-xs m-top box-shadow">
+    Call for Papers
+  </button>
+  <button type="button" title="{{ page.next_page.title | e }}" onclick="location.href='./challenges/'"
+    class="btn-warning btn-xl-large btn-lg-large  m-xs m-top box-shadow">
+    Ag Vision Challenge
+  </button>
+  <button type="button" title="{{ page.next_page.title | e }}" onclick="location.href='./program_schedule/'"
+    class="btn-dark btn-xl-large btn-lg-large m-xs m-top box-shadow">
+    Program Schedule
+  </button>
+
+
+</div>
+</div>
+{% endblock %}
+{% block container %}
+{{super()}}
 
 
 
@@ -9,7 +31,7 @@
 
 <!--binbash leverage documetation-->
 <!-- <section class="first-gradiant-body w-100"> -->
-  <!-- <div class="mb-4 ml-5 pl-5">
+<!-- <div class="mb-4 ml-5 pl-5">
 
     <div class="container-row container-xs " style="justify-content:center;">
       <button type="button" title="{{ page.next_page.title | e }}" onclick="location.href='./call_papers/'"
@@ -32,7 +54,7 @@
   </div> -->
 
 <!-- SPEAKERS SECTION -->
-<div class="speakers" >
+<div class="speakers">
   <div class="person-grid">
     <div class="grid-span-3 Telegraf-Regular h1">
       INVITED SPEAKERS & PANELISTS
@@ -59,16 +81,16 @@
           </p>
           {% else %}
           <p class="person-title mt-4"> </p>
-        
+
           {% endif %}
-         
-          
+
+
           <p class="person-company Telegraf-Regular">
             {% if speaker.company %}
             {{speaker.company}}
             {% endif %}
           </p>
-        
+
         </div>
         <p class="person-social-link">
           {% if speaker.social %}
@@ -87,84 +109,91 @@
 
   </div>
 </div>
+
+
+<!-- ORGANIZERS SECTION -->
+
 <div class="second-dark-body">
-<div class="organizers">
+  <div class="organizers">
 
-  <div class="person-grid">
-    <div class="grid-span-3 text-white Telegraf-Regular h1">
-      Organizers
-    </div>
+    <div class="person-grid">
+      <div class="grid-span-3 text-white Telegraf-Regular h1">
+        Organizers
+      </div>
 
-    <div class="grid-span-2"></div>
+      <div class="grid-span-2"></div>
 
-    {% for organizer in config.organizers %}
-    <div class="person-card">
+      {% for organizer in config.organizers %}
+      <div class="person-card">
 
-      {% set image = organizer.image if organizer.image else "../assets/images/default.jpg" %}
+        {% set image = organizer.image if organizer.image else "../assets/images/default.jpg" %}
 
-      <img src="{{image}}" style="border-radius: inherit">
-      <div class="person-details">
+        <img src="{{image}}" style="border-radius: inherit">
+        <div class="person-details">
 
-        <div class="person-details-text">
-          <h3 class="person-name  Telegraf-Regular">
-            {{organizer.name}}
-          </h3>
+          <div class="person-details-text">
+            <h3 class="person-name  Telegraf-Regular">
+              {{organizer.name}}
+            </h3>
 
-          {% if organizer.title %}
-          <p class="person-title Telegraf-Regular">
-            {{organizer.title}}
-          </p>
-          {% endif %}
-
-          {% if organizer.company %}
-          <p class="person-company Telegraf-Regular">
-            {{organizer.company}}
-          </p>
-          {% endif %}
-        </div>
-        <p class="person-social-link">
-          {% if organizer.social %}
-          <a href="{{organizer.social}}">
+            {% if organizer.title %}
+            <p class="person-title Telegraf-Regular">
+              {{organizer.title}}
+            </p>
             {% endif %}
-            <span class="social-icon baseline svg">
-              {% include ".icons/fontawesome/brands/linkedin.svg" %}
-            </span>
+
+            {% if organizer.company %}
+            <p class="person-company Telegraf-Regular">
+              {{organizer.company}}
+            </p>
+            {% endif %}
+          </div>
+          <p class="person-social-link">
             {% if organizer.social %}
-          </a>
-          {% endif %}
-        </p>
-      </div>
-    </div>
-    {% endfor %}
-  </div>
-
-
-  </div>
-</div>
-</div>
-
-<div class="w-100">
-
-          <h2 class="Telegraf-UltraBold sponsors-title"> Sponsors
-          </h2>
-
-          
-
-        
-        <!-- <div class="container ctx-card-white-1 text-dark h3 d-lg"> -->      <div class="sponsors-grid">
-          <div>
-            <img src="../assets/images/sponsors/blue-river-tech.jpeg" width=220px aspect-ratio="1">
-          </div>
-          <div>
-            <img src="../assets/images/sponsors/IntelinAir_new.jpg" width=220px aspect-ratio="1">
-          </div>
-          <div>
-            <img src="../assets/images/sponsors/john-deere-logo.png" width=220px aspect-ratio="1">
-          </div>
-
+            <a href="{{organizer.social}}">
+              {% endif %}
+              <span class="social-icon baseline svg">
+                {% include ".icons/fontawesome/brands/linkedin.svg" %}
+              </span>
+              {% if organizer.social %}
+            </a>
+            {% endif %}
+          </p>
         </div>
       </div>
+      {% endfor %}
+    </div>
+
+
+  </div>
+</div>
+</div>
+
+<!-- SPONSORS SECTION -->
+
+
+<h2 class="Telegraf-UltraBold sponsors-title">
+  Sponsors
+</h2>
+
+
+
+
+<!-- <div class="container ctx-card-white-1 text-dark h3 d-lg"> -->
+<div class="sponsors-grid">
+  <div>
+    <img src="../assets/images/sponsors/blue-river-tech.jpeg" height=100px aspect-ratio="1">
+  </div>
+  <div>
+    <img src="../assets/images/sponsors/IntelinAir_new.jpg" height=100px aspect-ratio="1">
+  </div>
+  <div>
+    <img src="../assets/images/sponsors/john-deere-logo.png" width=220px aspect-ratio="1">
+  </div>
+
+</div>
+<!-- </div> -->
 
 
 {% endblock %}
-{% block content %} {% endblock %}}
+{% block content %}{% endblock %}

@@ -1,9 +1,11 @@
 ---
 hide:
   - toc
-  - navigation 
+  - navigation
+template: new_content.html
 ---
 
+# Agriculture-Vision 2024 Prize Challenge
 
 
 The **4th Agriculture-Vision Prize Challenge** aims to promote research in developing innovative and effective algorithms for recognizing agricultural patterns from aerial images. Participants' submissions will be judged and ranked based on model performance.

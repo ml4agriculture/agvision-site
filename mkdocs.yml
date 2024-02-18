@@ -39,6 +39,7 @@ theme:
     - content.footnote.tooltips
     - content.tooltips
     - announce.dismiss
+    - header.autohide
  
 nav:
     - Call For Papers: call_papers.md
@@ -59,7 +60,7 @@ extra:
 
 extra_css:
   - "stylesheets/extra.css"
-
+  # - "stylesheets/schedule.css"
 
 plugins:
   - tags

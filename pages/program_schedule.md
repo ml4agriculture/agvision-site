@@ -1,7 +1,8 @@
 ---
 hide:
   - toc
-  - nav
+  - navigation
+template: schedule.html
 ---
 
 # Program  Schedule 2024

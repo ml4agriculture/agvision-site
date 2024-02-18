@@ -1,30 +1,28 @@
 {% extends "main.html" %}
 
+
 {% block tabs %}
-{{ super() }}
-
-<div class="mb-4 ml-5 pl-5">
-
-    <div class="container-row container-xs " style="justify-content:center;">
-      <button type="button" title="{{ page.next_page.title | e }}" onclick="location.href='./call_papers/'"
-        class="btn-dark btn-xl-large btn-lg-large mx-3   mt-2 box-shadow">
-        Call for Papers
-      </button>
-      <button type="button" title="{{ page.next_page.title | e }}" onclick="location.href='./challenges/'"
-        class="btn-warning btn-xl-large btn-lg-large mx-3 mt-2   box-shadow">
-        Ag Vision Challenge
-      </button>
-      <button type="button" title="{{ page.next_page.title | e }}" onclick="location.href='./program_schedule/'"
-        class="btn-dark btn-xl-large btn-lg-large mx-3  mt-2  box-shadow">
-        Program Schedule
-      </button>
-  
-  
-    </div>
-    </div>
-{% endblock %}
+{{super()}}
+<div class="button-container">
+<div class="buttons-section" style="justify-content:center;">
+  <button type="button" title="{{ page.next_page.title | e }}" onclick="location.href='../call_papers/'"
+    class="btn-dark btn-xl-large btn-lg-large m-xs m-top box-shadow">
+    Call for Papers
+  </button>
+  <button type="button" title="{{ page.next_page.title | e }}" onclick="location.href='../challenges/'"
+    class="btn-warning btn-xl-large btn-lg-large  m-xs m-top box-shadow">
+    Ag Vision Challenge
+  </button>
+  <button type="button" title="{{ page.next_page.title | e }}" onclick="location.href='../program_schedule/'"
+    class="btn-dark btn-xl-large btn-lg-large m-xs m-top box-shadow">
+    Program Schedule
+  </button>
 
 
+</div>
+</div>
+
+{%endblock%}
 {%block site_nav %}
 {{super()}}
 {%endblock%}

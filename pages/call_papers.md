@@ -3,7 +3,7 @@ hide:
   - toc
   - navigation
 title: "Call For Papers 2024"
-# template: new_content.html
+template: new_content.html
 ---
 
 # Call for Papers
