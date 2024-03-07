@@ -48,14 +48,6 @@ nav:
     - Venue : venue.md
     - Contact : contact.md
 
-extra:
-  alternate:
-    - name: Ag-Vision 2024
-      link: /2024/
-    - name: Ag-Vision 2023
-      link: /2023/
-    - name: Ag-Vision 2022
-      link: /2022/
    
 
 extra_css:
@@ -105,54 +97,54 @@ extra_css:
 
 
 speakers:
-  - speaker:
+  -
     name: Ranveeer Chandra
     title: 
     company: 
     image: "../assets/images/speakers/ranveeer-chandra.jpg"
 
-  - speaker:
+  -
     name: Girish Chowdhary
     title: 
     company: 
     image: "../assets/images/speakers/girish-chowdhary.png"
 
-  - speaker:
+  -
     name: Shely Aronov
     title: "  "
     company: 
     image: "../assets/images/speakers/shelly-aronov.jpg"
     social_link:
 
-  - speaker:
+  -
     name: George Kantor
     title: 
     company: 
     image: "../assets/images/speakers/george-kantor.jpeg"
 
-  - speaker:
+  -
     name: Paula Ramos
     title: 
     company: 
     image: "../assets/images/speakers/paula-ramos.jpeg"
 
-  - speaker:
+  -
     name: Frank Dellaert
     title: 
     company: 
     image: "../assets/images/speakers/frank-dellaert.jpeg"
 
-  - speaker:
+  -
     name: Igor Susmelj
     company: ""
     image: "../assets/images/speakers/igor-susmelj.jpeg"
 
-  - speaker:
+  -
     name: Kenny Lee
     company: ""
     image: "../assets/images/speakers/kenny-lee.jpg"
 
-  - speaker:
+  -
     name: Matthew Harrison
     company: ""
     image: "../assets/images/speakers/matthew-harrison.jpeg"
@@ -213,7 +205,6 @@ organizers:
     title: PhD candidate, Agronomy
     company: KSU
     image: "../assets/images/organizers/leonardo.jpeg"
-
   -
     name: Jing Wu
     title: PhD candidate, MSE
