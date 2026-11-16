@@ -1,0 +1,2355 @@
+{
+  "unavailable": [],
+  "media": [
+    {
+      "key": "57525b0cc9604731bb64",
+      "source": "https://ssl.gstatic.com/atari/images/impression-header.png",
+      "local": "/media/57525b0cc9604731bb64.png",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/",
+          "url": "https://ssl.gstatic.com/atari/images/impression-header.png",
+          "placement": "background"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2020",
+          "url": "https://ssl.gstatic.com/atari/images/impression-header.png",
+          "placement": "background"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2020/call-for-papers",
+          "url": "https://ssl.gstatic.com/atari/images/impression-header.png",
+          "placement": "background"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2020/dataset",
+          "url": "https://ssl.gstatic.com/atari/images/impression-header.png",
+          "placement": "background"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2020/prize-challenge",
+          "url": "https://ssl.gstatic.com/atari/images/impression-header.png",
+          "placement": "background"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2020/program-schedule",
+          "url": "https://ssl.gstatic.com/atari/images/impression-header.png",
+          "placement": "background"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2021",
+          "url": "https://ssl.gstatic.com/atari/images/impression-header.png",
+          "placement": "background"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2021/call-for-papers-2021",
+          "url": "https://ssl.gstatic.com/atari/images/impression-header.png",
+          "placement": "background"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2021/dataset-2021",
+          "url": "https://ssl.gstatic.com/atari/images/impression-header.png",
+          "placement": "background"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2021/prize-challenge-2021",
+          "url": "https://ssl.gstatic.com/atari/images/impression-header.png",
+          "placement": "background"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2021/program-schedule-2021",
+          "url": "https://ssl.gstatic.com/atari/images/impression-header.png",
+          "placement": "background"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2022",
+          "url": "https://ssl.gstatic.com/atari/images/impression-header.png",
+          "placement": "background"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2022/call-for-papers-2022",
+          "url": "https://ssl.gstatic.com/atari/images/impression-header.png",
+          "placement": "background"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2022/prize-challenge-2022",
+          "url": "https://ssl.gstatic.com/atari/images/impression-header.png",
+          "placement": "background"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2022/prize-challenge-2022/agriculture-vision-challenge-2022",
+          "url": "https://ssl.gstatic.com/atari/images/impression-header.png",
+          "placement": "background"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2022/prize-challenge-2022/cropharvest-challenge-2022",
+          "url": "https://ssl.gstatic.com/atari/images/impression-header.png",
+          "placement": "background"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2022/program-schedule-2022",
+          "url": "https://ssl.gstatic.com/atari/images/impression-header.png",
+          "placement": "background"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2023",
+          "url": "https://ssl.gstatic.com/atari/images/impression-header.png",
+          "placement": "background"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2023/call-for-papers-2023",
+          "url": "https://ssl.gstatic.com/atari/images/impression-header.png",
+          "placement": "background"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2023/program-schedule-2023",
+          "url": "https://ssl.gstatic.com/atari/images/impression-header.png",
+          "placement": "background"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2024",
+          "url": "https://ssl.gstatic.com/atari/images/impression-header.png",
+          "placement": "background"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2024/call-for-papers-2024",
+          "url": "https://ssl.gstatic.com/atari/images/impression-header.png",
+          "placement": "background"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2024/prize-challenge-2024",
+          "url": "https://ssl.gstatic.com/atari/images/impression-header.png",
+          "placement": "background"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2024/program-schedule-2024",
+          "url": "https://ssl.gstatic.com/atari/images/impression-header.png",
+          "placement": "background"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2025",
+          "url": "https://ssl.gstatic.com/atari/images/impression-header.png",
+          "placement": "background"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2025/call-for-papers-2025",
+          "url": "https://ssl.gstatic.com/atari/images/impression-header.png",
+          "placement": "background"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2025/prize-challenge-2025",
+          "url": "https://ssl.gstatic.com/atari/images/impression-header.png",
+          "placement": "background"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2025/program-schedule-2025",
+          "url": "https://ssl.gstatic.com/atari/images/impression-header.png",
+          "placement": "background"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2026",
+          "url": "https://ssl.gstatic.com/atari/images/impression-header.png",
+          "placement": "background"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2026/call-for-papers-2026",
+          "url": "https://ssl.gstatic.com/atari/images/impression-header.png",
+          "placement": "background"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2026/program-schedule-2026",
+          "url": "https://ssl.gstatic.com/atari/images/impression-header.png",
+          "placement": "background"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/contact-us",
+          "url": "https://ssl.gstatic.com/atari/images/impression-header.png",
+          "placement": "background"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/dataset-terms",
+          "url": "https://ssl.gstatic.com/atari/images/impression-header.png",
+          "placement": "background"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/qa",
+          "url": "https://ssl.gstatic.com/atari/images/impression-header.png",
+          "placement": "background"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/submission-terms",
+          "url": "https://ssl.gstatic.com/atari/images/impression-header.png",
+          "placement": "background"
+        }
+      ]
+    },
+    {
+      "key": "e499b2d226684410227f",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQdrfuOEBZPjZBaK223ofj2pp4erlG_PYU1RW9f_AC9IZ1CdzdoZkON3qqe7F5CEy55TEvnY0tVDAhp_yVy9DbettPE9HScWiLOpdbpmTHhLoVQo3pbl2i5qNUHNOe_zi54AKvX-ssRibNYGhnzJygINaKI1nUSEqzRagmDHof8-YYmhEKzq5Txyf3c6CgeC170-rMiD1Pa3l3rvKLroFD8UUPGlUzxVbb7_QmON=w1280",
+      "local": "/media/e499b2d226684410227f.png",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQdrfuOEBZPjZBaK223ofj2pp4erlG_PYU1RW9f_AC9IZ1CdzdoZkON3qqe7F5CEy55TEvnY0tVDAhp_yVy9DbettPE9HScWiLOpdbpmTHhLoVQo3pbl2i5qNUHNOe_zi54AKvX-ssRibNYGhnzJygINaKI1nUSEqzRagmDHof8-YYmhEKzq5Txyf3c6CgeC170-rMiD1Pa3l3rvKLroFD8UUPGlUzxVbb7_QmON=w1280",
+          "placement": "image"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2024",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQdrfuOEBZPjZBaK223ofj2pp4erlG_PYU1RW9f_AC9IZ1CdzdoZkON3qqe7F5CEy55TEvnY0tVDAhp_yVy9DbettPE9HScWiLOpdbpmTHhLoVQo3pbl2i5qNUHNOe_zi54AKvX-ssRibNYGhnzJygINaKI1nUSEqzRagmDHof8-YYmhEKzq5Txyf3c6CgeC170-rMiD1Pa3l3rvKLroFD8UUPGlUzxVbb7_QmON=w1280",
+          "placement": "image"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2025",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQdrfuOEBZPjZBaK223ofj2pp4erlG_PYU1RW9f_AC9IZ1CdzdoZkON3qqe7F5CEy55TEvnY0tVDAhp_yVy9DbettPE9HScWiLOpdbpmTHhLoVQo3pbl2i5qNUHNOe_zi54AKvX-ssRibNYGhnzJygINaKI1nUSEqzRagmDHof8-YYmhEKzq5Txyf3c6CgeC170-rMiD1Pa3l3rvKLroFD8UUPGlUzxVbb7_QmON=w1280",
+          "placement": "image"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2026",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQdrfuOEBZPjZBaK223ofj2pp4erlG_PYU1RW9f_AC9IZ1CdzdoZkON3qqe7F5CEy55TEvnY0tVDAhp_yVy9DbettPE9HScWiLOpdbpmTHhLoVQo3pbl2i5qNUHNOe_zi54AKvX-ssRibNYGhnzJygINaKI1nUSEqzRagmDHof8-YYmhEKzq5Txyf3c6CgeC170-rMiD1Pa3l3rvKLroFD8UUPGlUzxVbb7_QmON=w1280",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "05012b0c9f6b6aeaef1a",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQfUA7V18FsAc5QahP2q7fglNvKzgQbeoLkO-wkcIVIexpTWk0bRbVoBBJgtdNZjw6hIy2zZoA8VJSw3HekERSvzOsuKrJOrRP6Xb_PvcSxmQjJ1LN0QStY3aUtqcR3Vw7oa4T3MX1Bx-yH3hH-XATPu9qMSApMlIbDZffLRdUWfHyPkEyDlST2kSnXfKzA=w1280",
+      "local": "/media/05012b0c9f6b6aeaef1a.png",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQfUA7V18FsAc5QahP2q7fglNvKzgQbeoLkO-wkcIVIexpTWk0bRbVoBBJgtdNZjw6hIy2zZoA8VJSw3HekERSvzOsuKrJOrRP6Xb_PvcSxmQjJ1LN0QStY3aUtqcR3Vw7oa4T3MX1Bx-yH3hH-XATPu9qMSApMlIbDZffLRdUWfHyPkEyDlST2kSnXfKzA=w1280",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "4914447b69ccef535820",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQdhwks_PhcLZ_dtGjtXB8F3cf3lZAA5jHxtwb44SkWE_4P-8R54edbIv41crXZUetCmtUKXEynBEKBGg2jiId-ya-NZXEPCUn3cE2L23JYsdRoFGWJhSxeozzbYhrFTrMfF8JEzLqGlAPUNJ_hpbMwyZLIxGKHYALyrgeqatFiRmPielFQd1uEiFdpjdD_W6PUwBKwHazG25OvktoZpCXGf3upPKCeeAUptUou9o_Y=w1280",
+      "local": "/media/4914447b69ccef535820.png",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQdhwks_PhcLZ_dtGjtXB8F3cf3lZAA5jHxtwb44SkWE_4P-8R54edbIv41crXZUetCmtUKXEynBEKBGg2jiId-ya-NZXEPCUn3cE2L23JYsdRoFGWJhSxeozzbYhrFTrMfF8JEzLqGlAPUNJ_hpbMwyZLIxGKHYALyrgeqatFiRmPielFQd1uEiFdpjdD_W6PUwBKwHazG25OvktoZpCXGf3upPKCeeAUptUou9o_Y=w1280",
+          "placement": "image"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2026",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQdhwks_PhcLZ_dtGjtXB8F3cf3lZAA5jHxtwb44SkWE_4P-8R54edbIv41crXZUetCmtUKXEynBEKBGg2jiId-ya-NZXEPCUn3cE2L23JYsdRoFGWJhSxeozzbYhrFTrMfF8JEzLqGlAPUNJ_hpbMwyZLIxGKHYALyrgeqatFiRmPielFQd1uEiFdpjdD_W6PUwBKwHazG25OvktoZpCXGf3upPKCeeAUptUou9o_Y=w1280",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "daa7caece18eb1f18686",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQdYS6IvMSUtilVHe9_M8uolfiecoZPH_4XlsMgmc1jLAs18McqVMGnCjq6d69ImsCrh_Wp1ZUjsOy_TKIDvhaHerQ5t_g6e1uf0mQ0UB44HuLaktN0idvogy6c4Cb54-U5Gra8hjXCRA2FQV9oWAsLTfuIVK0qb-tTj0yIhGkgzzxyscZvkhSZIt4h92S4=w1280",
+      "local": "/media/daa7caece18eb1f18686.jpg",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQdYS6IvMSUtilVHe9_M8uolfiecoZPH_4XlsMgmc1jLAs18McqVMGnCjq6d69ImsCrh_Wp1ZUjsOy_TKIDvhaHerQ5t_g6e1uf0mQ0UB44HuLaktN0idvogy6c4Cb54-U5Gra8hjXCRA2FQV9oWAsLTfuIVK0qb-tTj0yIhGkgzzxyscZvkhSZIt4h92S4=w1280",
+          "placement": "image"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2026",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQdYS6IvMSUtilVHe9_M8uolfiecoZPH_4XlsMgmc1jLAs18McqVMGnCjq6d69ImsCrh_Wp1ZUjsOy_TKIDvhaHerQ5t_g6e1uf0mQ0UB44HuLaktN0idvogy6c4Cb54-U5Gra8hjXCRA2FQV9oWAsLTfuIVK0qb-tTj0yIhGkgzzxyscZvkhSZIt4h92S4=w1280",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "c41362524aca3f78f48e",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQfoxtBvt6FdinMxbD_AGQYF7lL-tkhvwOrcH6bAj97sF_sl_IeEOj1azhpcbXnMSLSw8udwcBYHwQwlawH_K17AX93uASs67UDS6SAQrZkrSAIrTloklebtqt5U9xdhxniUUKczYb5Ymyn-mRMDfeKRtPdBTwrfiagzVX2g68gwwZccuakAmG6b1u0eFVZ1sIcqUZKladEfnprtchcPrW7Spp8jaSaaMRjzPLoO=w1280",
+      "local": "/media/c41362524aca3f78f48e.png",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQfoxtBvt6FdinMxbD_AGQYF7lL-tkhvwOrcH6bAj97sF_sl_IeEOj1azhpcbXnMSLSw8udwcBYHwQwlawH_K17AX93uASs67UDS6SAQrZkrSAIrTloklebtqt5U9xdhxniUUKczYb5Ymyn-mRMDfeKRtPdBTwrfiagzVX2g68gwwZccuakAmG6b1u0eFVZ1sIcqUZKladEfnprtchcPrW7Spp8jaSaaMRjzPLoO=w1280",
+          "placement": "image"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2026",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQfoxtBvt6FdinMxbD_AGQYF7lL-tkhvwOrcH6bAj97sF_sl_IeEOj1azhpcbXnMSLSw8udwcBYHwQwlawH_K17AX93uASs67UDS6SAQrZkrSAIrTloklebtqt5U9xdhxniUUKczYb5Ymyn-mRMDfeKRtPdBTwrfiagzVX2g68gwwZccuakAmG6b1u0eFVZ1sIcqUZKladEfnprtchcPrW7Spp8jaSaaMRjzPLoO=w1280",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "06e7b0a279beecebdcb2",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQessfF3cu0VkEZP2KYj938y5tHzHXrQMwq3gguP8SbZXOjjyvQr3NEG54ZseR7LSm9iFEPGAZifR5avulXyzFoEmkIb0VMy41Wm6SysGXz0v1XTeupY39ADYUUTGKz5TdZ5Ou8reHh-LvrCEfLB4yBxEpHV_pPe8IGDKhjbssHpwRu8HiOP9I1P4lrcQs_qvUxKKJVb4ByLyp8zq_XmOTDHMVx3bZj7CXB7QuNNiQw=w1280",
+      "local": "/media/06e7b0a279beecebdcb2.png",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQessfF3cu0VkEZP2KYj938y5tHzHXrQMwq3gguP8SbZXOjjyvQr3NEG54ZseR7LSm9iFEPGAZifR5avulXyzFoEmkIb0VMy41Wm6SysGXz0v1XTeupY39ADYUUTGKz5TdZ5Ou8reHh-LvrCEfLB4yBxEpHV_pPe8IGDKhjbssHpwRu8HiOP9I1P4lrcQs_qvUxKKJVb4ByLyp8zq_XmOTDHMVx3bZj7CXB7QuNNiQw=w1280",
+          "placement": "image"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2024",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQessfF3cu0VkEZP2KYj938y5tHzHXrQMwq3gguP8SbZXOjjyvQr3NEG54ZseR7LSm9iFEPGAZifR5avulXyzFoEmkIb0VMy41Wm6SysGXz0v1XTeupY39ADYUUTGKz5TdZ5Ou8reHh-LvrCEfLB4yBxEpHV_pPe8IGDKhjbssHpwRu8HiOP9I1P4lrcQs_qvUxKKJVb4ByLyp8zq_XmOTDHMVx3bZj7CXB7QuNNiQw=w1280",
+          "placement": "image"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2025",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQessfF3cu0VkEZP2KYj938y5tHzHXrQMwq3gguP8SbZXOjjyvQr3NEG54ZseR7LSm9iFEPGAZifR5avulXyzFoEmkIb0VMy41Wm6SysGXz0v1XTeupY39ADYUUTGKz5TdZ5Ou8reHh-LvrCEfLB4yBxEpHV_pPe8IGDKhjbssHpwRu8HiOP9I1P4lrcQs_qvUxKKJVb4ByLyp8zq_XmOTDHMVx3bZj7CXB7QuNNiQw=w1280",
+          "placement": "image"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2025/tutorial-2025",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQessfF3cu0VkEZP2KYj938y5tHzHXrQMwq3gguP8SbZXOjjyvQr3NEG54ZseR7LSm9iFEPGAZifR5avulXyzFoEmkIb0VMy41Wm6SysGXz0v1XTeupY39ADYUUTGKz5TdZ5Ou8reHh-LvrCEfLB4yBxEpHV_pPe8IGDKhjbssHpwRu8HiOP9I1P4lrcQs_qvUxKKJVb4ByLyp8zq_XmOTDHMVx3bZj7CXB7QuNNiQw=w1280",
+          "placement": "image"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2026",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQessfF3cu0VkEZP2KYj938y5tHzHXrQMwq3gguP8SbZXOjjyvQr3NEG54ZseR7LSm9iFEPGAZifR5avulXyzFoEmkIb0VMy41Wm6SysGXz0v1XTeupY39ADYUUTGKz5TdZ5Ou8reHh-LvrCEfLB4yBxEpHV_pPe8IGDKhjbssHpwRu8HiOP9I1P4lrcQs_qvUxKKJVb4ByLyp8zq_XmOTDHMVx3bZj7CXB7QuNNiQw=w1280",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "8fba777df1e2aac7e761",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQd9a6vj6es9MUiqC06QiQBWxYA0c4TiiL0koHNHb5vEBj-lBcqGukFEh0cuxunNkaMUl1_q7z6VBwz5IujCGS5Ca5tgrTRp30GrRBixZyhXHLsgATPuiFwIu-OLjamRFk6HEH3IBiYAZIHj-4UPBMfUXM-ZqL1hNV05=w1280",
+      "local": "/media/8fba777df1e2aac7e761.jpg",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQd9a6vj6es9MUiqC06QiQBWxYA0c4TiiL0koHNHb5vEBj-lBcqGukFEh0cuxunNkaMUl1_q7z6VBwz5IujCGS5Ca5tgrTRp30GrRBixZyhXHLsgATPuiFwIu-OLjamRFk6HEH3IBiYAZIHj-4UPBMfUXM-ZqL1hNV05=w1280",
+          "placement": "image"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2020",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQd9a6vj6es9MUiqC06QiQBWxYA0c4TiiL0koHNHb5vEBj-lBcqGukFEh0cuxunNkaMUl1_q7z6VBwz5IujCGS5Ca5tgrTRp30GrRBixZyhXHLsgATPuiFwIu-OLjamRFk6HEH3IBiYAZIHj-4UPBMfUXM-ZqL1hNV05=w1280",
+          "placement": "image"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2021",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQd9a6vj6es9MUiqC06QiQBWxYA0c4TiiL0koHNHb5vEBj-lBcqGukFEh0cuxunNkaMUl1_q7z6VBwz5IujCGS5Ca5tgrTRp30GrRBixZyhXHLsgATPuiFwIu-OLjamRFk6HEH3IBiYAZIHj-4UPBMfUXM-ZqL1hNV05=w1280",
+          "placement": "image"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2022",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQd9a6vj6es9MUiqC06QiQBWxYA0c4TiiL0koHNHb5vEBj-lBcqGukFEh0cuxunNkaMUl1_q7z6VBwz5IujCGS5Ca5tgrTRp30GrRBixZyhXHLsgATPuiFwIu-OLjamRFk6HEH3IBiYAZIHj-4UPBMfUXM-ZqL1hNV05=w1280",
+          "placement": "image"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2023",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQd9a6vj6es9MUiqC06QiQBWxYA0c4TiiL0koHNHb5vEBj-lBcqGukFEh0cuxunNkaMUl1_q7z6VBwz5IujCGS5Ca5tgrTRp30GrRBixZyhXHLsgATPuiFwIu-OLjamRFk6HEH3IBiYAZIHj-4UPBMfUXM-ZqL1hNV05=w1280",
+          "placement": "image"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2024",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQd9a6vj6es9MUiqC06QiQBWxYA0c4TiiL0koHNHb5vEBj-lBcqGukFEh0cuxunNkaMUl1_q7z6VBwz5IujCGS5Ca5tgrTRp30GrRBixZyhXHLsgATPuiFwIu-OLjamRFk6HEH3IBiYAZIHj-4UPBMfUXM-ZqL1hNV05=w1280",
+          "placement": "image"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2025",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQd9a6vj6es9MUiqC06QiQBWxYA0c4TiiL0koHNHb5vEBj-lBcqGukFEh0cuxunNkaMUl1_q7z6VBwz5IujCGS5Ca5tgrTRp30GrRBixZyhXHLsgATPuiFwIu-OLjamRFk6HEH3IBiYAZIHj-4UPBMfUXM-ZqL1hNV05=w1280",
+          "placement": "image"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2026",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQd9a6vj6es9MUiqC06QiQBWxYA0c4TiiL0koHNHb5vEBj-lBcqGukFEh0cuxunNkaMUl1_q7z6VBwz5IujCGS5Ca5tgrTRp30GrRBixZyhXHLsgATPuiFwIu-OLjamRFk6HEH3IBiYAZIHj-4UPBMfUXM-ZqL1hNV05=w1280",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "8f24dcbc4ff178147170",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQcmFFE7wZpxai1pTiz4_raiGXqgbokS-w20n2ogLNWoanNuFBgkTL34VgIIvUq9nwS3aIjiZrN-W_0oPPmL8mQtaviuXgC1YD6vw2I3-UFTVccOQ8ikBIOOSmAzgb3Fqme1E3kEHOtK2627U68CBI0HxkdZY74XKfg6b4DMkI5ty6zDpxy6e0hVyqenuXylU2_1BT4RskzCkO5OLgmkJJeeDQHRrnFR5NNKAP-mcf0=w1280",
+      "local": "/media/8f24dcbc4ff178147170.jpg",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQcmFFE7wZpxai1pTiz4_raiGXqgbokS-w20n2ogLNWoanNuFBgkTL34VgIIvUq9nwS3aIjiZrN-W_0oPPmL8mQtaviuXgC1YD6vw2I3-UFTVccOQ8ikBIOOSmAzgb3Fqme1E3kEHOtK2627U68CBI0HxkdZY74XKfg6b4DMkI5ty6zDpxy6e0hVyqenuXylU2_1BT4RskzCkO5OLgmkJJeeDQHRrnFR5NNKAP-mcf0=w1280",
+          "placement": "image"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2024",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQcmFFE7wZpxai1pTiz4_raiGXqgbokS-w20n2ogLNWoanNuFBgkTL34VgIIvUq9nwS3aIjiZrN-W_0oPPmL8mQtaviuXgC1YD6vw2I3-UFTVccOQ8ikBIOOSmAzgb3Fqme1E3kEHOtK2627U68CBI0HxkdZY74XKfg6b4DMkI5ty6zDpxy6e0hVyqenuXylU2_1BT4RskzCkO5OLgmkJJeeDQHRrnFR5NNKAP-mcf0=w1280",
+          "placement": "image"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2025",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQcmFFE7wZpxai1pTiz4_raiGXqgbokS-w20n2ogLNWoanNuFBgkTL34VgIIvUq9nwS3aIjiZrN-W_0oPPmL8mQtaviuXgC1YD6vw2I3-UFTVccOQ8ikBIOOSmAzgb3Fqme1E3kEHOtK2627U68CBI0HxkdZY74XKfg6b4DMkI5ty6zDpxy6e0hVyqenuXylU2_1BT4RskzCkO5OLgmkJJeeDQHRrnFR5NNKAP-mcf0=w1280",
+          "placement": "image"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2026",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQcmFFE7wZpxai1pTiz4_raiGXqgbokS-w20n2ogLNWoanNuFBgkTL34VgIIvUq9nwS3aIjiZrN-W_0oPPmL8mQtaviuXgC1YD6vw2I3-UFTVccOQ8ikBIOOSmAzgb3Fqme1E3kEHOtK2627U68CBI0HxkdZY74XKfg6b4DMkI5ty6zDpxy6e0hVyqenuXylU2_1BT4RskzCkO5OLgmkJJeeDQHRrnFR5NNKAP-mcf0=w1280",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "ac40eafb1edfee83ff25",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQfl7KA-EkTh1WTVsFjvRIWKv3Ry0Epfh09JEDMjj8CP7_UrVPHF8tXIuJOVXF3cI7VnXDYbvOj4wtnZk-0fihy589T6ZYcmHJjbsQ47QvpyDn6tLn0Z8Zi__ICLwJSX3HVeqs6GisR9o2MXKP4J9g2wezQXyOzHRh027HZiOtRcXo8pftW0Oqd7v6erCN2k9lkXb4Z8MPr20tDBFAsdo9CyhR04J-KyGKYHLVe4wCs=w1280",
+      "local": "/media/ac40eafb1edfee83ff25.jpg",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQfl7KA-EkTh1WTVsFjvRIWKv3Ry0Epfh09JEDMjj8CP7_UrVPHF8tXIuJOVXF3cI7VnXDYbvOj4wtnZk-0fihy589T6ZYcmHJjbsQ47QvpyDn6tLn0Z8Zi__ICLwJSX3HVeqs6GisR9o2MXKP4J9g2wezQXyOzHRh027HZiOtRcXo8pftW0Oqd7v6erCN2k9lkXb4Z8MPr20tDBFAsdo9CyhR04J-KyGKYHLVe4wCs=w1280",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "0d74c01c271e638b9eae",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQd-rI_LV2hFFB52K4PyuQgR13-B1WaiRiBs_ShRb0cT0it0RpHc6Oppvl0QYdLccXhVk6Iu5CgHJfZmyu0_iDwuPnnFhO4L7KTC_fc52QoP5FTTrW9PcO9Af0zsmAQbQcqKGcPKWVDODjXxlqxE2lX1A33T1x5qz3GFS_IypQSou5R5N_Nqfmb4KpYDLZU=w1280",
+      "local": "/media/0d74c01c271e638b9eae.jpg",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQd-rI_LV2hFFB52K4PyuQgR13-B1WaiRiBs_ShRb0cT0it0RpHc6Oppvl0QYdLccXhVk6Iu5CgHJfZmyu0_iDwuPnnFhO4L7KTC_fc52QoP5FTTrW9PcO9Af0zsmAQbQcqKGcPKWVDODjXxlqxE2lX1A33T1x5qz3GFS_IypQSou5R5N_Nqfmb4KpYDLZU=w1280",
+          "placement": "image"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2024",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQd-rI_LV2hFFB52K4PyuQgR13-B1WaiRiBs_ShRb0cT0it0RpHc6Oppvl0QYdLccXhVk6Iu5CgHJfZmyu0_iDwuPnnFhO4L7KTC_fc52QoP5FTTrW9PcO9Af0zsmAQbQcqKGcPKWVDODjXxlqxE2lX1A33T1x5qz3GFS_IypQSou5R5N_Nqfmb4KpYDLZU=w1280",
+          "placement": "image"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2025",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQd-rI_LV2hFFB52K4PyuQgR13-B1WaiRiBs_ShRb0cT0it0RpHc6Oppvl0QYdLccXhVk6Iu5CgHJfZmyu0_iDwuPnnFhO4L7KTC_fc52QoP5FTTrW9PcO9Af0zsmAQbQcqKGcPKWVDODjXxlqxE2lX1A33T1x5qz3GFS_IypQSou5R5N_Nqfmb4KpYDLZU=w1280",
+          "placement": "image"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2025/tutorial-2025",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQd-rI_LV2hFFB52K4PyuQgR13-B1WaiRiBs_ShRb0cT0it0RpHc6Oppvl0QYdLccXhVk6Iu5CgHJfZmyu0_iDwuPnnFhO4L7KTC_fc52QoP5FTTrW9PcO9Af0zsmAQbQcqKGcPKWVDODjXxlqxE2lX1A33T1x5qz3GFS_IypQSou5R5N_Nqfmb4KpYDLZU=w1280",
+          "placement": "image"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2026",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQd-rI_LV2hFFB52K4PyuQgR13-B1WaiRiBs_ShRb0cT0it0RpHc6Oppvl0QYdLccXhVk6Iu5CgHJfZmyu0_iDwuPnnFhO4L7KTC_fc52QoP5FTTrW9PcO9Af0zsmAQbQcqKGcPKWVDODjXxlqxE2lX1A33T1x5qz3GFS_IypQSou5R5N_Nqfmb4KpYDLZU=w1280",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "736599486be672a94e3c",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQeIXGSAsUA16rN-4Wv3edvxn0q2y_v-EyEdQAYfuBBYcpG-zrFFq0alk5Wmsi6lrNviRQjKx6krFe9RCn_lIRpyzYH3z1Ix2kdhlAAAMSwBvXT9E5RJkvDMschJEn5im8SOY-Ry3r2kWYJ71J1Fd7yW8LSXbHUOjYm_OzJ9fcLKvUgFbt0I7We03cHzWxE=w1280",
+      "local": "/media/736599486be672a94e3c.png",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQeIXGSAsUA16rN-4Wv3edvxn0q2y_v-EyEdQAYfuBBYcpG-zrFFq0alk5Wmsi6lrNviRQjKx6krFe9RCn_lIRpyzYH3z1Ix2kdhlAAAMSwBvXT9E5RJkvDMschJEn5im8SOY-Ry3r2kWYJ71J1Fd7yW8LSXbHUOjYm_OzJ9fcLKvUgFbt0I7We03cHzWxE=w1280",
+          "placement": "image"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2023",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQeIXGSAsUA16rN-4Wv3edvxn0q2y_v-EyEdQAYfuBBYcpG-zrFFq0alk5Wmsi6lrNviRQjKx6krFe9RCn_lIRpyzYH3z1Ix2kdhlAAAMSwBvXT9E5RJkvDMschJEn5im8SOY-Ry3r2kWYJ71J1Fd7yW8LSXbHUOjYm_OzJ9fcLKvUgFbt0I7We03cHzWxE=w1280",
+          "placement": "image"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2024",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQeIXGSAsUA16rN-4Wv3edvxn0q2y_v-EyEdQAYfuBBYcpG-zrFFq0alk5Wmsi6lrNviRQjKx6krFe9RCn_lIRpyzYH3z1Ix2kdhlAAAMSwBvXT9E5RJkvDMschJEn5im8SOY-Ry3r2kWYJ71J1Fd7yW8LSXbHUOjYm_OzJ9fcLKvUgFbt0I7We03cHzWxE=w1280",
+          "placement": "image"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2025",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQeIXGSAsUA16rN-4Wv3edvxn0q2y_v-EyEdQAYfuBBYcpG-zrFFq0alk5Wmsi6lrNviRQjKx6krFe9RCn_lIRpyzYH3z1Ix2kdhlAAAMSwBvXT9E5RJkvDMschJEn5im8SOY-Ry3r2kWYJ71J1Fd7yW8LSXbHUOjYm_OzJ9fcLKvUgFbt0I7We03cHzWxE=w1280",
+          "placement": "image"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2025/tutorial-2025",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQeIXGSAsUA16rN-4Wv3edvxn0q2y_v-EyEdQAYfuBBYcpG-zrFFq0alk5Wmsi6lrNviRQjKx6krFe9RCn_lIRpyzYH3z1Ix2kdhlAAAMSwBvXT9E5RJkvDMschJEn5im8SOY-Ry3r2kWYJ71J1Fd7yW8LSXbHUOjYm_OzJ9fcLKvUgFbt0I7We03cHzWxE=w1280",
+          "placement": "image"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2026",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQeIXGSAsUA16rN-4Wv3edvxn0q2y_v-EyEdQAYfuBBYcpG-zrFFq0alk5Wmsi6lrNviRQjKx6krFe9RCn_lIRpyzYH3z1Ix2kdhlAAAMSwBvXT9E5RJkvDMschJEn5im8SOY-Ry3r2kWYJ71J1Fd7yW8LSXbHUOjYm_OzJ9fcLKvUgFbt0I7We03cHzWxE=w1280",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "93ad41296331b083bcee",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQc9ynxUtESKHjAzLUejopjeGqFKCVgFrrBVDuw32nYcRrt0jP81MhuaacpV7S4DLR6UXhK7Kn1493bHet9xOatQUzH6CWYLVC6gmoBic6dFYE9D8XUWbC1TZ66lfUUQ-9Ch4igXSMewKeUi6WvHtRc0p_TxOWLNsx-76QCdOImkWfhZyh3J_KCXRxXkXJSz-_sJ8qXogmDFPU0NIsejp-tZZjHQ3V0DGJtb7ik7mrQ=w1280",
+      "local": "/media/93ad41296331b083bcee.png",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQc9ynxUtESKHjAzLUejopjeGqFKCVgFrrBVDuw32nYcRrt0jP81MhuaacpV7S4DLR6UXhK7Kn1493bHet9xOatQUzH6CWYLVC6gmoBic6dFYE9D8XUWbC1TZ66lfUUQ-9Ch4igXSMewKeUi6WvHtRc0p_TxOWLNsx-76QCdOImkWfhZyh3J_KCXRxXkXJSz-_sJ8qXogmDFPU0NIsejp-tZZjHQ3V0DGJtb7ik7mrQ=w1280",
+          "placement": "image"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2026",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQc9ynxUtESKHjAzLUejopjeGqFKCVgFrrBVDuw32nYcRrt0jP81MhuaacpV7S4DLR6UXhK7Kn1493bHet9xOatQUzH6CWYLVC6gmoBic6dFYE9D8XUWbC1TZ66lfUUQ-9Ch4igXSMewKeUi6WvHtRc0p_TxOWLNsx-76QCdOImkWfhZyh3J_KCXRxXkXJSz-_sJ8qXogmDFPU0NIsejp-tZZjHQ3V0DGJtb7ik7mrQ=w1280",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "ea70f3e9d739269c924c",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQdTY6GG65SfKcBHdGYNhR2dL65Qf6sN_7ip1mcV1X8gI6fAq_tFf3qRqJ8KdhgYSBHkpOBCWsExnS8FjEOvKtHNrD6vrKl4oUKzX1pIkBMHrqs_WjFO-tey2q7ndApKhYyL9VAD8uejuXlfT65DyKyxUwC0EGKMxUhc-xQknoyEMLY878UPc9bTzAy5-y8XaoINfZoLsXK1z9YWlgvdlWYGMvNgviqnedH8Fq9YnUk=w1280",
+      "local": "/media/ea70f3e9d739269c924c.jpg",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQdTY6GG65SfKcBHdGYNhR2dL65Qf6sN_7ip1mcV1X8gI6fAq_tFf3qRqJ8KdhgYSBHkpOBCWsExnS8FjEOvKtHNrD6vrKl4oUKzX1pIkBMHrqs_WjFO-tey2q7ndApKhYyL9VAD8uejuXlfT65DyKyxUwC0EGKMxUhc-xQknoyEMLY878UPc9bTzAy5-y8XaoINfZoLsXK1z9YWlgvdlWYGMvNgviqnedH8Fq9YnUk=w1280",
+          "placement": "image"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2024",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQdTY6GG65SfKcBHdGYNhR2dL65Qf6sN_7ip1mcV1X8gI6fAq_tFf3qRqJ8KdhgYSBHkpOBCWsExnS8FjEOvKtHNrD6vrKl4oUKzX1pIkBMHrqs_WjFO-tey2q7ndApKhYyL9VAD8uejuXlfT65DyKyxUwC0EGKMxUhc-xQknoyEMLY878UPc9bTzAy5-y8XaoINfZoLsXK1z9YWlgvdlWYGMvNgviqnedH8Fq9YnUk=w1280",
+          "placement": "image"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2025",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQdTY6GG65SfKcBHdGYNhR2dL65Qf6sN_7ip1mcV1X8gI6fAq_tFf3qRqJ8KdhgYSBHkpOBCWsExnS8FjEOvKtHNrD6vrKl4oUKzX1pIkBMHrqs_WjFO-tey2q7ndApKhYyL9VAD8uejuXlfT65DyKyxUwC0EGKMxUhc-xQknoyEMLY878UPc9bTzAy5-y8XaoINfZoLsXK1z9YWlgvdlWYGMvNgviqnedH8Fq9YnUk=w1280",
+          "placement": "image"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2026",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQdTY6GG65SfKcBHdGYNhR2dL65Qf6sN_7ip1mcV1X8gI6fAq_tFf3qRqJ8KdhgYSBHkpOBCWsExnS8FjEOvKtHNrD6vrKl4oUKzX1pIkBMHrqs_WjFO-tey2q7ndApKhYyL9VAD8uejuXlfT65DyKyxUwC0EGKMxUhc-xQknoyEMLY878UPc9bTzAy5-y8XaoINfZoLsXK1z9YWlgvdlWYGMvNgviqnedH8Fq9YnUk=w1280",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "013e5151c85f95c87a36",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQfQfNeRJJYTaXvGYZs4JdFtLvFOw1bPNCOeHqq3dtmN1zsn7Ky0hy4uotncnFnfKz7QhnxUKWaHWcNYiGyIzAyocK2IrCbkGD1NMt35TGomMGnhWuW6tLH1PlB6CdbtUa4TESoUfh70-VdpzkyUT9nwxJalLTDuO1OtqNnZfzSyxWSiHnvpJ6SYNwSVLRR3kvNpKgyWrZUhBkj9eki-MIqWePfFw6xaSHHW4wyzpMU=w1280",
+      "local": "/media/013e5151c85f95c87a36.jpg",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQfQfNeRJJYTaXvGYZs4JdFtLvFOw1bPNCOeHqq3dtmN1zsn7Ky0hy4uotncnFnfKz7QhnxUKWaHWcNYiGyIzAyocK2IrCbkGD1NMt35TGomMGnhWuW6tLH1PlB6CdbtUa4TESoUfh70-VdpzkyUT9nwxJalLTDuO1OtqNnZfzSyxWSiHnvpJ6SYNwSVLRR3kvNpKgyWrZUhBkj9eki-MIqWePfFw6xaSHHW4wyzpMU=w1280",
+          "placement": "image"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2024",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQfQfNeRJJYTaXvGYZs4JdFtLvFOw1bPNCOeHqq3dtmN1zsn7Ky0hy4uotncnFnfKz7QhnxUKWaHWcNYiGyIzAyocK2IrCbkGD1NMt35TGomMGnhWuW6tLH1PlB6CdbtUa4TESoUfh70-VdpzkyUT9nwxJalLTDuO1OtqNnZfzSyxWSiHnvpJ6SYNwSVLRR3kvNpKgyWrZUhBkj9eki-MIqWePfFw6xaSHHW4wyzpMU=w1280",
+          "placement": "image"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2025",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQfQfNeRJJYTaXvGYZs4JdFtLvFOw1bPNCOeHqq3dtmN1zsn7Ky0hy4uotncnFnfKz7QhnxUKWaHWcNYiGyIzAyocK2IrCbkGD1NMt35TGomMGnhWuW6tLH1PlB6CdbtUa4TESoUfh70-VdpzkyUT9nwxJalLTDuO1OtqNnZfzSyxWSiHnvpJ6SYNwSVLRR3kvNpKgyWrZUhBkj9eki-MIqWePfFw6xaSHHW4wyzpMU=w1280",
+          "placement": "image"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2026",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQfQfNeRJJYTaXvGYZs4JdFtLvFOw1bPNCOeHqq3dtmN1zsn7Ky0hy4uotncnFnfKz7QhnxUKWaHWcNYiGyIzAyocK2IrCbkGD1NMt35TGomMGnhWuW6tLH1PlB6CdbtUa4TESoUfh70-VdpzkyUT9nwxJalLTDuO1OtqNnZfzSyxWSiHnvpJ6SYNwSVLRR3kvNpKgyWrZUhBkj9eki-MIqWePfFw6xaSHHW4wyzpMU=w1280",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "b119f6583385fd9bd1ca",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQdYuKXp2JtgexiFwzfsYehsT6sTDomTp9rjq8sMI7T3pwceWjdMCNlX4Yv2zzYcC1aCw7F0GYZrYssI5ajW3eUBdQBqLGNVCEILyY-kvqZC7mWBoftsmlUJ8m1QZka1lUMJuwBy16p8Tu9IKL6QgNEzxkTfsoYXq4EeOP0FE8ChEyGoVCzqopa6S1se=w1280",
+      "local": "/media/b119f6583385fd9bd1ca.jpg",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQdYuKXp2JtgexiFwzfsYehsT6sTDomTp9rjq8sMI7T3pwceWjdMCNlX4Yv2zzYcC1aCw7F0GYZrYssI5ajW3eUBdQBqLGNVCEILyY-kvqZC7mWBoftsmlUJ8m1QZka1lUMJuwBy16p8Tu9IKL6QgNEzxkTfsoYXq4EeOP0FE8ChEyGoVCzqopa6S1se=w1280",
+          "placement": "image"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2025",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQdYuKXp2JtgexiFwzfsYehsT6sTDomTp9rjq8sMI7T3pwceWjdMCNlX4Yv2zzYcC1aCw7F0GYZrYssI5ajW3eUBdQBqLGNVCEILyY-kvqZC7mWBoftsmlUJ8m1QZka1lUMJuwBy16p8Tu9IKL6QgNEzxkTfsoYXq4EeOP0FE8ChEyGoVCzqopa6S1se=w1280",
+          "placement": "image"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2026",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQdYuKXp2JtgexiFwzfsYehsT6sTDomTp9rjq8sMI7T3pwceWjdMCNlX4Yv2zzYcC1aCw7F0GYZrYssI5ajW3eUBdQBqLGNVCEILyY-kvqZC7mWBoftsmlUJ8m1QZka1lUMJuwBy16p8Tu9IKL6QgNEzxkTfsoYXq4EeOP0FE8ChEyGoVCzqopa6S1se=w1280",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "35acbaf521f4baad4019",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQfpwpjqLmP5Tdta5XaJuOR_e1SZ14gbGTs_ERcKhmSXme8_mHlvG_wbYX9DTv3oMLQ3XqwQTcew6XqsbajhUuZWUHGJSRO4WUlIpZgHo9yL23hCF6MECokDzRsR4lKTmGNlto9jkkbM_TWCydvCgwEZlAuXf1YVLzOWmGm0_GW04TILyrhazBmyzzHtJeZ49lS5khZFYga6nUaS33ZGZnUyoJBnfuuwyQ5OjAYw=w1280",
+      "local": "/media/35acbaf521f4baad4019.jpg",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQfpwpjqLmP5Tdta5XaJuOR_e1SZ14gbGTs_ERcKhmSXme8_mHlvG_wbYX9DTv3oMLQ3XqwQTcew6XqsbajhUuZWUHGJSRO4WUlIpZgHo9yL23hCF6MECokDzRsR4lKTmGNlto9jkkbM_TWCydvCgwEZlAuXf1YVLzOWmGm0_GW04TILyrhazBmyzzHtJeZ49lS5khZFYga6nUaS33ZGZnUyoJBnfuuwyQ5OjAYw=w1280",
+          "placement": "image"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2023",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQfpwpjqLmP5Tdta5XaJuOR_e1SZ14gbGTs_ERcKhmSXme8_mHlvG_wbYX9DTv3oMLQ3XqwQTcew6XqsbajhUuZWUHGJSRO4WUlIpZgHo9yL23hCF6MECokDzRsR4lKTmGNlto9jkkbM_TWCydvCgwEZlAuXf1YVLzOWmGm0_GW04TILyrhazBmyzzHtJeZ49lS5khZFYga6nUaS33ZGZnUyoJBnfuuwyQ5OjAYw=w1280",
+          "placement": "image"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2024",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQfpwpjqLmP5Tdta5XaJuOR_e1SZ14gbGTs_ERcKhmSXme8_mHlvG_wbYX9DTv3oMLQ3XqwQTcew6XqsbajhUuZWUHGJSRO4WUlIpZgHo9yL23hCF6MECokDzRsR4lKTmGNlto9jkkbM_TWCydvCgwEZlAuXf1YVLzOWmGm0_GW04TILyrhazBmyzzHtJeZ49lS5khZFYga6nUaS33ZGZnUyoJBnfuuwyQ5OjAYw=w1280",
+          "placement": "image"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2025",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQfpwpjqLmP5Tdta5XaJuOR_e1SZ14gbGTs_ERcKhmSXme8_mHlvG_wbYX9DTv3oMLQ3XqwQTcew6XqsbajhUuZWUHGJSRO4WUlIpZgHo9yL23hCF6MECokDzRsR4lKTmGNlto9jkkbM_TWCydvCgwEZlAuXf1YVLzOWmGm0_GW04TILyrhazBmyzzHtJeZ49lS5khZFYga6nUaS33ZGZnUyoJBnfuuwyQ5OjAYw=w1280",
+          "placement": "image"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2026",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQfpwpjqLmP5Tdta5XaJuOR_e1SZ14gbGTs_ERcKhmSXme8_mHlvG_wbYX9DTv3oMLQ3XqwQTcew6XqsbajhUuZWUHGJSRO4WUlIpZgHo9yL23hCF6MECokDzRsR4lKTmGNlto9jkkbM_TWCydvCgwEZlAuXf1YVLzOWmGm0_GW04TILyrhazBmyzzHtJeZ49lS5khZFYga6nUaS33ZGZnUyoJBnfuuwyQ5OjAYw=w1280",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "5679e16da8e6d7ba9159",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQc9i_I2Hu-pa7VtMGBOru4l_Y9YllNMoN-80A9YAcZ4MDDantKg-DrINbWEFUYqMDppwDrZCgp9PzlmSRuBF0esP6d-m5HcG8IajWQSLGRYXlIlaDyBc4fIlbHE1uFG9Ib-TDPDV2aFUk7i_J2_Oi3L-PHWS5v92Ufzjc4aXwy12SZ19SnOWFodgqAwpZvJ4lODdctSnEbg9H5By1ewYbg2OGm-puQznRi2hnItWMY=w1280",
+      "local": "/media/5679e16da8e6d7ba9159.jpg",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQc9i_I2Hu-pa7VtMGBOru4l_Y9YllNMoN-80A9YAcZ4MDDantKg-DrINbWEFUYqMDppwDrZCgp9PzlmSRuBF0esP6d-m5HcG8IajWQSLGRYXlIlaDyBc4fIlbHE1uFG9Ib-TDPDV2aFUk7i_J2_Oi3L-PHWS5v92Ufzjc4aXwy12SZ19SnOWFodgqAwpZvJ4lODdctSnEbg9H5By1ewYbg2OGm-puQznRi2hnItWMY=w1280",
+          "placement": "image"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2024",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQc9i_I2Hu-pa7VtMGBOru4l_Y9YllNMoN-80A9YAcZ4MDDantKg-DrINbWEFUYqMDppwDrZCgp9PzlmSRuBF0esP6d-m5HcG8IajWQSLGRYXlIlaDyBc4fIlbHE1uFG9Ib-TDPDV2aFUk7i_J2_Oi3L-PHWS5v92Ufzjc4aXwy12SZ19SnOWFodgqAwpZvJ4lODdctSnEbg9H5By1ewYbg2OGm-puQznRi2hnItWMY=w1280",
+          "placement": "image"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2025",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQc9i_I2Hu-pa7VtMGBOru4l_Y9YllNMoN-80A9YAcZ4MDDantKg-DrINbWEFUYqMDppwDrZCgp9PzlmSRuBF0esP6d-m5HcG8IajWQSLGRYXlIlaDyBc4fIlbHE1uFG9Ib-TDPDV2aFUk7i_J2_Oi3L-PHWS5v92Ufzjc4aXwy12SZ19SnOWFodgqAwpZvJ4lODdctSnEbg9H5By1ewYbg2OGm-puQznRi2hnItWMY=w1280",
+          "placement": "image"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2026",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQc9i_I2Hu-pa7VtMGBOru4l_Y9YllNMoN-80A9YAcZ4MDDantKg-DrINbWEFUYqMDppwDrZCgp9PzlmSRuBF0esP6d-m5HcG8IajWQSLGRYXlIlaDyBc4fIlbHE1uFG9Ib-TDPDV2aFUk7i_J2_Oi3L-PHWS5v92Ufzjc4aXwy12SZ19SnOWFodgqAwpZvJ4lODdctSnEbg9H5By1ewYbg2OGm-puQznRi2hnItWMY=w1280",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "909597013af4e37f72c0",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQfzM5YnIdFosj6sutKyY4bxYlWiHMK6tLEd4dfJmd4cV8144d1ummiMtdmY0YnVcK1cPzJbJP0E0Z40SGcjC2U0PyQewB9vyVXt_b_o02S7V2VAnU9D_ITzVT0S6_8OjdxxWtuuG_KQeqgTPQ_bRWpDPXSGa8gAzQVUQ6eei9oKndJkZ5GogTrLMKcGmc0xJpV_lniPJncYXKl9a-6sZKwGF-ezMl0g24Wy5UkSVUE=w1280",
+      "local": "/media/909597013af4e37f72c0.jpg",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQfzM5YnIdFosj6sutKyY4bxYlWiHMK6tLEd4dfJmd4cV8144d1ummiMtdmY0YnVcK1cPzJbJP0E0Z40SGcjC2U0PyQewB9vyVXt_b_o02S7V2VAnU9D_ITzVT0S6_8OjdxxWtuuG_KQeqgTPQ_bRWpDPXSGa8gAzQVUQ6eei9oKndJkZ5GogTrLMKcGmc0xJpV_lniPJncYXKl9a-6sZKwGF-ezMl0g24Wy5UkSVUE=w1280",
+          "placement": "image"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2024",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQfzM5YnIdFosj6sutKyY4bxYlWiHMK6tLEd4dfJmd4cV8144d1ummiMtdmY0YnVcK1cPzJbJP0E0Z40SGcjC2U0PyQewB9vyVXt_b_o02S7V2VAnU9D_ITzVT0S6_8OjdxxWtuuG_KQeqgTPQ_bRWpDPXSGa8gAzQVUQ6eei9oKndJkZ5GogTrLMKcGmc0xJpV_lniPJncYXKl9a-6sZKwGF-ezMl0g24Wy5UkSVUE=w1280",
+          "placement": "image"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2025",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQfzM5YnIdFosj6sutKyY4bxYlWiHMK6tLEd4dfJmd4cV8144d1ummiMtdmY0YnVcK1cPzJbJP0E0Z40SGcjC2U0PyQewB9vyVXt_b_o02S7V2VAnU9D_ITzVT0S6_8OjdxxWtuuG_KQeqgTPQ_bRWpDPXSGa8gAzQVUQ6eei9oKndJkZ5GogTrLMKcGmc0xJpV_lniPJncYXKl9a-6sZKwGF-ezMl0g24Wy5UkSVUE=w1280",
+          "placement": "image"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2026",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQfzM5YnIdFosj6sutKyY4bxYlWiHMK6tLEd4dfJmd4cV8144d1ummiMtdmY0YnVcK1cPzJbJP0E0Z40SGcjC2U0PyQewB9vyVXt_b_o02S7V2VAnU9D_ITzVT0S6_8OjdxxWtuuG_KQeqgTPQ_bRWpDPXSGa8gAzQVUQ6eei9oKndJkZ5GogTrLMKcGmc0xJpV_lniPJncYXKl9a-6sZKwGF-ezMl0g24Wy5UkSVUE=w1280",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "66e04f554f7396c12297",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQdjEAuNw3sZjpqDEUiYrVQxOxIZX_koDB0CrjCaD4BD4Kf9JB-GNWWKRU7uG0fpUvtzcCcWxemMAK2UINFMQkOULjicrMowwVBnwaFQDYkgEq2oK9V07cZ-ck2lti0MJAB8hoMSRVJ1Z-tFrADINlMquGBNK2cy9L4ZJNFfv2qhFa_nra96jlkXaOb8MJk9Yqp_iCMkWlGRddREwYh0sNiaJAfapf3BtKXwqQOYvIs=w1280",
+      "local": "/media/66e04f554f7396c12297.png",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQdjEAuNw3sZjpqDEUiYrVQxOxIZX_koDB0CrjCaD4BD4Kf9JB-GNWWKRU7uG0fpUvtzcCcWxemMAK2UINFMQkOULjicrMowwVBnwaFQDYkgEq2oK9V07cZ-ck2lti0MJAB8hoMSRVJ1Z-tFrADINlMquGBNK2cy9L4ZJNFfv2qhFa_nra96jlkXaOb8MJk9Yqp_iCMkWlGRddREwYh0sNiaJAfapf3BtKXwqQOYvIs=w1280",
+          "placement": "image"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2025",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQdjEAuNw3sZjpqDEUiYrVQxOxIZX_koDB0CrjCaD4BD4Kf9JB-GNWWKRU7uG0fpUvtzcCcWxemMAK2UINFMQkOULjicrMowwVBnwaFQDYkgEq2oK9V07cZ-ck2lti0MJAB8hoMSRVJ1Z-tFrADINlMquGBNK2cy9L4ZJNFfv2qhFa_nra96jlkXaOb8MJk9Yqp_iCMkWlGRddREwYh0sNiaJAfapf3BtKXwqQOYvIs=w1280",
+          "placement": "image"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2025/tutorial-2025",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQdjEAuNw3sZjpqDEUiYrVQxOxIZX_koDB0CrjCaD4BD4Kf9JB-GNWWKRU7uG0fpUvtzcCcWxemMAK2UINFMQkOULjicrMowwVBnwaFQDYkgEq2oK9V07cZ-ck2lti0MJAB8hoMSRVJ1Z-tFrADINlMquGBNK2cy9L4ZJNFfv2qhFa_nra96jlkXaOb8MJk9Yqp_iCMkWlGRddREwYh0sNiaJAfapf3BtKXwqQOYvIs=w1280",
+          "placement": "image"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2026",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQdjEAuNw3sZjpqDEUiYrVQxOxIZX_koDB0CrjCaD4BD4Kf9JB-GNWWKRU7uG0fpUvtzcCcWxemMAK2UINFMQkOULjicrMowwVBnwaFQDYkgEq2oK9V07cZ-ck2lti0MJAB8hoMSRVJ1Z-tFrADINlMquGBNK2cy9L4ZJNFfv2qhFa_nra96jlkXaOb8MJk9Yqp_iCMkWlGRddREwYh0sNiaJAfapf3BtKXwqQOYvIs=w1280",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "4f59a3c0f77e2315032d",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQeAF3n3joOs1JMcTj28MouIsIIuoUMDRGCH15BAvX350Ufc5Ap2P8PT1QpMnODY051YEplEBrQZcYWXORy86nZioGKCW1gdWLbCgTSBHgXlcfr3nzGUbB8YnvXoVFK9nu-YLJ2WAlXy_hgCamSdOerkGo5IhNLm_076Z9DaETx-chv2I0rTbuTN7S2y0xmbRGYG_ltFrtHGep2kfgs=w1280",
+      "local": "/media/4f59a3c0f77e2315032d.jpg",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2020",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQeAF3n3joOs1JMcTj28MouIsIIuoUMDRGCH15BAvX350Ufc5Ap2P8PT1QpMnODY051YEplEBrQZcYWXORy86nZioGKCW1gdWLbCgTSBHgXlcfr3nzGUbB8YnvXoVFK9nu-YLJ2WAlXy_hgCamSdOerkGo5IhNLm_076Z9DaETx-chv2I0rTbuTN7S2y0xmbRGYG_ltFrtHGep2kfgs=w1280",
+          "placement": "image"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2021",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQeAF3n3joOs1JMcTj28MouIsIIuoUMDRGCH15BAvX350Ufc5Ap2P8PT1QpMnODY051YEplEBrQZcYWXORy86nZioGKCW1gdWLbCgTSBHgXlcfr3nzGUbB8YnvXoVFK9nu-YLJ2WAlXy_hgCamSdOerkGo5IhNLm_076Z9DaETx-chv2I0rTbuTN7S2y0xmbRGYG_ltFrtHGep2kfgs=w1280",
+          "placement": "image"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2022",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQeAF3n3joOs1JMcTj28MouIsIIuoUMDRGCH15BAvX350Ufc5Ap2P8PT1QpMnODY051YEplEBrQZcYWXORy86nZioGKCW1gdWLbCgTSBHgXlcfr3nzGUbB8YnvXoVFK9nu-YLJ2WAlXy_hgCamSdOerkGo5IhNLm_076Z9DaETx-chv2I0rTbuTN7S2y0xmbRGYG_ltFrtHGep2kfgs=w1280",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "a4701096bf326619292f",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQc5ahbFpU1C_5dEwwor8RwJAzItEc2VWuKQ361P1BMWWu0yo27VZxphH2j9gltPnyRUm5eY5v70a25DsH4O945Bb07mQQZFlAJKOVwt35B0RNhEui0-7hPHxccNyR0BN7ft6cQXz8hi3SPHpRJbbudJGB1j4jrAs4-5=w1280",
+      "local": "/media/a4701096bf326619292f.png",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2020",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQc5ahbFpU1C_5dEwwor8RwJAzItEc2VWuKQ361P1BMWWu0yo27VZxphH2j9gltPnyRUm5eY5v70a25DsH4O945Bb07mQQZFlAJKOVwt35B0RNhEui0-7hPHxccNyR0BN7ft6cQXz8hi3SPHpRJbbudJGB1j4jrAs4-5=w1280",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "18a0c8ef57fabe58eb96",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQf5QHSfucNKYsTJ9xR94nTjBa9YGiQ2tO0EpwYlPGSU9mnlR43cGEsrotQrEm89IaQUFS3pqExpCsPH-tSmPTUWN80lF30UN8FV6aJSxRMbrhgzb3moU0pmuNUV5pwIkJ6Rs_VXI2qycdEPYPrX_JHIdyA3L4W2hgXKh-l2OI0NoSb2wveeEHRVYloNemzB-zBa2jrvNMT3bvkA1eE=w1280",
+      "local": "/media/18a0c8ef57fabe58eb96.jpg",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2020",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQf5QHSfucNKYsTJ9xR94nTjBa9YGiQ2tO0EpwYlPGSU9mnlR43cGEsrotQrEm89IaQUFS3pqExpCsPH-tSmPTUWN80lF30UN8FV6aJSxRMbrhgzb3moU0pmuNUV5pwIkJ6Rs_VXI2qycdEPYPrX_JHIdyA3L4W2hgXKh-l2OI0NoSb2wveeEHRVYloNemzB-zBa2jrvNMT3bvkA1eE=w1280",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "e563ddf3c38c621bba57",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQd8EB4Eh9LZyQIfyo_zmKvODRKkmKc11WGWtn3jAgigtzICcnk4C_u_XV17FzCIM8kZD8X7GduoONki1G1o7dgWen8Mj4Vd-pKpWbW7NK2FtkK8YUfCaXqgU4AEUK-w8121IoUmxbh2H5NVc60iihDQ3rlrCGduZCpGlPfNaXz89p_PwVjDDVcq8akz0pY5lalZ-7xoOnNq81PHckw=w1280",
+      "local": "/media/e563ddf3c38c621bba57.jpg",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2020",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQd8EB4Eh9LZyQIfyo_zmKvODRKkmKc11WGWtn3jAgigtzICcnk4C_u_XV17FzCIM8kZD8X7GduoONki1G1o7dgWen8Mj4Vd-pKpWbW7NK2FtkK8YUfCaXqgU4AEUK-w8121IoUmxbh2H5NVc60iihDQ3rlrCGduZCpGlPfNaXz89p_PwVjDDVcq8akz0pY5lalZ-7xoOnNq81PHckw=w1280",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "dd222e4f63f66b87303c",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQfXRbDDDVdnJoFsAJDiBJoX4UXKrs9hb5OPtoCExP-j9XZfdFTOO269kVjL0v5TfpYFN_ggc-75UcZ1wb7i-LsdOJUYxwbOCuyTFT7yD81XziBQTIJIbM4-qMJZlq8j3TNIhAkyEB5G9Mxg8GDNGDjpbtbwS-gE4dVa2P5sgIxRXgy5NyetHhOtzcL92kLjWabKE4bRWAJqByOJgXI=w1280",
+      "local": "/media/dd222e4f63f66b87303c.jpg",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2020",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQfXRbDDDVdnJoFsAJDiBJoX4UXKrs9hb5OPtoCExP-j9XZfdFTOO269kVjL0v5TfpYFN_ggc-75UcZ1wb7i-LsdOJUYxwbOCuyTFT7yD81XziBQTIJIbM4-qMJZlq8j3TNIhAkyEB5G9Mxg8GDNGDjpbtbwS-gE4dVa2P5sgIxRXgy5NyetHhOtzcL92kLjWabKE4bRWAJqByOJgXI=w1280",
+          "placement": "image"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2021",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQfXRbDDDVdnJoFsAJDiBJoX4UXKrs9hb5OPtoCExP-j9XZfdFTOO269kVjL0v5TfpYFN_ggc-75UcZ1wb7i-LsdOJUYxwbOCuyTFT7yD81XziBQTIJIbM4-qMJZlq8j3TNIhAkyEB5G9Mxg8GDNGDjpbtbwS-gE4dVa2P5sgIxRXgy5NyetHhOtzcL92kLjWabKE4bRWAJqByOJgXI=w1280",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "184146d5c120a9bed33d",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQei3I6v9LOdX3ORv2mzXGXBso6pqDUY4XeFYbmAxK4nY_jQyzk2ZUosGBGRANh-xGy9jh0ARQoiRIOBT0uIXaW80Y5w8KBN-ZjcL8dQBqdNA9um1CGkZTFJ1C6kdh85X9avDvTbTYAcqcpMKOOXFB7GRGo5RnAEBQnHn2kS7w54LqSHF4r117t99s7YuzyJGTjMgMFAJfbuHZyj=w1280",
+      "local": "/media/184146d5c120a9bed33d.jpg",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2020",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQei3I6v9LOdX3ORv2mzXGXBso6pqDUY4XeFYbmAxK4nY_jQyzk2ZUosGBGRANh-xGy9jh0ARQoiRIOBT0uIXaW80Y5w8KBN-ZjcL8dQBqdNA9um1CGkZTFJ1C6kdh85X9avDvTbTYAcqcpMKOOXFB7GRGo5RnAEBQnHn2kS7w54LqSHF4r117t99s7YuzyJGTjMgMFAJfbuHZyj=w1280",
+          "placement": "image"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2021",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQei3I6v9LOdX3ORv2mzXGXBso6pqDUY4XeFYbmAxK4nY_jQyzk2ZUosGBGRANh-xGy9jh0ARQoiRIOBT0uIXaW80Y5w8KBN-ZjcL8dQBqdNA9um1CGkZTFJ1C6kdh85X9avDvTbTYAcqcpMKOOXFB7GRGo5RnAEBQnHn2kS7w54LqSHF4r117t99s7YuzyJGTjMgMFAJfbuHZyj=w1280",
+          "placement": "image"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2022",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQei3I6v9LOdX3ORv2mzXGXBso6pqDUY4XeFYbmAxK4nY_jQyzk2ZUosGBGRANh-xGy9jh0ARQoiRIOBT0uIXaW80Y5w8KBN-ZjcL8dQBqdNA9um1CGkZTFJ1C6kdh85X9avDvTbTYAcqcpMKOOXFB7GRGo5RnAEBQnHn2kS7w54LqSHF4r117t99s7YuzyJGTjMgMFAJfbuHZyj=w1280",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "f0bc846801e78d17d8ce",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQe9vVVi6yBrOge_tH14GnjnGytvcnCmpg44be1jzjKmT90TdO1kTODWXPMwFkwsyOsKk8E8vLgWI4ZjB1HRb90TVnsZg0SwqwSpaSYwrGZf7kJWoq6K3pg8zA5F4E0C8OaO1AHH-jZ3PaOL_AYNWi_Mo1TiPpNTCMOqNJGRN40vL8FDP6GaSxGS-SDmHR-Hkpln3L2rI1O2nBLIzvg=w1280",
+      "local": "/media/f0bc846801e78d17d8ce.jpg",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2020",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQe9vVVi6yBrOge_tH14GnjnGytvcnCmpg44be1jzjKmT90TdO1kTODWXPMwFkwsyOsKk8E8vLgWI4ZjB1HRb90TVnsZg0SwqwSpaSYwrGZf7kJWoq6K3pg8zA5F4E0C8OaO1AHH-jZ3PaOL_AYNWi_Mo1TiPpNTCMOqNJGRN40vL8FDP6GaSxGS-SDmHR-Hkpln3L2rI1O2nBLIzvg=w1280",
+          "placement": "image"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2021",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQe9vVVi6yBrOge_tH14GnjnGytvcnCmpg44be1jzjKmT90TdO1kTODWXPMwFkwsyOsKk8E8vLgWI4ZjB1HRb90TVnsZg0SwqwSpaSYwrGZf7kJWoq6K3pg8zA5F4E0C8OaO1AHH-jZ3PaOL_AYNWi_Mo1TiPpNTCMOqNJGRN40vL8FDP6GaSxGS-SDmHR-Hkpln3L2rI1O2nBLIzvg=w1280",
+          "placement": "image"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2022",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQe9vVVi6yBrOge_tH14GnjnGytvcnCmpg44be1jzjKmT90TdO1kTODWXPMwFkwsyOsKk8E8vLgWI4ZjB1HRb90TVnsZg0SwqwSpaSYwrGZf7kJWoq6K3pg8zA5F4E0C8OaO1AHH-jZ3PaOL_AYNWi_Mo1TiPpNTCMOqNJGRN40vL8FDP6GaSxGS-SDmHR-Hkpln3L2rI1O2nBLIzvg=w1280",
+          "placement": "image"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2023",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQe9vVVi6yBrOge_tH14GnjnGytvcnCmpg44be1jzjKmT90TdO1kTODWXPMwFkwsyOsKk8E8vLgWI4ZjB1HRb90TVnsZg0SwqwSpaSYwrGZf7kJWoq6K3pg8zA5F4E0C8OaO1AHH-jZ3PaOL_AYNWi_Mo1TiPpNTCMOqNJGRN40vL8FDP6GaSxGS-SDmHR-Hkpln3L2rI1O2nBLIzvg=w1280",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "9ab0a2af65834709d2b1",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQdgB5pwi_Gk__lSEcTGY87wk6zYbrhLu5fHYC9CH_ZxBG5TuJdZbMHpfdlD73mojK4Jp6an-AXvb7tzvkMaC_34tCwNUHqB4ZXz87Y08cMMMAc9DtHDMjNq6umzbr8ApEp3sgTiSci_gqypDOjvD62os6tFvz59ePyrMt9dIbwRyEImNN2dsFzOmthoRqZlkq3_3SY9mbXTlSAJ=w1280",
+      "local": "/media/9ab0a2af65834709d2b1.jpg",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2020",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQdgB5pwi_Gk__lSEcTGY87wk6zYbrhLu5fHYC9CH_ZxBG5TuJdZbMHpfdlD73mojK4Jp6an-AXvb7tzvkMaC_34tCwNUHqB4ZXz87Y08cMMMAc9DtHDMjNq6umzbr8ApEp3sgTiSci_gqypDOjvD62os6tFvz59ePyrMt9dIbwRyEImNN2dsFzOmthoRqZlkq3_3SY9mbXTlSAJ=w1280",
+          "placement": "image"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2021",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQdgB5pwi_Gk__lSEcTGY87wk6zYbrhLu5fHYC9CH_ZxBG5TuJdZbMHpfdlD73mojK4Jp6an-AXvb7tzvkMaC_34tCwNUHqB4ZXz87Y08cMMMAc9DtHDMjNq6umzbr8ApEp3sgTiSci_gqypDOjvD62os6tFvz59ePyrMt9dIbwRyEImNN2dsFzOmthoRqZlkq3_3SY9mbXTlSAJ=w1280",
+          "placement": "image"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2022",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQdgB5pwi_Gk__lSEcTGY87wk6zYbrhLu5fHYC9CH_ZxBG5TuJdZbMHpfdlD73mojK4Jp6an-AXvb7tzvkMaC_34tCwNUHqB4ZXz87Y08cMMMAc9DtHDMjNq6umzbr8ApEp3sgTiSci_gqypDOjvD62os6tFvz59ePyrMt9dIbwRyEImNN2dsFzOmthoRqZlkq3_3SY9mbXTlSAJ=w1280",
+          "placement": "image"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2023",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQdgB5pwi_Gk__lSEcTGY87wk6zYbrhLu5fHYC9CH_ZxBG5TuJdZbMHpfdlD73mojK4Jp6an-AXvb7tzvkMaC_34tCwNUHqB4ZXz87Y08cMMMAc9DtHDMjNq6umzbr8ApEp3sgTiSci_gqypDOjvD62os6tFvz59ePyrMt9dIbwRyEImNN2dsFzOmthoRqZlkq3_3SY9mbXTlSAJ=w1280",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "a726e0bc0c30d91c72b7",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQcXYx_jILQruloiLgy98HTWIppVA_ni0husEMeNfRIU3GTLCRwvd13DOyyh1mmOZk4BUo_cBEpCZW7BCyyDbIZLKPefwgRBAOovP-LRb4KFVuTS8rsoyNCVzGiFgDVTj7qnOg33P2nCdTHD-ufc4S-lVcJprUOqI5cp=w1280",
+      "local": "/media/a726e0bc0c30d91c72b7.jpg",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2020",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQcXYx_jILQruloiLgy98HTWIppVA_ni0husEMeNfRIU3GTLCRwvd13DOyyh1mmOZk4BUo_cBEpCZW7BCyyDbIZLKPefwgRBAOovP-LRb4KFVuTS8rsoyNCVzGiFgDVTj7qnOg33P2nCdTHD-ufc4S-lVcJprUOqI5cp=w1280",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "9da44416bf3b0d647a80",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQeQRJb12xKKr3jalxIX7-OV9Vt7noiVbSdVB9FEU68-3eizYZ6w_2D4DEPJYLgxCe337ntIy5zcRKUw3x-ICGYLP_aZ3i1o7NTgi4Z_GgTwKb1hP9rFPtwBujzle9PY6W0jKIwIPOSA90RjNxYNCa8qxIJ2P1_Ue7geUOUWQyWlUwOFUSA2wj-x9ccgk2XBiPRC72Jk_t1yrAgxl_c=w1280",
+      "local": "/media/9da44416bf3b0d647a80.png",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2020",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQeQRJb12xKKr3jalxIX7-OV9Vt7noiVbSdVB9FEU68-3eizYZ6w_2D4DEPJYLgxCe337ntIy5zcRKUw3x-ICGYLP_aZ3i1o7NTgi4Z_GgTwKb1hP9rFPtwBujzle9PY6W0jKIwIPOSA90RjNxYNCa8qxIJ2P1_Ue7geUOUWQyWlUwOFUSA2wj-x9ccgk2XBiPRC72Jk_t1yrAgxl_c=w1280",
+          "placement": "image"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2021",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQeQRJb12xKKr3jalxIX7-OV9Vt7noiVbSdVB9FEU68-3eizYZ6w_2D4DEPJYLgxCe337ntIy5zcRKUw3x-ICGYLP_aZ3i1o7NTgi4Z_GgTwKb1hP9rFPtwBujzle9PY6W0jKIwIPOSA90RjNxYNCa8qxIJ2P1_Ue7geUOUWQyWlUwOFUSA2wj-x9ccgk2XBiPRC72Jk_t1yrAgxl_c=w1280",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "f6641313304f917bbe69",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQdF_X0Ka2B2PoydHN4xUw9Vqjp7tp8sc8HGxvqvxXfCjUSlo-_DLBnwInxJWHmNEGWYiUgT68FoA_LGQU7eH8va2EO6S8O-tF27j7rCIfqI8r9IiKtnw3_2ZVZO3pFCvd_2g-tH8iaBII_zGvD2HjZsqWh0YzBNLx6CAefjZYpnih9l1A9U0hF3hd2EfChzQKAfhEh7Nz2AJxWHYgE=w1280",
+      "local": "/media/f6641313304f917bbe69.jpg",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2020",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQdF_X0Ka2B2PoydHN4xUw9Vqjp7tp8sc8HGxvqvxXfCjUSlo-_DLBnwInxJWHmNEGWYiUgT68FoA_LGQU7eH8va2EO6S8O-tF27j7rCIfqI8r9IiKtnw3_2ZVZO3pFCvd_2g-tH8iaBII_zGvD2HjZsqWh0YzBNLx6CAefjZYpnih9l1A9U0hF3hd2EfChzQKAfhEh7Nz2AJxWHYgE=w1280",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "89f020d0e25dd2cfa370",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQd4VU-DHrAZxl90SK1SyxZdbHt7NtnRQHDFpDOmB-xuGUdKL5ugyBCkDJpStGWLIvkHQEaAB1bDWdxN_FnRS8BnpuEbcO7zQcdJ2mco_-tCwojspRKvkTLGttsUI1_nYgprKCS_29_xeVAW0N0jJgAVtD444YwnNuDL=w1280",
+      "local": "/media/89f020d0e25dd2cfa370.png",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2020",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQd4VU-DHrAZxl90SK1SyxZdbHt7NtnRQHDFpDOmB-xuGUdKL5ugyBCkDJpStGWLIvkHQEaAB1bDWdxN_FnRS8BnpuEbcO7zQcdJ2mco_-tCwojspRKvkTLGttsUI1_nYgprKCS_29_xeVAW0N0jJgAVtD444YwnNuDL=w1280",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "b5a6aad62c51d6156a34",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQe4DMRQqVkRckpUP9G9y8aAEYjq8UuhoglmtxVvsY-67hboomV2orCxSVgIVtBz3KOqeJJqLdY05C0E963EJz8Msnhy8IdJkymx1_uBPZ5jEA-QYtdRyeyIzprVYZbqdjlYiwywVsnquGazLJjSyYN-n2vzjohsyCkacwU=w1280",
+      "local": "/media/b5a6aad62c51d6156a34.jpg",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2020",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQe4DMRQqVkRckpUP9G9y8aAEYjq8UuhoglmtxVvsY-67hboomV2orCxSVgIVtBz3KOqeJJqLdY05C0E963EJz8Msnhy8IdJkymx1_uBPZ5jEA-QYtdRyeyIzprVYZbqdjlYiwywVsnquGazLJjSyYN-n2vzjohsyCkacwU=w1280",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "41dff821bf4cf40f5869",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQeVuSX9YYXFt31gRiHaF9lzTQQ7vsC1itzgLDYEh6-0Gwb81owD_3LZRyd6daPTzi5lTHa08p2QzWlRFXd8CG7aepzIfHhcmvuxltqpZSbjiztEAuU5TW8guqAckqLG_9DD8TbdnBEedBBFNd69hza5EissOwnUdatHDwM=w1280",
+      "local": "/media/41dff821bf4cf40f5869.png",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2020",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQeVuSX9YYXFt31gRiHaF9lzTQQ7vsC1itzgLDYEh6-0Gwb81owD_3LZRyd6daPTzi5lTHa08p2QzWlRFXd8CG7aepzIfHhcmvuxltqpZSbjiztEAuU5TW8guqAckqLG_9DD8TbdnBEedBBFNd69hza5EissOwnUdatHDwM=w1280",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "22ee0ebd68a67606b99b",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQcSHd7KNzVZ2q2U7bcgbwBHc0PF8kgHmaA9Y24K8O4kL_SudjSIlDRvVYVun8_f_8udj-pgySPsBzbN1Glvx2Ti_Th9dpOAxfnIr1iw1O4LUgclr_--5ND8bUSengdHIHsBCCcvJOOediDeOZazE8UnKr3IZC66B_mS=w1280",
+      "local": "/media/22ee0ebd68a67606b99b.jpg",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2020",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQcSHd7KNzVZ2q2U7bcgbwBHc0PF8kgHmaA9Y24K8O4kL_SudjSIlDRvVYVun8_f_8udj-pgySPsBzbN1Glvx2Ti_Th9dpOAxfnIr1iw1O4LUgclr_--5ND8bUSengdHIHsBCCcvJOOediDeOZazE8UnKr3IZC66B_mS=w1280",
+          "placement": "image"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2021",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQcSHd7KNzVZ2q2U7bcgbwBHc0PF8kgHmaA9Y24K8O4kL_SudjSIlDRvVYVun8_f_8udj-pgySPsBzbN1Glvx2Ti_Th9dpOAxfnIr1iw1O4LUgclr_--5ND8bUSengdHIHsBCCcvJOOediDeOZazE8UnKr3IZC66B_mS=w1280",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "ee46f0c8ced02be30341",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQcInnRw0n-p2Ko6VYNHdKSAk4J_Nga8PjoLYNObMzvN3G9BPlH8DsW3nlZrqTwTPO5P1x1ZGN3Mz0mv1TcnDy9i5JzWsuoI7Jj2afM9LMi2RqPmRk_wTCyIE9KimZI3FHIAwvA_x6wRGBaT5L_CARK6wwUXrjcgC1HK4k8LPBK0J12viUc8apUOjWDlenq6G2cHHfigjMfvJ2083l8=w1280",
+      "local": "/media/ee46f0c8ced02be30341.jpg",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2020",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQcInnRw0n-p2Ko6VYNHdKSAk4J_Nga8PjoLYNObMzvN3G9BPlH8DsW3nlZrqTwTPO5P1x1ZGN3Mz0mv1TcnDy9i5JzWsuoI7Jj2afM9LMi2RqPmRk_wTCyIE9KimZI3FHIAwvA_x6wRGBaT5L_CARK6wwUXrjcgC1HK4k8LPBK0J12viUc8apUOjWDlenq6G2cHHfigjMfvJ2083l8=w1280",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "b4202dd079e7b83f027f",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQcHnknEzax7J2wq7R6KAl_4bGTO1oOMIZuQ92AwjZAVrzl7_D8dOFa8sMRC-qzm_xb2DC0YHDNoyOifGDyzxN6oftRUBAoVQqEkXpS1ZI9n7_5mflOsMPfg9a5NkgbJaeM_oH7z59vbgDZkg0CvPFbrugn_o5tIPABViHq5KoAOR7yEGR0ERj2d7VcVbsjoo5suPIh821okYcWMQ6E=w1280",
+      "local": "/media/b4202dd079e7b83f027f.jpg",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2020",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQcHnknEzax7J2wq7R6KAl_4bGTO1oOMIZuQ92AwjZAVrzl7_D8dOFa8sMRC-qzm_xb2DC0YHDNoyOifGDyzxN6oftRUBAoVQqEkXpS1ZI9n7_5mflOsMPfg9a5NkgbJaeM_oH7z59vbgDZkg0CvPFbrugn_o5tIPABViHq5KoAOR7yEGR0ERj2d7VcVbsjoo5suPIh821okYcWMQ6E=w1280",
+          "placement": "image"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2021",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQcHnknEzax7J2wq7R6KAl_4bGTO1oOMIZuQ92AwjZAVrzl7_D8dOFa8sMRC-qzm_xb2DC0YHDNoyOifGDyzxN6oftRUBAoVQqEkXpS1ZI9n7_5mflOsMPfg9a5NkgbJaeM_oH7z59vbgDZkg0CvPFbrugn_o5tIPABViHq5KoAOR7yEGR0ERj2d7VcVbsjoo5suPIh821okYcWMQ6E=w1280",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "0957653952f835905573",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQc6pFQcr_1nxSTUYVat1z-PHlA2V70-NKjhsJU_Tpwni1bR1Zdu-qKIAw_pJoe3g4F5DK3eXSz_SXGAclD7A7PlB52WVBhPCzvn4B_zfSU_WJeFSdi8e4yEEKzEOvCtsM5eVtUL_YMeDfWIk75NMkjvXQFehMpUJ2IxBNEEB9c6gpIICR1PWroGvpfr4Kugs-etDV4CRmxbxr8-=w1280",
+      "local": "/media/0957653952f835905573.jpg",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2020",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQc6pFQcr_1nxSTUYVat1z-PHlA2V70-NKjhsJU_Tpwni1bR1Zdu-qKIAw_pJoe3g4F5DK3eXSz_SXGAclD7A7PlB52WVBhPCzvn4B_zfSU_WJeFSdi8e4yEEKzEOvCtsM5eVtUL_YMeDfWIk75NMkjvXQFehMpUJ2IxBNEEB9c6gpIICR1PWroGvpfr4Kugs-etDV4CRmxbxr8-=w1280",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "c0e574b4de3904ae92de",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQfD__g7SDJ_dneEUylf8glQqFC-3Al0cSDGUjM_ot7xZ0Uuu8yAglrrLGfAABc09Z1964iImxQt0zvbohq2NTLVTZC-pH0HI0t7R_IJAN35SAorWWl5sDgTOlT0Cwzi_xgK214Tab56I8r0zb8d-C5FrGVxPB7crtaT6sLoLuEvuDMI03n7r57kaI7l0aMvAFyk13XDSXMuSB0a=w1280",
+      "local": "/media/c0e574b4de3904ae92de.jpg",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2020",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQfD__g7SDJ_dneEUylf8glQqFC-3Al0cSDGUjM_ot7xZ0Uuu8yAglrrLGfAABc09Z1964iImxQt0zvbohq2NTLVTZC-pH0HI0t7R_IJAN35SAorWWl5sDgTOlT0Cwzi_xgK214Tab56I8r0zb8d-C5FrGVxPB7crtaT6sLoLuEvuDMI03n7r57kaI7l0aMvAFyk13XDSXMuSB0a=w1280",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "a6006f6bf31a578baa49",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQfFrOt3Vel0-FsAzYYzrCMol1j61kn8YucnXPlbk7sc5j-nquIaBolEI2p0wf-NiT7rud_NlVWAhIPB7o0DzkDtGIiRvXL8NRIjEJqzU_O0Vlut6WsHMpTIjBiIqLowctMGx91NL6uAHAU09_6_F1Fg6PunKiqqQnj5gAgH5FQs3kKU18zRTtTzVd-VdRjh15P4nAPI4UVuNH9kRm4=w1280",
+      "local": "/media/a6006f6bf31a578baa49.jpg",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2020",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQfFrOt3Vel0-FsAzYYzrCMol1j61kn8YucnXPlbk7sc5j-nquIaBolEI2p0wf-NiT7rud_NlVWAhIPB7o0DzkDtGIiRvXL8NRIjEJqzU_O0Vlut6WsHMpTIjBiIqLowctMGx91NL6uAHAU09_6_F1Fg6PunKiqqQnj5gAgH5FQs3kKU18zRTtTzVd-VdRjh15P4nAPI4UVuNH9kRm4=w1280",
+          "placement": "image"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2021",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQfFrOt3Vel0-FsAzYYzrCMol1j61kn8YucnXPlbk7sc5j-nquIaBolEI2p0wf-NiT7rud_NlVWAhIPB7o0DzkDtGIiRvXL8NRIjEJqzU_O0Vlut6WsHMpTIjBiIqLowctMGx91NL6uAHAU09_6_F1Fg6PunKiqqQnj5gAgH5FQs3kKU18zRTtTzVd-VdRjh15P4nAPI4UVuNH9kRm4=w1280",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "b5459f0b971bc4a1c0f3",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQdhQQkxcV1wuoeyganDU3s9X3BPCuxKRdk26MPv9_FTyeuGmgouw3-iUyGyfhdbJB3-qgKAWcKVW7G0kds05BVNjhORwr72kIhnl65atyC2zHCJJAyRHoKW0pHOsmr3gVk0Za90iw5E61ovGrC8JnoOhSWIuCyXicVCu9LEa0OcZHVs66OSCyJFQrO3an3C4z4bhm55yPDIPlCPWoo=w1280",
+      "local": "/media/b5459f0b971bc4a1c0f3.jpg",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2020",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQdhQQkxcV1wuoeyganDU3s9X3BPCuxKRdk26MPv9_FTyeuGmgouw3-iUyGyfhdbJB3-qgKAWcKVW7G0kds05BVNjhORwr72kIhnl65atyC2zHCJJAyRHoKW0pHOsmr3gVk0Za90iw5E61ovGrC8JnoOhSWIuCyXicVCu9LEa0OcZHVs66OSCyJFQrO3an3C4z4bhm55yPDIPlCPWoo=w1280",
+          "placement": "image"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2021",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQdhQQkxcV1wuoeyganDU3s9X3BPCuxKRdk26MPv9_FTyeuGmgouw3-iUyGyfhdbJB3-qgKAWcKVW7G0kds05BVNjhORwr72kIhnl65atyC2zHCJJAyRHoKW0pHOsmr3gVk0Za90iw5E61ovGrC8JnoOhSWIuCyXicVCu9LEa0OcZHVs66OSCyJFQrO3an3C4z4bhm55yPDIPlCPWoo=w1280",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "ea107a51ae6e6c00e0b8",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQfC8KuLhq0IbuFVYKl6lY_4OBXfT0P0qUMycYeZYXhk4GoB8wiiuI2N4gCA3lQF48_E8mg4ptlCrlHqBrOeiX2h-2HC71cypgAeZQNgWkdY3DDal1YATQ8fdCeZRC1sbaHIaN5s62ajjwlFozjV71eHiS_vAmKX-Je7hOuCfQ_ww46nYn0MMDuYxiorg0uxNeHBnlqIWfqPwCGY=w1280",
+      "local": "/media/ea107a51ae6e6c00e0b8.png",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2020",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQfC8KuLhq0IbuFVYKl6lY_4OBXfT0P0qUMycYeZYXhk4GoB8wiiuI2N4gCA3lQF48_E8mg4ptlCrlHqBrOeiX2h-2HC71cypgAeZQNgWkdY3DDal1YATQ8fdCeZRC1sbaHIaN5s62ajjwlFozjV71eHiS_vAmKX-Je7hOuCfQ_ww46nYn0MMDuYxiorg0uxNeHBnlqIWfqPwCGY=w1280",
+          "placement": "image"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2021",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQfC8KuLhq0IbuFVYKl6lY_4OBXfT0P0qUMycYeZYXhk4GoB8wiiuI2N4gCA3lQF48_E8mg4ptlCrlHqBrOeiX2h-2HC71cypgAeZQNgWkdY3DDal1YATQ8fdCeZRC1sbaHIaN5s62ajjwlFozjV71eHiS_vAmKX-Je7hOuCfQ_ww46nYn0MMDuYxiorg0uxNeHBnlqIWfqPwCGY=w1280",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "2f85fe32e0ffba4ad473",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQdhR0Ay2XBBanQdrwl7tMnZJiTnEOuuS5fg5nlhMjoSIZkM0_HBzaI4P-u0W6hcZip1Hz2lz8ShWzgJF7v_BX3gu1CbPLYmfi0M_-X2CgZc6lQ-26fjRaFaa4BAdCFCmUiHOrf6DX8WsrlGKt1u5dfo_SonOP6UzbOCsbnGUPuF5qf4Tzf6dyxgMtUP1wHNzMPiP2nIpCRazYxQK-E=w1280",
+      "local": "/media/2f85fe32e0ffba4ad473.jpg",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2020",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQdhR0Ay2XBBanQdrwl7tMnZJiTnEOuuS5fg5nlhMjoSIZkM0_HBzaI4P-u0W6hcZip1Hz2lz8ShWzgJF7v_BX3gu1CbPLYmfi0M_-X2CgZc6lQ-26fjRaFaa4BAdCFCmUiHOrf6DX8WsrlGKt1u5dfo_SonOP6UzbOCsbnGUPuF5qf4Tzf6dyxgMtUP1wHNzMPiP2nIpCRazYxQK-E=w1280",
+          "placement": "image"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2021",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQdhR0Ay2XBBanQdrwl7tMnZJiTnEOuuS5fg5nlhMjoSIZkM0_HBzaI4P-u0W6hcZip1Hz2lz8ShWzgJF7v_BX3gu1CbPLYmfi0M_-X2CgZc6lQ-26fjRaFaa4BAdCFCmUiHOrf6DX8WsrlGKt1u5dfo_SonOP6UzbOCsbnGUPuF5qf4Tzf6dyxgMtUP1wHNzMPiP2nIpCRazYxQK-E=w1280",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "9eb60b6a9a1e4e898c59",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQf2BIiMoRO7p70lsBnfKFlNLxzusZtUnd_xyinc8tv3zFEAfYxpU62JTM-tM6aHTss0wyOTRYKKXmzQiQPLcjb_sHwpJ4DYgjEhEsjUUhxVnxLWPGq7UZam9bWTjCC4_pzxtRQzcb_tvaPyizzmWVWnL93VK2Gz62RjiFc6um0npy1rJoylmVsKOaFml-11y-nmr0fJtyth8AwA=w1280",
+      "local": "/media/9eb60b6a9a1e4e898c59.jpg",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2020",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQf2BIiMoRO7p70lsBnfKFlNLxzusZtUnd_xyinc8tv3zFEAfYxpU62JTM-tM6aHTss0wyOTRYKKXmzQiQPLcjb_sHwpJ4DYgjEhEsjUUhxVnxLWPGq7UZam9bWTjCC4_pzxtRQzcb_tvaPyizzmWVWnL93VK2Gz62RjiFc6um0npy1rJoylmVsKOaFml-11y-nmr0fJtyth8AwA=w1280",
+          "placement": "image"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2021",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQf2BIiMoRO7p70lsBnfKFlNLxzusZtUnd_xyinc8tv3zFEAfYxpU62JTM-tM6aHTss0wyOTRYKKXmzQiQPLcjb_sHwpJ4DYgjEhEsjUUhxVnxLWPGq7UZam9bWTjCC4_pzxtRQzcb_tvaPyizzmWVWnL93VK2Gz62RjiFc6um0npy1rJoylmVsKOaFml-11y-nmr0fJtyth8AwA=w1280",
+          "placement": "image"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2022",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQf2BIiMoRO7p70lsBnfKFlNLxzusZtUnd_xyinc8tv3zFEAfYxpU62JTM-tM6aHTss0wyOTRYKKXmzQiQPLcjb_sHwpJ4DYgjEhEsjUUhxVnxLWPGq7UZam9bWTjCC4_pzxtRQzcb_tvaPyizzmWVWnL93VK2Gz62RjiFc6um0npy1rJoylmVsKOaFml-11y-nmr0fJtyth8AwA=w1280",
+          "placement": "image"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2023",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQf2BIiMoRO7p70lsBnfKFlNLxzusZtUnd_xyinc8tv3zFEAfYxpU62JTM-tM6aHTss0wyOTRYKKXmzQiQPLcjb_sHwpJ4DYgjEhEsjUUhxVnxLWPGq7UZam9bWTjCC4_pzxtRQzcb_tvaPyizzmWVWnL93VK2Gz62RjiFc6um0npy1rJoylmVsKOaFml-11y-nmr0fJtyth8AwA=w1280",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "56b7d1d8e0696137767b",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQcmyKWr-5GwAG69i3rElK99gOo9rcDhlEEoMZwvMh8j3MhHKeZLJcq6MGymtKRk9AZnXeqAXV8P5rtOA3wtArWWKB9TepL1XPGorRD72SzABK4AQcYRoqnY5BqVN0Pwy2iR-SBmjgE3eofrlep-xXirdNs6zzk5fUU18T8=w1280",
+      "local": "/media/56b7d1d8e0696137767b.png",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2020/dataset",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQcmyKWr-5GwAG69i3rElK99gOo9rcDhlEEoMZwvMh8j3MhHKeZLJcq6MGymtKRk9AZnXeqAXV8P5rtOA3wtArWWKB9TepL1XPGorRD72SzABK4AQcYRoqnY5BqVN0Pwy2iR-SBmjgE3eofrlep-xXirdNs6zzk5fUU18T8=w16383",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "7bee5eaf41647e6ab02a",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQeWDRKofME8qSpZ3c-eteVj6RvrtS0Tp_wMRteXIwPnj2BoVqUs_1Nh74ZAhISulVXjqtYm9eIShmcG0fA6cUhKIR_xpwrOVeIqNRbhhvVufdHLzS1ppoG1TLNgzRXxccVN1Dw7Q25IgXHmfNXhj8mXMnWJRLB01atEzmE=w1280",
+      "local": "/media/7bee5eaf41647e6ab02a.png",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2020/dataset",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQeWDRKofME8qSpZ3c-eteVj6RvrtS0Tp_wMRteXIwPnj2BoVqUs_1Nh74ZAhISulVXjqtYm9eIShmcG0fA6cUhKIR_xpwrOVeIqNRbhhvVufdHLzS1ppoG1TLNgzRXxccVN1Dw7Q25IgXHmfNXhj8mXMnWJRLB01atEzmE=w16383",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "3792c30c4cf61a584a9e",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQfyKqH5T5V_K3aA2oPh3NngTuWks0LlnBxdam7nB8IiHjA5gPLlfjWjVkWxbqMUrSJff6av-OLlp7EebBOL6Rv3DlzeIG9bvScumla0tQeGRxos5S8L85TCWplxNfsDqcfxMlik2CZZTvlEfwaMKgdHes2XimoanB90pgg=w1280",
+      "local": "/media/3792c30c4cf61a584a9e.png",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2020/dataset",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQfyKqH5T5V_K3aA2oPh3NngTuWks0LlnBxdam7nB8IiHjA5gPLlfjWjVkWxbqMUrSJff6av-OLlp7EebBOL6Rv3DlzeIG9bvScumla0tQeGRxos5S8L85TCWplxNfsDqcfxMlik2CZZTvlEfwaMKgdHes2XimoanB90pgg=w16383",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "fc5681907cc718bd60f0",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQcZsoFdOFdPag4Zdv-YldGf7Xcea5lR7VEIYsiuXiyM4KAqvshQFdP6p0OCfJmyXLlU5o8S8KmDQyGRDJhac4uU7707JEdEC33j0Rx4eOHx0cSXiGF8ejptaPvbpEGKENSMEmy1qJjGBaNs2lppPi006H4-qqICQVIcPDI=w1280",
+      "local": "/media/fc5681907cc718bd60f0.png",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2020/dataset",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQcZsoFdOFdPag4Zdv-YldGf7Xcea5lR7VEIYsiuXiyM4KAqvshQFdP6p0OCfJmyXLlU5o8S8KmDQyGRDJhac4uU7707JEdEC33j0Rx4eOHx0cSXiGF8ejptaPvbpEGKENSMEmy1qJjGBaNs2lppPi006H4-qqICQVIcPDI=w16383",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "a963f5c34d4ad6b2a6fa",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQfauJSyXn54t9oc3ub0SAXK_k85_beT2orK0hGolWEKZgsyP46Nl6LLYFPDLrurAR7n8ZfeVmBIAGJB7nManduAp74Nib1xEzVcLnHKOMabivXl7wBvBzftAPR7DOgfvx8TuuD5Ri1t3hOl6PoAX7KM-kNAdTIeC9Cy9yA=w1280",
+      "local": "/media/a963f5c34d4ad6b2a6fa.png",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2020/dataset",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQfauJSyXn54t9oc3ub0SAXK_k85_beT2orK0hGolWEKZgsyP46Nl6LLYFPDLrurAR7n8ZfeVmBIAGJB7nManduAp74Nib1xEzVcLnHKOMabivXl7wBvBzftAPR7DOgfvx8TuuD5Ri1t3hOl6PoAX7KM-kNAdTIeC9Cy9yA=w16383",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "b17f13ea1874ba74fd8a",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQfLIabAc74e05c0oFzpO4kEUkEYsoX13p1gNmvPPu_wBYd04eF_RkSB27OXCioj4I7n3CH38pnevW4fq6OHEZFiC9ypCrBRDSG4eTmDOv03QMGfz051HoBxblDX2U5vqoWism2pUeUQCCg5Gz-LnE7A3i25AKHJN2nWp6c=w1280",
+      "local": "/media/b17f13ea1874ba74fd8a.png",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2020/dataset",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQfLIabAc74e05c0oFzpO4kEUkEYsoX13p1gNmvPPu_wBYd04eF_RkSB27OXCioj4I7n3CH38pnevW4fq6OHEZFiC9ypCrBRDSG4eTmDOv03QMGfz051HoBxblDX2U5vqoWism2pUeUQCCg5Gz-LnE7A3i25AKHJN2nWp6c=w16383",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "6e394283f6e59aafc1bb",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQdM6YfGjBCQL1MzUlH0rfAXJm1bxdud3s4DO4yQFcgA4F1X3Tk5azBUkuTbDUlk98FmP_K_2vVvtBT2I54bj-9FiMJ58Nybu8sgUJs4f92HNpaxisiPgi5mAkFHbHLRNvkoets4fSQY_oZtZW1vG8Yd5O4U91JHj16lkCI=w1280",
+      "local": "/media/6e394283f6e59aafc1bb.png",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2020/dataset",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQdM6YfGjBCQL1MzUlH0rfAXJm1bxdud3s4DO4yQFcgA4F1X3Tk5azBUkuTbDUlk98FmP_K_2vVvtBT2I54bj-9FiMJ58Nybu8sgUJs4f92HNpaxisiPgi5mAkFHbHLRNvkoets4fSQY_oZtZW1vG8Yd5O4U91JHj16lkCI=w16383",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "19f0d562bcd2cdcd2a21",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQc9-tF_E7jiNbQ2r6A8cKsXG2Y_dhajhTOn64nPOLnCpGVs3hkUTm9_WDr7eriv7fMpezoteE_GehBHTb3EuyXCf7Q5iE-eti7w-x7VB4wM0McL8O4BaYZmCjajZQejH1v5IFlar50dZsK5DxtuF4pUWP4iFHw2GRfw30k=w1280",
+      "local": "/media/19f0d562bcd2cdcd2a21.png",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2020/dataset",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQc9-tF_E7jiNbQ2r6A8cKsXG2Y_dhajhTOn64nPOLnCpGVs3hkUTm9_WDr7eriv7fMpezoteE_GehBHTb3EuyXCf7Q5iE-eti7w-x7VB4wM0McL8O4BaYZmCjajZQejH1v5IFlar50dZsK5DxtuF4pUWP4iFHw2GRfw30k=w16383",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "ca3043206a7b3e2c290b",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQfXyp0OBWSvcBaJcxsfEa2oWrnCKBkiIHG_Ul7cGSkDVmSnNjnpdMtV6rYzZsTCp2wbOA-rK9ykTf4AADlrswkU5W-uQKynbS9JVLg-vAG2eIWAib7S-0Fyv5vgpTRGz_tD52DbSrjnmvKExoL7Pq5_KM2CNRtTczVc=w1280",
+      "local": "/media/ca3043206a7b3e2c290b.png",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2020/dataset",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQfXyp0OBWSvcBaJcxsfEa2oWrnCKBkiIHG_Ul7cGSkDVmSnNjnpdMtV6rYzZsTCp2wbOA-rK9ykTf4AADlrswkU5W-uQKynbS9JVLg-vAG2eIWAib7S-0Fyv5vgpTRGz_tD52DbSrjnmvKExoL7Pq5_KM2CNRtTczVc=w16383",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "d981e3a944fbd8c2fd5b",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQeN4F_tNSahxV5DYbgrvgGjBKN8hJoe21ZAYsKtWTE1o1kIH5TrWRA-BeJtlau7OgrY-RT_zF6mgCNNHsRMWsnIoSZEnZ_SAXAy9qyYrHhWe7cs1i-0_64YIQXTlz4bCaKyd-c6NgmvkJiOd8txxSoECHjSJqZVwIBQ=w1280",
+      "local": "/media/d981e3a944fbd8c2fd5b.png",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2020/dataset",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQeN4F_tNSahxV5DYbgrvgGjBKN8hJoe21ZAYsKtWTE1o1kIH5TrWRA-BeJtlau7OgrY-RT_zF6mgCNNHsRMWsnIoSZEnZ_SAXAy9qyYrHhWe7cs1i-0_64YIQXTlz4bCaKyd-c6NgmvkJiOd8txxSoECHjSJqZVwIBQ=w16383",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "6cd1b5d242232df3a9c5",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQdZuY0WXdHR49hxlIyRDUBcJAvTdxC7gByprnmCi1-arftLp2_Wg92o4dT4mkY3h5OzpOQW3hYiBZ1JVOliC5hiayuE-5navcV4Ka7nxaUvp82ttKTTnT0MxDX2_Flvtov1VCmoC5DrPhUIaDYKLNph97iX_DM5IAk0e6Y=w1280",
+      "local": "/media/6cd1b5d242232df3a9c5.png",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2020/dataset",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQdZuY0WXdHR49hxlIyRDUBcJAvTdxC7gByprnmCi1-arftLp2_Wg92o4dT4mkY3h5OzpOQW3hYiBZ1JVOliC5hiayuE-5navcV4Ka7nxaUvp82ttKTTnT0MxDX2_Flvtov1VCmoC5DrPhUIaDYKLNph97iX_DM5IAk0e6Y=w16383",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "a144e1c99b3b4036aff6",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQdtR6MsRPTRDjHFTgcAJ0utC1V024G7MtjeS2tMuNZHLfwrmSvLM4p9X6AGfAM-wUiYOoO9zIAm7SWMo-Wyo4foB0Y6_WpnszdOwzwsCbvRtAHJcyXzJ1lz0Eph0c_XLOVhMep-m7-LRvT92C902vglC0l0VoSMkpUVRGI=w1280",
+      "local": "/media/a144e1c99b3b4036aff6.png",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2020/dataset",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQdtR6MsRPTRDjHFTgcAJ0utC1V024G7MtjeS2tMuNZHLfwrmSvLM4p9X6AGfAM-wUiYOoO9zIAm7SWMo-Wyo4foB0Y6_WpnszdOwzwsCbvRtAHJcyXzJ1lz0Eph0c_XLOVhMep-m7-LRvT92C902vglC0l0VoSMkpUVRGI=w16383",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "d76e6241caa83c8c7e84",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQfHx1YJtNUvCIotDeL34BB9k-o214NgGVzrwxWy3otGCsopt3PHSG0P890NyU7MD--HgKyX928FGgLje_tc5VqF0_ceBJ6PSzh9sso5_HdKVRTPaZfYCIkW-uHTZiJrnJWYoxHhTQMqCPwQR1gxdg40R_E996IEwfdNb0zcRoQT4vweYTfcFfW7zS3HN-PwSvwgcKUvYY_t7bEq=w1280",
+      "local": "/media/d76e6241caa83c8c7e84.png",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2020/prize-challenge",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQfHx1YJtNUvCIotDeL34BB9k-o214NgGVzrwxWy3otGCsopt3PHSG0P890NyU7MD--HgKyX928FGgLje_tc5VqF0_ceBJ6PSzh9sso5_HdKVRTPaZfYCIkW-uHTZiJrnJWYoxHhTQMqCPwQR1gxdg40R_E996IEwfdNb0zcRoQT4vweYTfcFfW7zS3HN-PwSvwgcKUvYY_t7bEq=w1280",
+          "placement": "image"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2021/prize-challenge-2021",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQfHx1YJtNUvCIotDeL34BB9k-o214NgGVzrwxWy3otGCsopt3PHSG0P890NyU7MD--HgKyX928FGgLje_tc5VqF0_ceBJ6PSzh9sso5_HdKVRTPaZfYCIkW-uHTZiJrnJWYoxHhTQMqCPwQR1gxdg40R_E996IEwfdNb0zcRoQT4vweYTfcFfW7zS3HN-PwSvwgcKUvYY_t7bEq=w1280",
+          "placement": "image"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2022/prize-challenge-2022/agriculture-vision-challenge-2022",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQfHx1YJtNUvCIotDeL34BB9k-o214NgGVzrwxWy3otGCsopt3PHSG0P890NyU7MD--HgKyX928FGgLje_tc5VqF0_ceBJ6PSzh9sso5_HdKVRTPaZfYCIkW-uHTZiJrnJWYoxHhTQMqCPwQR1gxdg40R_E996IEwfdNb0zcRoQT4vweYTfcFfW7zS3HN-PwSvwgcKUvYY_t7bEq=w1280",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "1f59038835807b75fc61",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQfnM4jqy6_uBUKAUNeoZfig_QxpBR1Mj-R7KVpU_AE3gajlVOUI7wXmSh4f7hE-mOrVl67DOGK1ODkfF5FkDmAGit_T_ajH2ScbGV1oHI0nDcx0COQSgUN7oTGlXStUdl4EJ-sGb636BXcqw68ZQ7V0vB_k4eU7OrzuSbmFBM5Tvq3DswoeoForAeQPcW_VChIzovt4lc1m2p-n3jsfuPZXOpq99LMa5dndMOFV=w1280",
+      "local": "/media/1f59038835807b75fc61.png",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2021",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQfnM4jqy6_uBUKAUNeoZfig_QxpBR1Mj-R7KVpU_AE3gajlVOUI7wXmSh4f7hE-mOrVl67DOGK1ODkfF5FkDmAGit_T_ajH2ScbGV1oHI0nDcx0COQSgUN7oTGlXStUdl4EJ-sGb636BXcqw68ZQ7V0vB_k4eU7OrzuSbmFBM5Tvq3DswoeoForAeQPcW_VChIzovt4lc1m2p-n3jsfuPZXOpq99LMa5dndMOFV=w1280",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "e63295ce30d8c21cf915",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQerSv4ITH1qvD0c4WKMZJWRMl95qb2yFjX469UNl0g1LM_EyPoFoycray9HRCyoIVTbhfeA-0wYa7Fx2QIhonNq1Yt9ROKEMcH2kwZ4eQShDAJg8jWjhJHqiacNcAA8hwVg3F1Es_92UQQZePH3IgfxtIHQtgzqdDMsVvviw7As1S28kdcgF3f5U2CKnF_nLfABuZEx0M8ssGhKa8j84h_2Gg070fhsVxMk8pbhrok=w1280",
+      "local": "/media/e63295ce30d8c21cf915.png",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2021",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQerSv4ITH1qvD0c4WKMZJWRMl95qb2yFjX469UNl0g1LM_EyPoFoycray9HRCyoIVTbhfeA-0wYa7Fx2QIhonNq1Yt9ROKEMcH2kwZ4eQShDAJg8jWjhJHqiacNcAA8hwVg3F1Es_92UQQZePH3IgfxtIHQtgzqdDMsVvviw7As1S28kdcgF3f5U2CKnF_nLfABuZEx0M8ssGhKa8j84h_2Gg070fhsVxMk8pbhrok=w1280",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "7bd8a64e2f93b6138869",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQeqQh-gVcQb_paDTBtsGWpSnTJqkcLShsYt6lxW_PleOShnsyzPKpSZRYs5PwoprMFSmOqKiLs1Ajk71it5hEYqEETU1u-Ol5qaiNt_emd9QZHNX8S3cdSgVMPhYzxq44xMzmkhOTkcAXEVHRm34MjLT3N0TSQQOscTmGPrI932hQt8mUc5UcrKc2PbYIsE-x4rMhjPI-AhoM3p3jM-wlFlwIEvgiVNpAwbIHEWM3s=w1280",
+      "local": "/media/7bd8a64e2f93b6138869.jpg",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2021",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQeqQh-gVcQb_paDTBtsGWpSnTJqkcLShsYt6lxW_PleOShnsyzPKpSZRYs5PwoprMFSmOqKiLs1Ajk71it5hEYqEETU1u-Ol5qaiNt_emd9QZHNX8S3cdSgVMPhYzxq44xMzmkhOTkcAXEVHRm34MjLT3N0TSQQOscTmGPrI932hQt8mUc5UcrKc2PbYIsE-x4rMhjPI-AhoM3p3jM-wlFlwIEvgiVNpAwbIHEWM3s=w1280",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "0b48d430747945e0e329",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQfW--xff6wpjlvPTKLCJjsjaSEER8r6YA5ZVztAKUh3ghHh1jn61YJH7_9dww1eQR9loAVuwcswlG-xIgrfq5x2Fhlf7Kh_8lRshObKrm7xNgXj5c-1s0VKrHo5jV9_bMQRW9WJtCo8hgxSyZWeZhbe5BvdSigMQlBzUzaF0ezPHqkp9_BXCMDG7Go8ua5LNRSFvBgrkc4PKNIpmB0kMU30rqNnJU6aczsON55j_yI=w1280",
+      "local": "/media/0b48d430747945e0e329.jpg",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2021",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQfW--xff6wpjlvPTKLCJjsjaSEER8r6YA5ZVztAKUh3ghHh1jn61YJH7_9dww1eQR9loAVuwcswlG-xIgrfq5x2Fhlf7Kh_8lRshObKrm7xNgXj5c-1s0VKrHo5jV9_bMQRW9WJtCo8hgxSyZWeZhbe5BvdSigMQlBzUzaF0ezPHqkp9_BXCMDG7Go8ua5LNRSFvBgrkc4PKNIpmB0kMU30rqNnJU6aczsON55j_yI=w1280",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "4e3ab261e39823beffde",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQeGR3lPhnx6l9oPhMav9GJehzk-275pSXJgqwHPebVy8dFOL8QEuteZX4MsIkZTINIFLjnvwqD-ORKN7kqK4zHYDDq6hmo7ZXjy_S2mMX8nzqFwcTqm9hR5PmfgVpq3EpUYS-u_hVuwoG8AAVuSDaQmWi7xapoq76bWwjwLHTZtUiXj5HhPEDeaBjTM_rTE6OgM9V-Pqj9B60Y2r98rNASbHK0uJ8LIn6Q0LUVh=w1280",
+      "local": "/media/4e3ab261e39823beffde.jpg",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2021",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQeGR3lPhnx6l9oPhMav9GJehzk-275pSXJgqwHPebVy8dFOL8QEuteZX4MsIkZTINIFLjnvwqD-ORKN7kqK4zHYDDq6hmo7ZXjy_S2mMX8nzqFwcTqm9hR5PmfgVpq3EpUYS-u_hVuwoG8AAVuSDaQmWi7xapoq76bWwjwLHTZtUiXj5HhPEDeaBjTM_rTE6OgM9V-Pqj9B60Y2r98rNASbHK0uJ8LIn6Q0LUVh=w1280",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "d81eb1c09171af42a99e",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQdWBkw2f_V47J17WRgFCwftWCbSL3ADpm7PPBWEhzsWymJztvvqobSsxg6nrk9zv4fRLgFyp4BTxJvasyRKomPtbwhqA64GZZ1cDbNxNRbHEJlUu2tlup6WUXdbb-IB5EDuygYurk9k9YnJ76XSEzyfKsiIYwyTNpR9cEaimP-kb7eoQTHgAsoUuc8lBqHrEupuWX9u5yIDqlSModEW2PpqavSAnlb4BQG6PRqc=w1280",
+      "local": "/media/d81eb1c09171af42a99e.png",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2021",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQdWBkw2f_V47J17WRgFCwftWCbSL3ADpm7PPBWEhzsWymJztvvqobSsxg6nrk9zv4fRLgFyp4BTxJvasyRKomPtbwhqA64GZZ1cDbNxNRbHEJlUu2tlup6WUXdbb-IB5EDuygYurk9k9YnJ76XSEzyfKsiIYwyTNpR9cEaimP-kb7eoQTHgAsoUuc8lBqHrEupuWX9u5yIDqlSModEW2PpqavSAnlb4BQG6PRqc=w1280",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "239fa42b833c07b0c253",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQdFQLLTVj8BT-dteyOkcsVqtLK1CWLpOIJtqFEs6KlHrMNuCd5BO4vB8o7Qx6FHKRvKPAqXvMZHq4t4UesL7aC5YbFaFfOLWk5iGiFUzh8PKZyWjazx2BrMiWkdfuPi3rzTTpNvhEKYmbDVA44X0WroLT062ouY6JPcRhKKEJfEwKELaNBNHlgimRO3oY4AWGjc9gMuJ2MlhlPteGVkeGgUeWV2Wmq-cCSJQ1xSD6U=w1280",
+      "local": "/media/239fa42b833c07b0c253.jpg",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2021",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQdFQLLTVj8BT-dteyOkcsVqtLK1CWLpOIJtqFEs6KlHrMNuCd5BO4vB8o7Qx6FHKRvKPAqXvMZHq4t4UesL7aC5YbFaFfOLWk5iGiFUzh8PKZyWjazx2BrMiWkdfuPi3rzTTpNvhEKYmbDVA44X0WroLT062ouY6JPcRhKKEJfEwKELaNBNHlgimRO3oY4AWGjc9gMuJ2MlhlPteGVkeGgUeWV2Wmq-cCSJQ1xSD6U=w1280",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "5d71fa756e0fcce61a08",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQdqzi8X8ROBh2RAtUboxD5Q0wxrI0E8H7MWQ8F_uqldpYp08enlmYYKhovH6nLfYPDp5_WAsEVeV5LEnpCqIzP6unicwE_yLoDq2_pu2VJoSwF7qST4-31x0nV4QPomNia2kFdwNYd1qTRYGqHzFZVFn_arxi2H2yOULYS7GWxvb47lagITqjN-bWrsFuQ=w1280",
+      "local": "/media/5d71fa756e0fcce61a08.png",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2021",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQdqzi8X8ROBh2RAtUboxD5Q0wxrI0E8H7MWQ8F_uqldpYp08enlmYYKhovH6nLfYPDp5_WAsEVeV5LEnpCqIzP6unicwE_yLoDq2_pu2VJoSwF7qST4-31x0nV4QPomNia2kFdwNYd1qTRYGqHzFZVFn_arxi2H2yOULYS7GWxvb47lagITqjN-bWrsFuQ=w1280",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "493c8fad8304b4f0a877",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQePaw2e3YqgPxqNkqS0-blIXjKcM0GsdidRlcO3gV11fFW_nM64oF1fOc18ql0Q7JTWjhT0GHfxtREzJryiD8JXReOl82vIHtxejsK9m3e5ZINlngDfmH2M-oHhKAqsf8-b6KY5qhI4vpclvFRjIgp_IDOl0sBlNltKbH0PKr3mZ2XGYbwdZM6abV_SfsQ=w1280",
+      "local": "/media/493c8fad8304b4f0a877.png",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2021",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQePaw2e3YqgPxqNkqS0-blIXjKcM0GsdidRlcO3gV11fFW_nM64oF1fOc18ql0Q7JTWjhT0GHfxtREzJryiD8JXReOl82vIHtxejsK9m3e5ZINlngDfmH2M-oHhKAqsf8-b6KY5qhI4vpclvFRjIgp_IDOl0sBlNltKbH0PKr3mZ2XGYbwdZM6abV_SfsQ=w1280",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "bfddc3a8e8a00face615",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQccS_5L_gyKdU5ukg5vdvdSK4uQJAs_-kMVOHCebkuOFZjK5LXvXofhVjSbE3fifDFhuncYbQMaFTyITjZTPV32Ri1YdVNovM7bf6zMdszT4kTevOo6ma4C1PEsvcoXyWGbo8j_I9v_23O70tDbde9HLEA-VPRoW6uKiI50fCGznIYOV_HDneQKLGvXUOinYrb9337Zr3J2BcRxCi9cJTlS8AN2H8Ruf_TI1cohI3g=w1280",
+      "local": "/media/bfddc3a8e8a00face615.jpg",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2021",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQccS_5L_gyKdU5ukg5vdvdSK4uQJAs_-kMVOHCebkuOFZjK5LXvXofhVjSbE3fifDFhuncYbQMaFTyITjZTPV32Ri1YdVNovM7bf6zMdszT4kTevOo6ma4C1PEsvcoXyWGbo8j_I9v_23O70tDbde9HLEA-VPRoW6uKiI50fCGznIYOV_HDneQKLGvXUOinYrb9337Zr3J2BcRxCi9cJTlS8AN2H8Ruf_TI1cohI3g=w1280",
+          "placement": "image"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2022",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQccS_5L_gyKdU5ukg5vdvdSK4uQJAs_-kMVOHCebkuOFZjK5LXvXofhVjSbE3fifDFhuncYbQMaFTyITjZTPV32Ri1YdVNovM7bf6zMdszT4kTevOo6ma4C1PEsvcoXyWGbo8j_I9v_23O70tDbde9HLEA-VPRoW6uKiI50fCGznIYOV_HDneQKLGvXUOinYrb9337Zr3J2BcRxCi9cJTlS8AN2H8Ruf_TI1cohI3g=w1280",
+          "placement": "image"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2023",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQccS_5L_gyKdU5ukg5vdvdSK4uQJAs_-kMVOHCebkuOFZjK5LXvXofhVjSbE3fifDFhuncYbQMaFTyITjZTPV32Ri1YdVNovM7bf6zMdszT4kTevOo6ma4C1PEsvcoXyWGbo8j_I9v_23O70tDbde9HLEA-VPRoW6uKiI50fCGznIYOV_HDneQKLGvXUOinYrb9337Zr3J2BcRxCi9cJTlS8AN2H8Ruf_TI1cohI3g=w1280",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "a6a5f10031501670014c",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQf7XL2b6Y7rQMHT3ZAYXpMwmlRX9o8TRQCKeZKcrEBoKUZRdddAtp0KPwfyVS4NrkosUw8btLvx-eS9pt2hDcv-_gP08jf-qi2tizzPm3TdWsRsag8TKwhyKgMXe-BUKhMPHtbb-Z1JZA72uGp-h4zuTOneNvWHZmSTizb8TGAWgIGMGhzrXRZyopXg-eB96EwPf6UWcmlgY6-p1c5xBsEe8XRob95mvJx91pNAVyM=w1280",
+      "local": "/media/a6a5f10031501670014c.jpg",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2021",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQf7XL2b6Y7rQMHT3ZAYXpMwmlRX9o8TRQCKeZKcrEBoKUZRdddAtp0KPwfyVS4NrkosUw8btLvx-eS9pt2hDcv-_gP08jf-qi2tizzPm3TdWsRsag8TKwhyKgMXe-BUKhMPHtbb-Z1JZA72uGp-h4zuTOneNvWHZmSTizb8TGAWgIGMGhzrXRZyopXg-eB96EwPf6UWcmlgY6-p1c5xBsEe8XRob95mvJx91pNAVyM=w1280",
+          "placement": "image"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2022",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQf7XL2b6Y7rQMHT3ZAYXpMwmlRX9o8TRQCKeZKcrEBoKUZRdddAtp0KPwfyVS4NrkosUw8btLvx-eS9pt2hDcv-_gP08jf-qi2tizzPm3TdWsRsag8TKwhyKgMXe-BUKhMPHtbb-Z1JZA72uGp-h4zuTOneNvWHZmSTizb8TGAWgIGMGhzrXRZyopXg-eB96EwPf6UWcmlgY6-p1c5xBsEe8XRob95mvJx91pNAVyM=w1280",
+          "placement": "image"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2023",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQf7XL2b6Y7rQMHT3ZAYXpMwmlRX9o8TRQCKeZKcrEBoKUZRdddAtp0KPwfyVS4NrkosUw8btLvx-eS9pt2hDcv-_gP08jf-qi2tizzPm3TdWsRsag8TKwhyKgMXe-BUKhMPHtbb-Z1JZA72uGp-h4zuTOneNvWHZmSTizb8TGAWgIGMGhzrXRZyopXg-eB96EwPf6UWcmlgY6-p1c5xBsEe8XRob95mvJx91pNAVyM=w1280",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "0eaabbe04d4a97a4b21e",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQeNFysABVcQn6xB-uXNQjN1THc0yMn1iErYjLepu7WZIoyZCGTfama489NLJCV7m7oJex6K2UCJv3mmwtAKGOyzWIHVx4dNa_Si7ZAENNwXxdI5pbbXfG8K_f0CP0b4zIs9l-tV11I9ESM5_Qb8zplaLYOgsTN6MgoLYw6Qu_SK1i8sEoAJDTkSyI17QYQ=w1280",
+      "local": "/media/0eaabbe04d4a97a4b21e.png",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2021",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQeNFysABVcQn6xB-uXNQjN1THc0yMn1iErYjLepu7WZIoyZCGTfama489NLJCV7m7oJex6K2UCJv3mmwtAKGOyzWIHVx4dNa_Si7ZAENNwXxdI5pbbXfG8K_f0CP0b4zIs9l-tV11I9ESM5_Qb8zplaLYOgsTN6MgoLYw6Qu_SK1i8sEoAJDTkSyI17QYQ=w1280",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "0be22b61a1172fc6bbc7",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQeTl69BnhEpcfL-enMpgrmLZGRmjN_T9Vh-01av2bUKT6S1T02QCGG9Y5VjVXWsb21jewPIIYwcgunlV4cP_RYkePVXDpMaavzb0zwBy6eFFNhwznbnRXd09HpCpxcHoYyuWxcH-p6wMy2RPPKCEhdXu4Jm7GhG2O2sa6dtO7JwkwWPWqsePFlSp4M_WBKao795HdurdKNbcbicNkCEUF4EAZQA4nXRsx2Sdx31OMM=w1280",
+      "local": "/media/0be22b61a1172fc6bbc7.png",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2021",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQeTl69BnhEpcfL-enMpgrmLZGRmjN_T9Vh-01av2bUKT6S1T02QCGG9Y5VjVXWsb21jewPIIYwcgunlV4cP_RYkePVXDpMaavzb0zwBy6eFFNhwznbnRXd09HpCpxcHoYyuWxcH-p6wMy2RPPKCEhdXu4Jm7GhG2O2sa6dtO7JwkwWPWqsePFlSp4M_WBKao795HdurdKNbcbicNkCEUF4EAZQA4nXRsx2Sdx31OMM=w1280",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "60d84bc6c3e856a45706",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQeHsM6rCPZcIsD9bRlKYNyaENPAsVOTHgj0WdOYLSThbraL7FEduRuIiF6IMrAB4Y2IGNC0xXY8bAsfhAYl9-FpasJ_APhRrmrnhJzdhtd0TFCah30WA9F1j4HWzyGiwdQTFu9YSAu0UEcK2CXsxagVKSnV23IvOQb7U8da-cvGLzi-CKhkZMV9zn0d=w1280",
+      "local": "/media/60d84bc6c3e856a45706.jpg",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2021/dataset-2021",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQeHsM6rCPZcIsD9bRlKYNyaENPAsVOTHgj0WdOYLSThbraL7FEduRuIiF6IMrAB4Y2IGNC0xXY8bAsfhAYl9-FpasJ_APhRrmrnhJzdhtd0TFCah30WA9F1j4HWzyGiwdQTFu9YSAu0UEcK2CXsxagVKSnV23IvOQb7U8da-cvGLzi-CKhkZMV9zn0d=w16383",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "cdeefde3d4b32a8326b1",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQeWSocK1nXAsz2fUsxZrERhF8bJys4fLngxsvA_om8Gx1G-X39PTQa4sknzUwOogFSgNEnt7VAXMfeA9B_vD1hWD5Tc8g_5ogXa90hfUMgevduZkLPzqqM_BXve8-lO_TiA5tZHz-EqpvF5zTnLULvOw4nTGyJ0VinAgUUy7GV35t-U1RrFz0SYXiLZmS4=w1280",
+      "local": "/media/cdeefde3d4b32a8326b1.jpg",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2021/dataset-2021",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQeWSocK1nXAsz2fUsxZrERhF8bJys4fLngxsvA_om8Gx1G-X39PTQa4sknzUwOogFSgNEnt7VAXMfeA9B_vD1hWD5Tc8g_5ogXa90hfUMgevduZkLPzqqM_BXve8-lO_TiA5tZHz-EqpvF5zTnLULvOw4nTGyJ0VinAgUUy7GV35t-U1RrFz0SYXiLZmS4=w16383",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "98e8587593b1bc8807f5",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQd-fbeH8IpfG5BmBFWHafljtO3t09r8blzTSlgh2Kz8aC9uT9MlZjupfarm_a-ejBl127swBZ6WW3s7cHT2_RVTKlfqze3zbmU_uCKyTx3SKVi4LVKB4L5G86M9k1APrGtaMTC9bhviDS3YY9HjrZUd-U0btVN2pQB20C0vHJtBySgn0hifjUK1Voh6=w1280",
+      "local": "/media/98e8587593b1bc8807f5.jpg",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2021/dataset-2021",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQd-fbeH8IpfG5BmBFWHafljtO3t09r8blzTSlgh2Kz8aC9uT9MlZjupfarm_a-ejBl127swBZ6WW3s7cHT2_RVTKlfqze3zbmU_uCKyTx3SKVi4LVKB4L5G86M9k1APrGtaMTC9bhviDS3YY9HjrZUd-U0btVN2pQB20C0vHJtBySgn0hifjUK1Voh6=w16383",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "b44f838524bbbc0da391",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQdM3xbNQ7v-0eSr2JEem9D1qCAPfajGaHCCIXQL7pyo1ri1nXkWpGgdJh36GFSmkC6XCBCp9bSiBGMf9pklYLM2nG66uDkGsotZw9jQhCE5L9doCOtF0N596L99qJAihatekq4GS9gtmtP0QvMz8OrP3oX1sv8h3iWC6MSV5SL_tmNO8M5HIeo3hcLUDBY=w1280",
+      "local": "/media/b44f838524bbbc0da391.jpg",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2021/dataset-2021",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQdM3xbNQ7v-0eSr2JEem9D1qCAPfajGaHCCIXQL7pyo1ri1nXkWpGgdJh36GFSmkC6XCBCp9bSiBGMf9pklYLM2nG66uDkGsotZw9jQhCE5L9doCOtF0N596L99qJAihatekq4GS9gtmtP0QvMz8OrP3oX1sv8h3iWC6MSV5SL_tmNO8M5HIeo3hcLUDBY=w16383",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "ba9f949551a883655a9e",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQcxS05m21VyxmiCjdwqDNYx0NlC3AIAO_vAoqN8qnioK847Lo0rz_MdxfZwmBumdJtbeXBEYUQ-I6eeGeGClcq_UU0PQO5YumoaEPnevLSrIF-R821bkEo30kMwD2SgfLL91T9SCmXYZ8HN37bL7lB-YRAPvkBmCafabTI00dK1kZ2cgfLtCYeIwC1ZZMc=w1280",
+      "local": "/media/ba9f949551a883655a9e.jpg",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2021/dataset-2021",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQcxS05m21VyxmiCjdwqDNYx0NlC3AIAO_vAoqN8qnioK847Lo0rz_MdxfZwmBumdJtbeXBEYUQ-I6eeGeGClcq_UU0PQO5YumoaEPnevLSrIF-R821bkEo30kMwD2SgfLL91T9SCmXYZ8HN37bL7lB-YRAPvkBmCafabTI00dK1kZ2cgfLtCYeIwC1ZZMc=w16383",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "d87d8700762f6b654dee",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQfPfpYccTjiKy6pXcyoii23G91I5tCnaHcwIa3XI9IeZmdwwq4PLmPxWFtsHU89NOs0xn-52JQ2ef2ptJCstHtfZAJanghHFPJjv9IZKQm4ieJR9UMYI4emRYOoXlzfN3ymzs-1igg-4e199p8fE-K5tKVG64ROyeMnpfh2cVg2ED8L8XK43RtlxW1zXSk=w1280",
+      "local": "/media/d87d8700762f6b654dee.jpg",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2021/dataset-2021",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQfPfpYccTjiKy6pXcyoii23G91I5tCnaHcwIa3XI9IeZmdwwq4PLmPxWFtsHU89NOs0xn-52JQ2ef2ptJCstHtfZAJanghHFPJjv9IZKQm4ieJR9UMYI4emRYOoXlzfN3ymzs-1igg-4e199p8fE-K5tKVG64ROyeMnpfh2cVg2ED8L8XK43RtlxW1zXSk=w16383",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "3ca91a908baf64af4f16",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQfrl3ehrQlWERSLqjnAZzFmLruJgQdctoPADBQeMePxNdx8nSKB9ouOae-JSbuxu4P3grgrVjoXaX-ORfpUQ-uOn4hGsM1P8AcpHnFIM5-3mS4duw8cvI5iqAPQUFuZT3_EadE2WnAuw-RVOA_eZcrCxKfZ62KTqWyY1Ft0KJ3OjR1KL9WCyGKzrTBr=w1280",
+      "local": "/media/3ca91a908baf64af4f16.jpg",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2021/dataset-2021",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQfrl3ehrQlWERSLqjnAZzFmLruJgQdctoPADBQeMePxNdx8nSKB9ouOae-JSbuxu4P3grgrVjoXaX-ORfpUQ-uOn4hGsM1P8AcpHnFIM5-3mS4duw8cvI5iqAPQUFuZT3_EadE2WnAuw-RVOA_eZcrCxKfZ62KTqWyY1Ft0KJ3OjR1KL9WCyGKzrTBr=w16383",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "5b8a0b287a145415db00",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQfCZjE5bR7N1nDMFKlS4teErqk8LOc9UmsREEjI4nA4XmgS9NG3Ov09FpshhXSRUqGdLkN5OnFA5Bdkj8KLF2tCo9zEqSyDUH03U_63OAVUDy5L7AeesVPAY3HO3X80meQOJmyvSXdk3r3RZvZE0Zj87u2zeUF_5nL0voEypNegN6C4MUooiOfWRXat3bQ=w1280",
+      "local": "/media/5b8a0b287a145415db00.jpg",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2021/dataset-2021",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQfCZjE5bR7N1nDMFKlS4teErqk8LOc9UmsREEjI4nA4XmgS9NG3Ov09FpshhXSRUqGdLkN5OnFA5Bdkj8KLF2tCo9zEqSyDUH03U_63OAVUDy5L7AeesVPAY3HO3X80meQOJmyvSXdk3r3RZvZE0Zj87u2zeUF_5nL0voEypNegN6C4MUooiOfWRXat3bQ=w16383",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "d155f9348b4357b38e30",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQexwmSph0BQQAmkrWiwWtYK_Q3ivtRWBf-uHT4qG8_QsqUA5I2VaMRNilnMbt9mmqwcX8kPpm2aY1cWfEhvbhS9aDT-sZ6a1dqAG8LjSdHGRgGjup8CanFReGOVWhQyLoIzDphy4RXK-4VoTgdvSwWvX_SJ_3A4sFF8nWREABH-XgK9Ny6k1Dnvw0_acyQ=w1280",
+      "local": "/media/d155f9348b4357b38e30.jpg",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2021/dataset-2021",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQexwmSph0BQQAmkrWiwWtYK_Q3ivtRWBf-uHT4qG8_QsqUA5I2VaMRNilnMbt9mmqwcX8kPpm2aY1cWfEhvbhS9aDT-sZ6a1dqAG8LjSdHGRgGjup8CanFReGOVWhQyLoIzDphy4RXK-4VoTgdvSwWvX_SJ_3A4sFF8nWREABH-XgK9Ny6k1Dnvw0_acyQ=w16383",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "ae8c36fbbb1dcd1a1718",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQfUsMjEKfV2tUgbjhmNMU9vDbdiHf4KIPrCU71iE-bwY0PhtPkFaEI9UCEBaKmGCGKvpEWqWBemdIz_Ev2joMQN8dbUwvnfXyoyS0vouVHDVQj773xsSJff5nWrPdEv6VsGvdr6JOHHzxG-cM1NW2e9djs65n2pcH2OKbLdKizRxXsl6Ouwcd4_h-lbGV4=w1280",
+      "local": "/media/ae8c36fbbb1dcd1a1718.jpg",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2021/dataset-2021",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQfUsMjEKfV2tUgbjhmNMU9vDbdiHf4KIPrCU71iE-bwY0PhtPkFaEI9UCEBaKmGCGKvpEWqWBemdIz_Ev2joMQN8dbUwvnfXyoyS0vouVHDVQj773xsSJff5nWrPdEv6VsGvdr6JOHHzxG-cM1NW2e9djs65n2pcH2OKbLdKizRxXsl6Ouwcd4_h-lbGV4=w16383",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "458c43834629d27f094f",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQcDhxlLUmM6x8G1vryzlVSIc_ozU0z5Iuwd_lJZNl1k-BbDvKNuj8tZLTFARlTppuIWQ_oMWVy5p0_0vxQtF6dHd_cUQnuCpSC5Xvwj6JlmszxDeeC6H-iiXxATnWgS5b5QW3TlvKKG4VApkZInAfPbSWAxJjclrGeaIi5vjO8gPA97qzwf99xtrQOJ=w1280",
+      "local": "/media/458c43834629d27f094f.jpg",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2021/dataset-2021",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQcDhxlLUmM6x8G1vryzlVSIc_ozU0z5Iuwd_lJZNl1k-BbDvKNuj8tZLTFARlTppuIWQ_oMWVy5p0_0vxQtF6dHd_cUQnuCpSC5Xvwj6JlmszxDeeC6H-iiXxATnWgS5b5QW3TlvKKG4VApkZInAfPbSWAxJjclrGeaIi5vjO8gPA97qzwf99xtrQOJ=w16383",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "1982409e10ace69ba254",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQfyLJt2ZA91JpOevlC5Xah8XaOeEM_nYHdCCmxAUySHu7wFvTi4N1l29AVBPrDV0fftBMm-X_hFn3i5mi4MYGe0dgOaLnxkKcWv5p1u8QmhbjvN6owjh7qtS9cNHEWpqXmgNUk8eonSLLhkTTZL9lnJEkOoDpo2XDHAqjgicGMARLSCoMbfKVB4J5Ml=w1280",
+      "local": "/media/1982409e10ace69ba254.jpg",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2021/dataset-2021",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQfyLJt2ZA91JpOevlC5Xah8XaOeEM_nYHdCCmxAUySHu7wFvTi4N1l29AVBPrDV0fftBMm-X_hFn3i5mi4MYGe0dgOaLnxkKcWv5p1u8QmhbjvN6owjh7qtS9cNHEWpqXmgNUk8eonSLLhkTTZL9lnJEkOoDpo2XDHAqjgicGMARLSCoMbfKVB4J5Ml=w16383",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "86ae3bb5bab78a84146d",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQeDBBe47sSx0avKYquFfoQumU9NKKF6ECU-JA4KDOrTUieoSQ-MefIIzpGF1ghCod2aR33Lk13YufiI5-sSf_iKCh3PBM5TJQK4pZgWOD7bZeLlPbtJQYKwbwYMfAlbM2ReNHXDgcH6Tqz7QZJ6pzgqDf2ZhrnCXR5_jVp-lbiwL9rKsLAeDqzPblaEbNo=w1280",
+      "local": "/media/86ae3bb5bab78a84146d.jpg",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2021/dataset-2021",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQeDBBe47sSx0avKYquFfoQumU9NKKF6ECU-JA4KDOrTUieoSQ-MefIIzpGF1ghCod2aR33Lk13YufiI5-sSf_iKCh3PBM5TJQK4pZgWOD7bZeLlPbtJQYKwbwYMfAlbM2ReNHXDgcH6Tqz7QZJ6pzgqDf2ZhrnCXR5_jVp-lbiwL9rKsLAeDqzPblaEbNo=w16383",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "7357e8345764bb123bf7",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQeaUPX6n0r1FhZqqidG3ImYLZl0U0FC1T23ItWPz2llbRJNP2QHgHJy6AEYLVMUpPa3SvZClH9kLXkAAA346KT_EuRhT2Mi-5_fMyovzVDpE7UIiCRP3RyUpoHVlycUyBzW_OhC0MeoURFLXjVOg9xSEiz9t5yGUHNpcJKZ_85t5qrpSmB9iESciuI5uHQ=w1280",
+      "local": "/media/7357e8345764bb123bf7.jpg",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2021/dataset-2021",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQeaUPX6n0r1FhZqqidG3ImYLZl0U0FC1T23ItWPz2llbRJNP2QHgHJy6AEYLVMUpPa3SvZClH9kLXkAAA346KT_EuRhT2Mi-5_fMyovzVDpE7UIiCRP3RyUpoHVlycUyBzW_OhC0MeoURFLXjVOg9xSEiz9t5yGUHNpcJKZ_85t5qrpSmB9iESciuI5uHQ=w16383",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "d3416dd7e28078e8137a",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQcPWLkaaCVtxgYrwfVTgEfo91YK3zRBVjDeNiB0poLRz3URXlx5cYeX_DOBoqsE2ipt61_rs_oB6dpX9Czw4nTIeicWZPiiN6_4IEoku9xkMBTGZQC-RN-NSL0l_FhM2bFCrxOBcrFEQ1mCKof4igXVXyh3Q71Yt3tsuT9RbNCixcT62DwtUbFXKyFLBdU=w1280",
+      "local": "/media/d3416dd7e28078e8137a.jpg",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2021/dataset-2021",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQcPWLkaaCVtxgYrwfVTgEfo91YK3zRBVjDeNiB0poLRz3URXlx5cYeX_DOBoqsE2ipt61_rs_oB6dpX9Czw4nTIeicWZPiiN6_4IEoku9xkMBTGZQC-RN-NSL0l_FhM2bFCrxOBcrFEQ1mCKof4igXVXyh3Q71Yt3tsuT9RbNCixcT62DwtUbFXKyFLBdU=w16383",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "52eca8588434a7858181",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQdzkQ3iAElm-55Nw561nZD27c7Lo-gwAHY7CyDWVsS1ewRrp0zf5YRdl-sL429hvgH-OQy57IgVvy_ish1YyklszxYuY8o1nBwJphfG7ar9JzUW0Z7TQiw64eniyr6nMEQc7_EZGuLJh7TGUMaN8Tiim8UsJJtFnUe7U9_ILLG7jj9KyQpumQMyolCJyxo=w1280",
+      "local": "/media/52eca8588434a7858181.jpg",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2021/dataset-2021",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQdzkQ3iAElm-55Nw561nZD27c7Lo-gwAHY7CyDWVsS1ewRrp0zf5YRdl-sL429hvgH-OQy57IgVvy_ish1YyklszxYuY8o1nBwJphfG7ar9JzUW0Z7TQiw64eniyr6nMEQc7_EZGuLJh7TGUMaN8Tiim8UsJJtFnUe7U9_ILLG7jj9KyQpumQMyolCJyxo=w16383",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "bff002f6ed885ce1ef27",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQcZfERcDHAFAONfVyfaRBiY_Pl5NcpMHxLAcQ8m7fDxPDHheeuLmtQ7IMNHEEd96dRNg8m8qbbpUsySOHbm-goARQc73aZQE8gpOMNf592Vc084mBAE5a1fawGXiA-so9wKSpLtBmTgPYrnw5OOvciLK9PJRtMrMu5F1wv-0xrrP7ZXzSSjrNYKYvxLDTQ=w1280",
+      "local": "/media/bff002f6ed885ce1ef27.jpg",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2021/dataset-2021",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQcZfERcDHAFAONfVyfaRBiY_Pl5NcpMHxLAcQ8m7fDxPDHheeuLmtQ7IMNHEEd96dRNg8m8qbbpUsySOHbm-goARQc73aZQE8gpOMNf592Vc084mBAE5a1fawGXiA-so9wKSpLtBmTgPYrnw5OOvciLK9PJRtMrMu5F1wv-0xrrP7ZXzSSjrNYKYvxLDTQ=w16383",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "117509497906a7b2f117",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQdXvtM4fsggpTpsLvYjv9rPbiRp_OertU3UikxcWvCHjsnYL3xw-owVbNfyP8Umuq9uor-As1vxwtqMANW_NDBv0m0yg2AlJFxbAc92fguGju1NkkEXB6y0OnWYFvnX84eCcIdeFYywFlvHVsG3HXtILIpMND9Ff19KUeQ9FVZrqT9pO9gf9UgPZCq6=w1280",
+      "local": "/media/117509497906a7b2f117.jpg",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2021/dataset-2021",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQdXvtM4fsggpTpsLvYjv9rPbiRp_OertU3UikxcWvCHjsnYL3xw-owVbNfyP8Umuq9uor-As1vxwtqMANW_NDBv0m0yg2AlJFxbAc92fguGju1NkkEXB6y0OnWYFvnX84eCcIdeFYywFlvHVsG3HXtILIpMND9Ff19KUeQ9FVZrqT9pO9gf9UgPZCq6=w16383",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "3ffdc205b9ab48da1196",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQd8CGoLzOM4w1jx8AECozzVewc9sXWqFQvZTCaPzI0nwJR-jri5vXfevOkdvB7nyhApB4bq2wpuZpAgfCnvLeZQp9lJM-N51FPXr2sYcR21Kp3xjEumOxsvhIN-MayzAkLELdw6L_mGPAr_71a2143QinACDc23LNNd96_X3AuV0rg8e_uuGoSneASJMLM=w1280",
+      "local": "/media/3ffdc205b9ab48da1196.jpg",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2021/dataset-2021",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQd8CGoLzOM4w1jx8AECozzVewc9sXWqFQvZTCaPzI0nwJR-jri5vXfevOkdvB7nyhApB4bq2wpuZpAgfCnvLeZQp9lJM-N51FPXr2sYcR21Kp3xjEumOxsvhIN-MayzAkLELdw6L_mGPAr_71a2143QinACDc23LNNd96_X3AuV0rg8e_uuGoSneASJMLM=w16383",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "f3bc86f623786f8334cb",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQdIdZkBy0bJH2OYS-BazYpDbAM65QMHF7jS6KYwtvE2cQZUPOSyrNI2S2LNFiYlOev7JFAnflCW9Rvwhsx0xUM8c-ePlLqwNTKjv9Vu0pPOvJfOf_mOAi5OSnvNwQHqSVHGg4dLwEN5qUWF51u_ISmuUOA8Alw-CmkpWPdztyV8NL_Z3SW8KXXRRm-9=w1280",
+      "local": "/media/f3bc86f623786f8334cb.jpg",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2021/dataset-2021",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQdIdZkBy0bJH2OYS-BazYpDbAM65QMHF7jS6KYwtvE2cQZUPOSyrNI2S2LNFiYlOev7JFAnflCW9Rvwhsx0xUM8c-ePlLqwNTKjv9Vu0pPOvJfOf_mOAi5OSnvNwQHqSVHGg4dLwEN5qUWF51u_ISmuUOA8Alw-CmkpWPdztyV8NL_Z3SW8KXXRRm-9=w16383",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "7bed0a746afd71b5d9d2",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQdSzaQYNOsqUQv5h6O241SWh6E8dgy_4N3ywjCk0FK_Y9jbi6-ODa2CDtGANHO3X9hraOOA3s9LS0ffuOPTIm71bjpwWGOBjbL7UYadhjIemMIGN8i7wf1mBeVa-eaQ76CCZMD7eg4HZAHVrrRuJrPEl7x45n7_jD2MQZmor64tpI_4ZNwzq34zBEGZIIw=w1280",
+      "local": "/media/7bed0a746afd71b5d9d2.jpg",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2021/dataset-2021",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQdSzaQYNOsqUQv5h6O241SWh6E8dgy_4N3ywjCk0FK_Y9jbi6-ODa2CDtGANHO3X9hraOOA3s9LS0ffuOPTIm71bjpwWGOBjbL7UYadhjIemMIGN8i7wf1mBeVa-eaQ76CCZMD7eg4HZAHVrrRuJrPEl7x45n7_jD2MQZmor64tpI_4ZNwzq34zBEGZIIw=w16383",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "20643aa2f5cc89389e92",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQei3MGczE5PYNRnHBwYe4JAiraYl98ZRbvdyIIwzk5gPAKz7ATYIqnx8HF6e7gdZXmIMfolJkk4QJVxxrBX74FY-CqvwkKiJ6N4LitpgcWfh-aZ4OYTqDtXwb-3S2Mls4Mq8daJTjIjOQAqK2XfRBCcfG2Fddg3d4njg42v8zOioJJpGsXtfv8AWir0=w1280",
+      "local": "/media/20643aa2f5cc89389e92.jpg",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2021/dataset-2021",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQei3MGczE5PYNRnHBwYe4JAiraYl98ZRbvdyIIwzk5gPAKz7ATYIqnx8HF6e7gdZXmIMfolJkk4QJVxxrBX74FY-CqvwkKiJ6N4LitpgcWfh-aZ4OYTqDtXwb-3S2Mls4Mq8daJTjIjOQAqK2XfRBCcfG2Fddg3d4njg42v8zOioJJpGsXtfv8AWir0=w16383",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "471cfe7cff57fcdb8408",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQev1w8zkRFJ1oI_1MLvsf9xgEo2vJOO2rYkka96tSw4n_NWyMPXVxRN2vAKnA4aIs98QA_v72r0La7noc3DWQ1LyaFr46Gpn2jIHc17Am6-y1qCFsfZ0rLmv7z_ce9uPzJw5Edgw2XUJ-YxG9eJ9YVnmYdff-3GQwhMyRMkcD94gOeI3uix_vYwPN2NUkg=w1280",
+      "local": "/media/471cfe7cff57fcdb8408.jpg",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2021/dataset-2021",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQev1w8zkRFJ1oI_1MLvsf9xgEo2vJOO2rYkka96tSw4n_NWyMPXVxRN2vAKnA4aIs98QA_v72r0La7noc3DWQ1LyaFr46Gpn2jIHc17Am6-y1qCFsfZ0rLmv7z_ce9uPzJw5Edgw2XUJ-YxG9eJ9YVnmYdff-3GQwhMyRMkcD94gOeI3uix_vYwPN2NUkg=w16383",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "70c152e25ccb88593eb3",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQdZQ6Wh1xYMNZnL6xDLjDlFdOFqSz4TExFCWALldcFxGjYmquBeA8cRzdwaZpfRc2tNLKRPA70sVHsBOq3nQJA6yiqjpnP7NLWBRKdCQQO8Xs7b3zA18PWuVMHFzv9YQiFd1n-dALrywm5T_JpTvnXlJWsdbEfCGjZ-c_-jvUrFcmfJNJzxKGvDf4uPEc0=w1280",
+      "local": "/media/70c152e25ccb88593eb3.jpg",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2021/dataset-2021",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQdZQ6Wh1xYMNZnL6xDLjDlFdOFqSz4TExFCWALldcFxGjYmquBeA8cRzdwaZpfRc2tNLKRPA70sVHsBOq3nQJA6yiqjpnP7NLWBRKdCQQO8Xs7b3zA18PWuVMHFzv9YQiFd1n-dALrywm5T_JpTvnXlJWsdbEfCGjZ-c_-jvUrFcmfJNJzxKGvDf4uPEc0=w16383",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "6af8415816b3f317684e",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQeyi2CMA6RXAr9QVk3AP0vviG5O-z_irC0ylLl0d7LECPsIP7FFMQG_MxTo49LzcRgnzC8LBTZzfSVcgc5th4zTbiqSHOB4YhMyeagXSpDB9x0-Uz3Ta-AkE0A9IYyEFDNCQEbPZTxgH1WcU88jLXKz08Gnx6_-M-0EXGRTJr_QDrlr_wKB6M4a8O4DUR4=w1280",
+      "local": "/media/6af8415816b3f317684e.jpg",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2021/dataset-2021",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQeyi2CMA6RXAr9QVk3AP0vviG5O-z_irC0ylLl0d7LECPsIP7FFMQG_MxTo49LzcRgnzC8LBTZzfSVcgc5th4zTbiqSHOB4YhMyeagXSpDB9x0-Uz3Ta-AkE0A9IYyEFDNCQEbPZTxgH1WcU88jLXKz08Gnx6_-M-0EXGRTJr_QDrlr_wKB6M4a8O4DUR4=w16383",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "e775fde5078d678175bc",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQfhSKd27uWIBiAcDhjwvmpBSP1lBwbD85neCoSM5vFywzRARtBjw6d5ffqlfb26N11yO_5_wpxpaYGdyx-5l2VfzrchI8ezRqPFsCTWaiEKKzB2AMVgwm8BWqjyZzWPzMMeBW6Pzl_gJ9mvSaF2AUrh1ta_HWWAnhrs9K6Jq-6QUJhsi8iucNlbdcG_9rU=w1280",
+      "local": "/media/e775fde5078d678175bc.jpg",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2021/dataset-2021",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQfhSKd27uWIBiAcDhjwvmpBSP1lBwbD85neCoSM5vFywzRARtBjw6d5ffqlfb26N11yO_5_wpxpaYGdyx-5l2VfzrchI8ezRqPFsCTWaiEKKzB2AMVgwm8BWqjyZzWPzMMeBW6Pzl_gJ9mvSaF2AUrh1ta_HWWAnhrs9K6Jq-6QUJhsi8iucNlbdcG_9rU=w16383",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "81669199be94619d405b",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQcf5HuF60vg9CZMP3nb0L86KRNKAGZn_q7i-rgrs5KLIuKOOVXlTdyJAIA6Fb30CvGT_Uq3fukIycGwMuc9BneZojM8JTCPf_HoKpnjmaOcAREfcuZpEFa1Zo3xsU4OdfsuBuujSW1_HIv3XoEphy5dsDT_HDLcEw_reKeccYEYkcPgsZOyObrO61lA=w1280",
+      "local": "/media/81669199be94619d405b.jpg",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2021/dataset-2021",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQcf5HuF60vg9CZMP3nb0L86KRNKAGZn_q7i-rgrs5KLIuKOOVXlTdyJAIA6Fb30CvGT_Uq3fukIycGwMuc9BneZojM8JTCPf_HoKpnjmaOcAREfcuZpEFa1Zo3xsU4OdfsuBuujSW1_HIv3XoEphy5dsDT_HDLcEw_reKeccYEYkcPgsZOyObrO61lA=w16383",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "3c4bf1c6658e7fa20d4d",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQdzbtgnAwDVsw6pRUTP71SYaHvuqdbbLD6JKbAAzUoiBi5EVuoU-OKtKAWoJ1KE5Qzsbwf8KpVh7hieTaMKSeog1WB--_tOOZ21hRCDtauxrTS9yGSXhJhxNthH8Y8egu08cO-8eVxlVNntVsIf-to_LLE1ed46FOeJs93TIjyKO_zPe6e1TlSnc5fZ=w1280",
+      "local": "/media/3c4bf1c6658e7fa20d4d.jpg",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2021/dataset-2021",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQdzbtgnAwDVsw6pRUTP71SYaHvuqdbbLD6JKbAAzUoiBi5EVuoU-OKtKAWoJ1KE5Qzsbwf8KpVh7hieTaMKSeog1WB--_tOOZ21hRCDtauxrTS9yGSXhJhxNthH8Y8egu08cO-8eVxlVNntVsIf-to_LLE1ed46FOeJs93TIjyKO_zPe6e1TlSnc5fZ=w16383",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "e14e5b3b3014797d5b56",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQeWOHohrqCehHstG1E2ndYR0igB6GUbISLAIKNSB5Emm4ic3OdoKuJRIzu6TVTukn837e7tLQBFjbKX443_vJq1MTH5YLlKiLudU-GkvOu3RgMUaJ-A8DatvIwhkhoEV4OXuWvTAa30xBaL8-16smdQe-Yv3uiN-YvVFog3rt6gK0r7ZvrfOTqRNJC_7dQ=w1280",
+      "local": "/media/e14e5b3b3014797d5b56.jpg",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2021/dataset-2021",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQeWOHohrqCehHstG1E2ndYR0igB6GUbISLAIKNSB5Emm4ic3OdoKuJRIzu6TVTukn837e7tLQBFjbKX443_vJq1MTH5YLlKiLudU-GkvOu3RgMUaJ-A8DatvIwhkhoEV4OXuWvTAa30xBaL8-16smdQe-Yv3uiN-YvVFog3rt6gK0r7ZvrfOTqRNJC_7dQ=w16383",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "2364322ec49e96a6c31e",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQffFmSbr25ZdMuAYxVinv-XSTVCQDNGakHyhruOuPNt2KsogM21UBULg5IaRf6sm1EFKwYV_90GKZEPmKg9QQPT-3lhFCTvas0S7VUyM6rr7MbmjbVytKhiE2vbPTk6X6yCUwqWx-oMKe2r_DPGNsv5G1ggz4GXIyBqQ4-fD0CVhG9np9BsH_SpQK6Ae6Y=w1280",
+      "local": "/media/2364322ec49e96a6c31e.jpg",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2021/dataset-2021",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQffFmSbr25ZdMuAYxVinv-XSTVCQDNGakHyhruOuPNt2KsogM21UBULg5IaRf6sm1EFKwYV_90GKZEPmKg9QQPT-3lhFCTvas0S7VUyM6rr7MbmjbVytKhiE2vbPTk6X6yCUwqWx-oMKe2r_DPGNsv5G1ggz4GXIyBqQ4-fD0CVhG9np9BsH_SpQK6Ae6Y=w16383",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "f7322e7eff66fa96e4c9",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQfNSUgCxLLO5glXXSNpQ8Lw1nQnSbZhwGV0HT1o0V_hOE-D99kZNRwj1u3jG9h3XphEe1Dt1dcNMZo7rv-OVKttBVq6Uc2JM87T5nM5AGUOjQ_40zLYf_RVsDG9OxRgJmxqwP0NyNMwZ1ZZga4IpYzM7gzPLY5LU9d9E1hjS5iRP5TRpV0EpkPZ9SrBkk4=w1280",
+      "local": "/media/f7322e7eff66fa96e4c9.jpg",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2021/dataset-2021",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQfNSUgCxLLO5glXXSNpQ8Lw1nQnSbZhwGV0HT1o0V_hOE-D99kZNRwj1u3jG9h3XphEe1Dt1dcNMZo7rv-OVKttBVq6Uc2JM87T5nM5AGUOjQ_40zLYf_RVsDG9OxRgJmxqwP0NyNMwZ1ZZga4IpYzM7gzPLY5LU9d9E1hjS5iRP5TRpV0EpkPZ9SrBkk4=w16383",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "0e18f0c9fea942dae599",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQcocGcMeH0y-qy_JoPi8oAFHo4IfhrQ4vxZISSzwaN5fwILi6uJ8TXCrv0B3XaOiZHR6Sg36up7hiucpa5eiVKNnvCa4nG9VxngFy--HrXPve-xZzUYXo0QIDW2WDfJi9payCdVxikRXCAWQ7JmGksx-E18IeKALAevzG-DdH4p41vJQXbQK_zdnaus=w1280",
+      "local": "/media/0e18f0c9fea942dae599.jpg",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2021/dataset-2021",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQcocGcMeH0y-qy_JoPi8oAFHo4IfhrQ4vxZISSzwaN5fwILi6uJ8TXCrv0B3XaOiZHR6Sg36up7hiucpa5eiVKNnvCa4nG9VxngFy--HrXPve-xZzUYXo0QIDW2WDfJi9payCdVxikRXCAWQ7JmGksx-E18IeKALAevzG-DdH4p41vJQXbQK_zdnaus=w16383",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "b48ecd4024e47ca1c5c9",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQcei3ZnGAAJdGwcXIlAwAVR2FGogyffb_mkUh4ZWk-1P3TD0xQleg3mx5LCUbmf32L9RScQFa7oUq_jHOpC6gUnM73KhTp3FREuTOM6DF__mHHWoYuTVi2dJJMF1V45PMDVT6oWq_0mFSO9qjZ8fUu00GH-0DYvGY-ZEId3n16-ZZqhFVFKmI-rwBqkvt1K-2YekjLQGW-XkpPXAHba0pb8MFzzKE4LWBN_E-wY=w1280",
+      "local": "/media/b48ecd4024e47ca1c5c9.jpg",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2022",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQcei3ZnGAAJdGwcXIlAwAVR2FGogyffb_mkUh4ZWk-1P3TD0xQleg3mx5LCUbmf32L9RScQFa7oUq_jHOpC6gUnM73KhTp3FREuTOM6DF__mHHWoYuTVi2dJJMF1V45PMDVT6oWq_0mFSO9qjZ8fUu00GH-0DYvGY-ZEId3n16-ZZqhFVFKmI-rwBqkvt1K-2YekjLQGW-XkpPXAHba0pb8MFzzKE4LWBN_E-wY=w1280",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "4b548eb45e2a52f58049",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQcR_eJDz95m5wnYqosJmgHgCEQEjgYsV5vDBtCK0ZKzrxart8tytxk1AjUnWdZccmEmZagdzF64FxhshuOhy3gSHuQWs7MnaQVwkOV-_wNVX0I0zMG1XzAStoEVILMA4MmgSl5aR0EeGjfkBYyfMoKsszKMYdPXZJJekJQ4_k5sZKXk2tQGainYL7pkjZdcrMAE5t6rp2NLjQNam4Qmo7H1HE41T0Xi0Th-x7FODMg=w1280",
+      "local": "/media/4b548eb45e2a52f58049.jpg",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2022",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQcR_eJDz95m5wnYqosJmgHgCEQEjgYsV5vDBtCK0ZKzrxart8tytxk1AjUnWdZccmEmZagdzF64FxhshuOhy3gSHuQWs7MnaQVwkOV-_wNVX0I0zMG1XzAStoEVILMA4MmgSl5aR0EeGjfkBYyfMoKsszKMYdPXZJJekJQ4_k5sZKXk2tQGainYL7pkjZdcrMAE5t6rp2NLjQNam4Qmo7H1HE41T0Xi0Th-x7FODMg=w1280",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "05525f1de2af571f3722",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQeJ4WK2g2ShayaEKSBl9WW0Wi60zE5dhxwqyhU-UH3X-d7zuWkY5heM4oO82fjs0_Faf7h8GAKoek1QAvuCRXKinuLw6Z4g1BNmxMlR_y8PSF0brnx3U3yQ0naybNugSR-Z_ipQfpbwhmjUMWjwAmcZi2FY9aiM-V1zY4Gf6F5vEPAh1zmSyWg-qoaid75b_CZ8FXv6DutY9P0FvIJ9zpdommFoB43j7PQkVniTEIs=w1280",
+      "local": "/media/05525f1de2af571f3722.jpg",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2022",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQeJ4WK2g2ShayaEKSBl9WW0Wi60zE5dhxwqyhU-UH3X-d7zuWkY5heM4oO82fjs0_Faf7h8GAKoek1QAvuCRXKinuLw6Z4g1BNmxMlR_y8PSF0brnx3U3yQ0naybNugSR-Z_ipQfpbwhmjUMWjwAmcZi2FY9aiM-V1zY4Gf6F5vEPAh1zmSyWg-qoaid75b_CZ8FXv6DutY9P0FvIJ9zpdommFoB43j7PQkVniTEIs=w1280",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "c764c20e30f270d1b9a1",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQddKYSTKMgJHjNBzt9AnkvBTbAG4oGHnOVFZC12jtd0ctisHQQ9my1QEGarovnK9rdA21J0hOpo-04uHpfOtyhrpsnrEm76eheWzGAxKx0tHl4C3ch2s5WLIC8gywzt2gVWPPHVv6taQAVHaNKXwOxbdra5x4Mx36UuondHDXYVo30-yvGBCNWttPvdodo=w1280",
+      "local": "/media/c764c20e30f270d1b9a1.png",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2022",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQddKYSTKMgJHjNBzt9AnkvBTbAG4oGHnOVFZC12jtd0ctisHQQ9my1QEGarovnK9rdA21J0hOpo-04uHpfOtyhrpsnrEm76eheWzGAxKx0tHl4C3ch2s5WLIC8gywzt2gVWPPHVv6taQAVHaNKXwOxbdra5x4Mx36UuondHDXYVo30-yvGBCNWttPvdodo=w1280",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "af2705594afa3862bd0d",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQde9gHBM7tIPIWaDt4O1Gt63Gq-2MUZP3001IwxY1RTob91QjPn_EwUmeTIuvETQ0d9Sllh6Gm6PI9jZO3OrGGl5MzTVC2gmqVEJbuz6yeeDA05A33qHoJyT2siDvbcWep3-9RdypBtwMLVtINg17Qxltc9eXCzvAXTdVsgxK-J0aJZQVcufiPcjotbGwXv6w8UbAYmFrvU4fHRThmgJaxB-MzmY6571lMTGXgYh2s=w1280",
+      "local": "/media/af2705594afa3862bd0d.jpg",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2022",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQde9gHBM7tIPIWaDt4O1Gt63Gq-2MUZP3001IwxY1RTob91QjPn_EwUmeTIuvETQ0d9Sllh6Gm6PI9jZO3OrGGl5MzTVC2gmqVEJbuz6yeeDA05A33qHoJyT2siDvbcWep3-9RdypBtwMLVtINg17Qxltc9eXCzvAXTdVsgxK-J0aJZQVcufiPcjotbGwXv6w8UbAYmFrvU4fHRThmgJaxB-MzmY6571lMTGXgYh2s=w1280",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "8b2b499c89872457a16d",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQegpe35Cqhp1WtD_4ex81wxNqLwt5A-x1Ujdk3iuJTHBT3OUnMfTp3N3WBKASBTjglKBJsPv6EKOSfuEHZS2NHy8kj2uhD94hdl55zFkjujhUh4IVfgkCwLAsju-L9Fw62iWWEFgRgK9r2XKBN7P9BfsuGj6f85bHugQSSuWOGyDVEtCu8gFV4n0NwDi9hab90nnBlYQBELiVsRLk2ERoABANYYl0-mD_WTV8nf=w1280",
+      "local": "/media/8b2b499c89872457a16d.jpg",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2022",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQegpe35Cqhp1WtD_4ex81wxNqLwt5A-x1Ujdk3iuJTHBT3OUnMfTp3N3WBKASBTjglKBJsPv6EKOSfuEHZS2NHy8kj2uhD94hdl55zFkjujhUh4IVfgkCwLAsju-L9Fw62iWWEFgRgK9r2XKBN7P9BfsuGj6f85bHugQSSuWOGyDVEtCu8gFV4n0NwDi9hab90nnBlYQBELiVsRLk2ERoABANYYl0-mD_WTV8nf=w1280",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "7729706dec1f0009d987",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQdP3hHEySSDGjv1JDbO2ytdbPHL8wnW0aFKgncS_HgfXSTtkwuDHZ_UWNApFM7UE2hyMYlUWTN6aYgpvmHzYObN8o7EQmHKUzRW5iRjPIx7geDeEsqGyVd6APqHjMcy4jYPNVKRPIR1vefTOGr6ZfYsIvFJl4CSfVPf9iLLBLCCbkBz3pmXNxMnIzLv8cZd0TK2F_DtTtm_4SoTb-f8BKPuWc8xp3jg8WdgNGtBhz8=w1280",
+      "local": "/media/7729706dec1f0009d987.jpg",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2022",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQdP3hHEySSDGjv1JDbO2ytdbPHL8wnW0aFKgncS_HgfXSTtkwuDHZ_UWNApFM7UE2hyMYlUWTN6aYgpvmHzYObN8o7EQmHKUzRW5iRjPIx7geDeEsqGyVd6APqHjMcy4jYPNVKRPIR1vefTOGr6ZfYsIvFJl4CSfVPf9iLLBLCCbkBz3pmXNxMnIzLv8cZd0TK2F_DtTtm_4SoTb-f8BKPuWc8xp3jg8WdgNGtBhz8=w1280",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "ad5807bace6832761e9f",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQf5bHSUtsFgZ9h7OHFO2SVcD6NQHtLEA87qXgJGrN9Clcmt_AuJE7qPLD16o7P6Z542cV1RJbZzjAfidHN0KSfeFoS6YmcOTlXOQTXrgQbN4rY-ahuW5AT47_mXuT94NkF3VuqD-jCQmty_ERIyqCuqwtgiMLWW0gwnQYdeauwJkG_bYxoFd9Bne--vkRQ=w1280",
+      "local": "/media/ad5807bace6832761e9f.jpg",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2022",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQf5bHSUtsFgZ9h7OHFO2SVcD6NQHtLEA87qXgJGrN9Clcmt_AuJE7qPLD16o7P6Z542cV1RJbZzjAfidHN0KSfeFoS6YmcOTlXOQTXrgQbN4rY-ahuW5AT47_mXuT94NkF3VuqD-jCQmty_ERIyqCuqwtgiMLWW0gwnQYdeauwJkG_bYxoFd9Bne--vkRQ=w1280",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "47ee25e5d47c78640b9d",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQfgI1go9iMXX78UpYbgctIszVOWE4H6lwPWyeLhnCeR1kbBBpELgUOLSyks9ul9S4J3rSgwAxWb5sCXmyQ01jQflLrWlEFfzvx0hHWzGmm1eWoDehenjRnfpW103RUur9p_IyPFhXol9j2TlQUehEqfZe3E4a5wIJ_LNcspIyp_Yh2fYx6vwbjYhIkqORA=w1280",
+      "local": "/media/47ee25e5d47c78640b9d.jpg",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2022",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQfgI1go9iMXX78UpYbgctIszVOWE4H6lwPWyeLhnCeR1kbBBpELgUOLSyks9ul9S4J3rSgwAxWb5sCXmyQ01jQflLrWlEFfzvx0hHWzGmm1eWoDehenjRnfpW103RUur9p_IyPFhXol9j2TlQUehEqfZe3E4a5wIJ_LNcspIyp_Yh2fYx6vwbjYhIkqORA=w1280",
+          "placement": "image"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2023",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQfgI1go9iMXX78UpYbgctIszVOWE4H6lwPWyeLhnCeR1kbBBpELgUOLSyks9ul9S4J3rSgwAxWb5sCXmyQ01jQflLrWlEFfzvx0hHWzGmm1eWoDehenjRnfpW103RUur9p_IyPFhXol9j2TlQUehEqfZe3E4a5wIJ_LNcspIyp_Yh2fYx6vwbjYhIkqORA=w1280",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "df9cf2105eca6d1e8b17",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQdR2-tRjHoW_qtPOurpvULX5jI8HcePTtccjHbFzmyGLEt9Vussn00QkL9y-5z1S-Al-0bvyMSK205dGfzb_4W5zoS9t8SZBzzPVKQq_JCsC2wsp8ZNyxAz2iPDu9SU2NJQzTPL-lxblLB4HcIbm8vAW2pBPEL0v8Iut43H59fkpD37vDlsDCsp6fSLPgnZLRI7WVOG36M4FrOUbcoDCwOESJELywSy6BdmZCOsqTc=w1280",
+      "local": "/media/df9cf2105eca6d1e8b17.jpg",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2022",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQdR2-tRjHoW_qtPOurpvULX5jI8HcePTtccjHbFzmyGLEt9Vussn00QkL9y-5z1S-Al-0bvyMSK205dGfzb_4W5zoS9t8SZBzzPVKQq_JCsC2wsp8ZNyxAz2iPDu9SU2NJQzTPL-lxblLB4HcIbm8vAW2pBPEL0v8Iut43H59fkpD37vDlsDCsp6fSLPgnZLRI7WVOG36M4FrOUbcoDCwOESJELywSy6BdmZCOsqTc=w1280",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "6b215c372081da67a202",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQdIo0RF_DFzcqOBiCffFNOq3K-vGBkh-gvoispB1y1RwljlebLC1UjLmAFj8P2cMWAtTOI64-7RHDCOzfnz_9Tn8gsqZ1plM_I6l6XfFpx-Izew2FtFtUyB3wkW1I6Xdy0GrxI140d56wR-OB0O-L7CgFvSuEzoFvANdMEWtmmm8l517DBs7kTLXs9hFOALE7rukCWKvhPZCg3_kqyKbi8BvVcIoXYaT78uE4rmcH4=w1280",
+      "local": "/media/6b215c372081da67a202.jpg",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2022",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQdIo0RF_DFzcqOBiCffFNOq3K-vGBkh-gvoispB1y1RwljlebLC1UjLmAFj8P2cMWAtTOI64-7RHDCOzfnz_9Tn8gsqZ1plM_I6l6XfFpx-Izew2FtFtUyB3wkW1I6Xdy0GrxI140d56wR-OB0O-L7CgFvSuEzoFvANdMEWtmmm8l517DBs7kTLXs9hFOALE7rukCWKvhPZCg3_kqyKbi8BvVcIoXYaT78uE4rmcH4=w1280",
+          "placement": "image"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2023",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQdIo0RF_DFzcqOBiCffFNOq3K-vGBkh-gvoispB1y1RwljlebLC1UjLmAFj8P2cMWAtTOI64-7RHDCOzfnz_9Tn8gsqZ1plM_I6l6XfFpx-Izew2FtFtUyB3wkW1I6Xdy0GrxI140d56wR-OB0O-L7CgFvSuEzoFvANdMEWtmmm8l517DBs7kTLXs9hFOALE7rukCWKvhPZCg3_kqyKbi8BvVcIoXYaT78uE4rmcH4=w1280",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "c25435720f7c9dd84cc5",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQcGe4mfejulibZrS66zO3MH9twaUc8vTRH54n5FEpHBO1K4dA7yfj5lSJKm50Hybn85nsLr3nKowSnirhBfNdrobPGUs2CbLPHGsxR1zWjQc3V5-vJ4ztGZPB7hYgHu-9Fp700-OJwG4-c0h3ncu2-V58wWZwAVSxkvdhR9QLLQiVdgVu6R3Pzord08-LUjQ1gQ_4p-2uhlM6x-O11p8DhOrVtM7U-BCSKO7Vm-AjU=w1280",
+      "local": "/media/c25435720f7c9dd84cc5.png",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2022/prize-challenge-2022/agriculture-vision-challenge-2022",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQcGe4mfejulibZrS66zO3MH9twaUc8vTRH54n5FEpHBO1K4dA7yfj5lSJKm50Hybn85nsLr3nKowSnirhBfNdrobPGUs2CbLPHGsxR1zWjQc3V5-vJ4ztGZPB7hYgHu-9Fp700-OJwG4-c0h3ncu2-V58wWZwAVSxkvdhR9QLLQiVdgVu6R3Pzord08-LUjQ1gQ_4p-2uhlM6x-O11p8DhOrVtM7U-BCSKO7Vm-AjU=w1280",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "44888f50d08d4c2c2774",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQfZBqGBkpHg5djCbDrW02pvIBlC0cthjt0w_bOE3a_qw7ftWfWeLYJF4ff9pQsRoEu5UekYotzKMcPEjcaT2j-65CjkCPOnVw3falNbuIT8lbGgrQ7ek1wWvmerzPIDaKi4qJfuGSqfU69w1BLBd6LJ2WyA8v0pymt6Yc25MF7FNAQdOu0wIYiq0w28taHbhxbLW0FdMvcjG_GrGPrzA2x_yKJ0vZg7uy3mv_bk=w1280",
+      "local": "/media/44888f50d08d4c2c2774.png",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2022/prize-challenge-2022/cropharvest-challenge-2022",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQfZBqGBkpHg5djCbDrW02pvIBlC0cthjt0w_bOE3a_qw7ftWfWeLYJF4ff9pQsRoEu5UekYotzKMcPEjcaT2j-65CjkCPOnVw3falNbuIT8lbGgrQ7ek1wWvmerzPIDaKi4qJfuGSqfU69w1BLBd6LJ2WyA8v0pymt6Yc25MF7FNAQdOu0wIYiq0w28taHbhxbLW0FdMvcjG_GrGPrzA2x_yKJ0vZg7uy3mv_bk=w1280",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "105721b055636405955c",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQfpAmYXzZMmYU_MinUy8o2uFua_jty1dptIP5x82YQCy0HylOkEFHnAyRBbZxGMdj5alqeJVbqj2Oz2tsVemauLIHGS0Ofmv5DWihf4OmRHtnBpp_TJF4cyJLdKoKGkwPYzqesFmARAwXj9L3gmyQc0uO13CdwwbTT1KnUOaYsvhkrVMjHYdx4WZAII-Bmjw_YJrdVCOeRQASsHII0YDeakatsmyh6-gFcMB6OC=w1280",
+      "local": "/media/105721b055636405955c.png",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2022/prize-challenge-2022/cropharvest-challenge-2022",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQfpAmYXzZMmYU_MinUy8o2uFua_jty1dptIP5x82YQCy0HylOkEFHnAyRBbZxGMdj5alqeJVbqj2Oz2tsVemauLIHGS0Ofmv5DWihf4OmRHtnBpp_TJF4cyJLdKoKGkwPYzqesFmARAwXj9L3gmyQc0uO13CdwwbTT1KnUOaYsvhkrVMjHYdx4WZAII-Bmjw_YJrdVCOeRQASsHII0YDeakatsmyh6-gFcMB6OC=w1280",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "1360ac48156ec8bfcc75",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQeVqV8-NiZss3VpWllHYiLRjvvq1MnrteOHUiaLVYr5Dq1Y_LqynjP4QMFKJwaHb7RuonMcdsmBoeatunxvRoNAWr2y6DmZ_iLO6-4GnXnpt1rHcYrFaoVOCp1BSwfhMd70W5S8UCQhOUV8NI9olfwOSSr8uNQah_4ItjsjLvFogstCgSm-5zK96StKHLjzM7mvkdnFU4bnvWNdoS7W0nIvd1kSG4TSzgqLXmw7=w1280",
+      "local": "/media/1360ac48156ec8bfcc75.png",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2022/prize-challenge-2022/cropharvest-challenge-2022",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQeVqV8-NiZss3VpWllHYiLRjvvq1MnrteOHUiaLVYr5Dq1Y_LqynjP4QMFKJwaHb7RuonMcdsmBoeatunxvRoNAWr2y6DmZ_iLO6-4GnXnpt1rHcYrFaoVOCp1BSwfhMd70W5S8UCQhOUV8NI9olfwOSSr8uNQah_4ItjsjLvFogstCgSm-5zK96StKHLjzM7mvkdnFU4bnvWNdoS7W0nIvd1kSG4TSzgqLXmw7=w1280",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "ee59e205c0d699a7c33d",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQeon6GemFPPO8mFyVdMAR4b8oIoOMYVtQzINlEbzj26d5vfQfGQSYAPq3I36HezBKlGnow4DvNv2yRqhDJreiaLQi9a_E7SmsVI2wzf_dYPiS-AQneFEUjPdVsgTOEo_gkWQJeabC925s7sa-Z7-emQsSab03tu3-Db6BVjYEt0EOrE6TK1Ib1qwUdyCrurHp9pRTIWmvL6jDBAqx7vD6vAIog0CDBR-tbyHuspTMk=w1280",
+      "local": "/media/ee59e205c0d699a7c33d.png",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2023",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQeon6GemFPPO8mFyVdMAR4b8oIoOMYVtQzINlEbzj26d5vfQfGQSYAPq3I36HezBKlGnow4DvNv2yRqhDJreiaLQi9a_E7SmsVI2wzf_dYPiS-AQneFEUjPdVsgTOEo_gkWQJeabC925s7sa-Z7-emQsSab03tu3-Db6BVjYEt0EOrE6TK1Ib1qwUdyCrurHp9pRTIWmvL6jDBAqx7vD6vAIog0CDBR-tbyHuspTMk=w1280",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "1ad78fff5dd2f6ba276d",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQcSPRci2OgPJVwuHHiog19WRm-a4PRvklWYwT7QZb55XPlbDMn_ckCKn5mleATKq1Hg8-AmTYdV3hXWlm_ni-5o7WUQqMZFWmVThDHVa9lhhzdcX9oGWOcwUj3OxrVCmxo5KyHT_Gi3XWXviHYsok29n5Qe8fJKsea3TezfShTEJ5IQ9eHNqPvBbf5MyDVrhAqlIx9b-0m2OvlwbznDbMltHO6QAwt_orK6ylw=w1280",
+      "local": "/media/1ad78fff5dd2f6ba276d.jpg",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2023",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQcSPRci2OgPJVwuHHiog19WRm-a4PRvklWYwT7QZb55XPlbDMn_ckCKn5mleATKq1Hg8-AmTYdV3hXWlm_ni-5o7WUQqMZFWmVThDHVa9lhhzdcX9oGWOcwUj3OxrVCmxo5KyHT_Gi3XWXviHYsok29n5Qe8fJKsea3TezfShTEJ5IQ9eHNqPvBbf5MyDVrhAqlIx9b-0m2OvlwbznDbMltHO6QAwt_orK6ylw=w1280",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "01c192643b35a24ea917",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQdKQLcfIkdYUQ7ogePeVaPXJBgnTs-up7EyM-W7-DrBra3bJsS2HKmyFWJUd26oudhkaBx2QFWx59pc_7M-QS6HCHEV6SIYcWPcnYjxjLdE0bwGTOU2w6tnVBgYzEKaiYr_g05COLao7ZpVZ35AYbh-xiRfmBIliGBRJleJm9g36E_6bCHkBt160RQN=w1280",
+      "local": "/media/01c192643b35a24ea917.jpg",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2023",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQdKQLcfIkdYUQ7ogePeVaPXJBgnTs-up7EyM-W7-DrBra3bJsS2HKmyFWJUd26oudhkaBx2QFWx59pc_7M-QS6HCHEV6SIYcWPcnYjxjLdE0bwGTOU2w6tnVBgYzEKaiYr_g05COLao7ZpVZ35AYbh-xiRfmBIliGBRJleJm9g36E_6bCHkBt160RQN=w1280",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "7db09ade23c67fa462e7",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQezcT5Y2biNGpz5Dx09PPC9Ogv63MXb3RSlcRLR8c8gYMq_LpnEU8QoGMcNtLFNiJFxOdsWhREL5gzhkdIStYN2-MHBzEuSs-fXwgg85tENVKDf6oNuXNUUM73vb8SYQvgJuZHjl-CjdBTMs3cVdel7wBzf5TWfPB2zVsVuySB12qjBA7py46uJa6803tf-3kmeeOVQEp2WGxR4M7f9TD4bf1qhkmK7C_gBCfp7J0I=w1280",
+      "local": "/media/7db09ade23c67fa462e7.jpg",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2023",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQezcT5Y2biNGpz5Dx09PPC9Ogv63MXb3RSlcRLR8c8gYMq_LpnEU8QoGMcNtLFNiJFxOdsWhREL5gzhkdIStYN2-MHBzEuSs-fXwgg85tENVKDf6oNuXNUUM73vb8SYQvgJuZHjl-CjdBTMs3cVdel7wBzf5TWfPB2zVsVuySB12qjBA7py46uJa6803tf-3kmeeOVQEp2WGxR4M7f9TD4bf1qhkmK7C_gBCfp7J0I=w1280",
+          "placement": "image"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2024",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQezcT5Y2biNGpz5Dx09PPC9Ogv63MXb3RSlcRLR8c8gYMq_LpnEU8QoGMcNtLFNiJFxOdsWhREL5gzhkdIStYN2-MHBzEuSs-fXwgg85tENVKDf6oNuXNUUM73vb8SYQvgJuZHjl-CjdBTMs3cVdel7wBzf5TWfPB2zVsVuySB12qjBA7py46uJa6803tf-3kmeeOVQEp2WGxR4M7f9TD4bf1qhkmK7C_gBCfp7J0I=w1280",
+          "placement": "image"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2025",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQezcT5Y2biNGpz5Dx09PPC9Ogv63MXb3RSlcRLR8c8gYMq_LpnEU8QoGMcNtLFNiJFxOdsWhREL5gzhkdIStYN2-MHBzEuSs-fXwgg85tENVKDf6oNuXNUUM73vb8SYQvgJuZHjl-CjdBTMs3cVdel7wBzf5TWfPB2zVsVuySB12qjBA7py46uJa6803tf-3kmeeOVQEp2WGxR4M7f9TD4bf1qhkmK7C_gBCfp7J0I=w1280",
+          "placement": "image"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2026",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQezcT5Y2biNGpz5Dx09PPC9Ogv63MXb3RSlcRLR8c8gYMq_LpnEU8QoGMcNtLFNiJFxOdsWhREL5gzhkdIStYN2-MHBzEuSs-fXwgg85tENVKDf6oNuXNUUM73vb8SYQvgJuZHjl-CjdBTMs3cVdel7wBzf5TWfPB2zVsVuySB12qjBA7py46uJa6803tf-3kmeeOVQEp2WGxR4M7f9TD4bf1qhkmK7C_gBCfp7J0I=w1280",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "b03542c2bb6a4cba0388",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQfWYk7PvFsQsglC8GVlTsiTzGKRluB2XZpgro5paSCWlr46vQtsaw7boKA2NyO9ExU2KRjWp5eV4uMafiOStXuHf_sd8yXVI5muZyv6s-b_ZGf71-gdmJSP9-uxbRmqZPrD1s16SnC6qOSg0tvjLTSm3_ny9hGZvVAzl4VKp7MzAZn-ba_IphELacCcSJSr_9Yc5E-JbpUzPVNz=w1280",
+      "local": "/media/b03542c2bb6a4cba0388.jpg",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2023",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQfWYk7PvFsQsglC8GVlTsiTzGKRluB2XZpgro5paSCWlr46vQtsaw7boKA2NyO9ExU2KRjWp5eV4uMafiOStXuHf_sd8yXVI5muZyv6s-b_ZGf71-gdmJSP9-uxbRmqZPrD1s16SnC6qOSg0tvjLTSm3_ny9hGZvVAzl4VKp7MzAZn-ba_IphELacCcSJSr_9Yc5E-JbpUzPVNz=w1280",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "fbd1be6c9e48a60a1c6b",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQcv0aGOxCpDT34aTDcRNKFaa7hk10lEpLydGGaocbaK-sI_wvClqbAiPJHCp2sYNkeDkoKf1RcinqOu8ojpePvyIoqHrvw0Fe6LOwsXB8bjCTorJNZlPpmY8WcjfHfpYhOerk68MfQm_ukWfK079BrX7zn2AxNpKDhv7rmDzKSrgqV4kykS7nM5F1ONYonXcGI9ccYKNPbvi_ADhkze1XshX_DZIssYkPqboEVP=w1280",
+      "local": "/media/fbd1be6c9e48a60a1c6b.jpg",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2024",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQcv0aGOxCpDT34aTDcRNKFaa7hk10lEpLydGGaocbaK-sI_wvClqbAiPJHCp2sYNkeDkoKf1RcinqOu8ojpePvyIoqHrvw0Fe6LOwsXB8bjCTorJNZlPpmY8WcjfHfpYhOerk68MfQm_ukWfK079BrX7zn2AxNpKDhv7rmDzKSrgqV4kykS7nM5F1ONYonXcGI9ccYKNPbvi_ADhkze1XshX_DZIssYkPqboEVP=w1280",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "34b1f360427a9cd3ec39",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQdmPoorEOo_LbZehpuvxKHeuk3zP-N_BoDiJUmWjvudaXGCk5_xfbvV89UVNYZaDgAg8QasiGI1Og11brrlYtVgHTA90Ekmu1yVJnOVdWdHCdjnl6X4JN4CCaC6zpznGI37KcGk0Kmmt4yAYqR_0pJ0Dz7_rRvl4UWTgJbdJtzbHCvprkGwiUvkfuTGnVDm9C5kqlw8wbXRXiFwVSYLgZnNDs163U-xwlB8x6YDnTM=w1280",
+      "local": "/media/34b1f360427a9cd3ec39.jpg",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2024",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQdmPoorEOo_LbZehpuvxKHeuk3zP-N_BoDiJUmWjvudaXGCk5_xfbvV89UVNYZaDgAg8QasiGI1Og11brrlYtVgHTA90Ekmu1yVJnOVdWdHCdjnl6X4JN4CCaC6zpznGI37KcGk0Kmmt4yAYqR_0pJ0Dz7_rRvl4UWTgJbdJtzbHCvprkGwiUvkfuTGnVDm9C5kqlw8wbXRXiFwVSYLgZnNDs163U-xwlB8x6YDnTM=w1280",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "62d59d022f52bc4a5f6c",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQc9gmYM70ZHhA0m6LA6bbEK4sNdBukgd4oCoSLgCyBZG2YxMlHqnjwrBCuYIfSg_b1RTFQEQsLrBBk7ur5wta7YvVOOcfe-aQ_fB4gR43OM80znbAPpi8vrrujra7so6q1roFe8k8AsdY3o39nsOdxrYW2sF4LF5sNpuFiTJCnI9kGIthOVZaVI4F7TiKdGcAAXKcjAP1Z1S5bsChOTeEr-T_22lZOPfXMP-rcb8rk=w1280",
+      "local": "/media/62d59d022f52bc4a5f6c.jpg",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2024",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQc9gmYM70ZHhA0m6LA6bbEK4sNdBukgd4oCoSLgCyBZG2YxMlHqnjwrBCuYIfSg_b1RTFQEQsLrBBk7ur5wta7YvVOOcfe-aQ_fB4gR43OM80znbAPpi8vrrujra7so6q1roFe8k8AsdY3o39nsOdxrYW2sF4LF5sNpuFiTJCnI9kGIthOVZaVI4F7TiKdGcAAXKcjAP1Z1S5bsChOTeEr-T_22lZOPfXMP-rcb8rk=w1280",
+          "placement": "image"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2025",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQc9gmYM70ZHhA0m6LA6bbEK4sNdBukgd4oCoSLgCyBZG2YxMlHqnjwrBCuYIfSg_b1RTFQEQsLrBBk7ur5wta7YvVOOcfe-aQ_fB4gR43OM80znbAPpi8vrrujra7so6q1roFe8k8AsdY3o39nsOdxrYW2sF4LF5sNpuFiTJCnI9kGIthOVZaVI4F7TiKdGcAAXKcjAP1Z1S5bsChOTeEr-T_22lZOPfXMP-rcb8rk=w1280",
+          "placement": "image"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2025/tutorial-2025",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQc9gmYM70ZHhA0m6LA6bbEK4sNdBukgd4oCoSLgCyBZG2YxMlHqnjwrBCuYIfSg_b1RTFQEQsLrBBk7ur5wta7YvVOOcfe-aQ_fB4gR43OM80znbAPpi8vrrujra7so6q1roFe8k8AsdY3o39nsOdxrYW2sF4LF5sNpuFiTJCnI9kGIthOVZaVI4F7TiKdGcAAXKcjAP1Z1S5bsChOTeEr-T_22lZOPfXMP-rcb8rk=w1280",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "4e61bc283bc61e5f9163",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQdAq4DEXFPrEb8S_P433b_v57HTwhX1gfgQ55yxFOq2Ji_7Y1WiaGqr3TsO4lWynADMTaAemf70TB-GydK1yNDr2tYO5wrSSkm6e9uYHasn81NsDWCVN9SQonN44gFCagt-50xhphsQb4wglgakY8WWNv6LdUXscMBasiL3Q6q3jFUcZNuSSFJc8UiMuBmI3S3Hd36kPgrsIefmITcYBCP2u8krD2UGJ8KbVFnu=w1280",
+      "local": "/media/4e61bc283bc61e5f9163.jpg",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2024",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQdAq4DEXFPrEb8S_P433b_v57HTwhX1gfgQ55yxFOq2Ji_7Y1WiaGqr3TsO4lWynADMTaAemf70TB-GydK1yNDr2tYO5wrSSkm6e9uYHasn81NsDWCVN9SQonN44gFCagt-50xhphsQb4wglgakY8WWNv6LdUXscMBasiL3Q6q3jFUcZNuSSFJc8UiMuBmI3S3Hd36kPgrsIefmITcYBCP2u8krD2UGJ8KbVFnu=w1280",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "448ceea4f71186db544b",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQcjqJAiylmIFnnmIqo9hwd9TJCKGnB5y2bA-98LLBDMAsrF-uwgbkC00_Tn0xwYgSRxLzLv3E8FE3_F3gUFalkzlyrZV6KFRDHG4TEXfPHBL_2K1pjNEKypTJhykgZaVi__PYueoslkvnfu4M_xM1KPaoTQgLZEpsl-8BZTVzJF-buDAk7TW8aWQ9tiUhyl0YpvdOfyhox-O2mlcRMbrtMaLgPWHVzcGLfKIMgndkk=w1280",
+      "local": "/media/448ceea4f71186db544b.jpg",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2024",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQcjqJAiylmIFnnmIqo9hwd9TJCKGnB5y2bA-98LLBDMAsrF-uwgbkC00_Tn0xwYgSRxLzLv3E8FE3_F3gUFalkzlyrZV6KFRDHG4TEXfPHBL_2K1pjNEKypTJhykgZaVi__PYueoslkvnfu4M_xM1KPaoTQgLZEpsl-8BZTVzJF-buDAk7TW8aWQ9tiUhyl0YpvdOfyhox-O2mlcRMbrtMaLgPWHVzcGLfKIMgndkk=w1280",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "fd36cd361a970229823c",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQf44NOxizVXz3_4Sm2EnnlPHvWOlf_W4E-wh4mUt8cXTfWQUOU3i-XHD65jWZzGWkUkezK-8j44P5b3OJudFQ-SupJjEYqTaejxF4QUUNdeVCqIYIqIErkBL7iKHUsIsDaiNfu5fw7SEolRvSiYwaLFUQ2E7FEbgIiHGpdScrGoaGDxAu3IbKtLQblI4cY=w1280",
+      "local": "/media/fd36cd361a970229823c.jpg",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2024",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQf44NOxizVXz3_4Sm2EnnlPHvWOlf_W4E-wh4mUt8cXTfWQUOU3i-XHD65jWZzGWkUkezK-8j44P5b3OJudFQ-SupJjEYqTaejxF4QUUNdeVCqIYIqIErkBL7iKHUsIsDaiNfu5fw7SEolRvSiYwaLFUQ2E7FEbgIiHGpdScrGoaGDxAu3IbKtLQblI4cY=w1280",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "41145bb4c0ec865015dd",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQdMfFwIaC8v-5XWgccomNAMF1HgyIGc2pFGmdW_m_26gop3Eal8JDktHhAeSlQtnTb6w4xhqHX2dRAXXhnBi41Dduc4KeDpAVu81Y2EoJTgCZVU8P2zCLgn-evgcqxgON9iKd1EbK7zxs225ziPSBlgxy__okOvVMVIDnAL-8aVNuBgyJW4ehGScCkrbarwCRmbJb4v9qT2-aJoJuw4Ozt38xL5yqUbE2HV3Td4=w1280",
+      "local": "/media/41145bb4c0ec865015dd.jpg",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2024",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQdMfFwIaC8v-5XWgccomNAMF1HgyIGc2pFGmdW_m_26gop3Eal8JDktHhAeSlQtnTb6w4xhqHX2dRAXXhnBi41Dduc4KeDpAVu81Y2EoJTgCZVU8P2zCLgn-evgcqxgON9iKd1EbK7zxs225ziPSBlgxy__okOvVMVIDnAL-8aVNuBgyJW4ehGScCkrbarwCRmbJb4v9qT2-aJoJuw4Ozt38xL5yqUbE2HV3Td4=w1280",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "a80ec8cf94bafdd2797d",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQfHbUkJM6tz9Kip39p4PwCHGnwQnrg3JCg0BjSJPeY6UNXbDYjsZ_QdY8J1GwgFfXZPewlaK53pHSZ7B8A6ALRNtvyaj_LPYGEO-o2LPeHMUAXw6DdmnFfRgR3W38StHU3sDInzZPwOONKh01j0USZ4_BYn-5yJfzBDfGGkh80uio7pa6rDnzAnub_GnpaYBqHVeW9wEiG0k0jSe6gmUuY8XPmP6k9zu8WWrizz=w1280",
+      "local": "/media/a80ec8cf94bafdd2797d.jpg",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2024",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQfHbUkJM6tz9Kip39p4PwCHGnwQnrg3JCg0BjSJPeY6UNXbDYjsZ_QdY8J1GwgFfXZPewlaK53pHSZ7B8A6ALRNtvyaj_LPYGEO-o2LPeHMUAXw6DdmnFfRgR3W38StHU3sDInzZPwOONKh01j0USZ4_BYn-5yJfzBDfGGkh80uio7pa6rDnzAnub_GnpaYBqHVeW9wEiG0k0jSe6gmUuY8XPmP6k9zu8WWrizz=w1280",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "13685be3ca75c74a8ec3",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQfdKIr4K5m5HRkPVETAfVMMseL2tYTdXSCX_EGlV0tvYKlvanULSWDrfg6-JoNMRh6knFEtkAaNPQaSyPORFcp5rQ5dA4-30JvHFJTfdkVAmqDOxztQ8BIbVac7h5WLr9F2ZIjgeoDh6PlPPfOa7OR3i9os92sTteElsECIMg0VhtlHxs9WWjnkod4g2sjt1MS7OSqYsK-G0VviKpFLbeFiG70ySYJNpE6OMW2kDRY=w1280",
+      "local": "/media/13685be3ca75c74a8ec3.png",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2024",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQfdKIr4K5m5HRkPVETAfVMMseL2tYTdXSCX_EGlV0tvYKlvanULSWDrfg6-JoNMRh6knFEtkAaNPQaSyPORFcp5rQ5dA4-30JvHFJTfdkVAmqDOxztQ8BIbVac7h5WLr9F2ZIjgeoDh6PlPPfOa7OR3i9os92sTteElsECIMg0VhtlHxs9WWjnkod4g2sjt1MS7OSqYsK-G0VviKpFLbeFiG70ySYJNpE6OMW2kDRY=w1280",
+          "placement": "image"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2025",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQfdKIr4K5m5HRkPVETAfVMMseL2tYTdXSCX_EGlV0tvYKlvanULSWDrfg6-JoNMRh6knFEtkAaNPQaSyPORFcp5rQ5dA4-30JvHFJTfdkVAmqDOxztQ8BIbVac7h5WLr9F2ZIjgeoDh6PlPPfOa7OR3i9os92sTteElsECIMg0VhtlHxs9WWjnkod4g2sjt1MS7OSqYsK-G0VviKpFLbeFiG70ySYJNpE6OMW2kDRY=w1280",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "e1bb6d66e9d64b30c3b1",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQf0uEyzUjzYtOfdTPB1PXO5hKMm5vv05kKkJcDlzxuk0PtOPoaRS5o6uMlh840mv5t3was5LJtl9RlWzMgRSoegK2921T_EefB9EBMtaxEjAfAr0FemtBiZ-KjUXXFIzPBeS7nP38bnxTP0V_N9jpF1n_XnSItWlcvOiTr22wPFlcBxDRNG_m3c8joNAwuOU4BE_9aTKIR57cGsszk2_YCd2PLnjTxbaEH8mZ7AH2U=w1280",
+      "local": "/media/e1bb6d66e9d64b30c3b1.jpg",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2024",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQf0uEyzUjzYtOfdTPB1PXO5hKMm5vv05kKkJcDlzxuk0PtOPoaRS5o6uMlh840mv5t3was5LJtl9RlWzMgRSoegK2921T_EefB9EBMtaxEjAfAr0FemtBiZ-KjUXXFIzPBeS7nP38bnxTP0V_N9jpF1n_XnSItWlcvOiTr22wPFlcBxDRNG_m3c8joNAwuOU4BE_9aTKIR57cGsszk2_YCd2PLnjTxbaEH8mZ7AH2U=w1280",
+          "placement": "image"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2025",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQf0uEyzUjzYtOfdTPB1PXO5hKMm5vv05kKkJcDlzxuk0PtOPoaRS5o6uMlh840mv5t3was5LJtl9RlWzMgRSoegK2921T_EefB9EBMtaxEjAfAr0FemtBiZ-KjUXXFIzPBeS7nP38bnxTP0V_N9jpF1n_XnSItWlcvOiTr22wPFlcBxDRNG_m3c8joNAwuOU4BE_9aTKIR57cGsszk2_YCd2PLnjTxbaEH8mZ7AH2U=w1280",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "89e150139398cfb0cd5d",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQcLbHcYLJWvLRJaBCzeGJAMc-u5YbtM64sFVI_1v-c5ttFGQu2PGvnYd8jGHE15JSVJTX1euJJ5Ej4ttV_h1EeO1Z_uZx56yKhhdMNiSRYDYXYrzbgioB9Tzwv9B0D4-3Yddy93hU0ZravSUjVoKrICcQ9OqN0KbHjP5u2FPoIPyYbi3pKP26Z-8a0-0tywpUVjK5qUrXKMhJ9v0rJoMiPtLC_PnAyueuhtmg=w1280",
+      "local": "/media/89e150139398cfb0cd5d.png",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2024",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQcLbHcYLJWvLRJaBCzeGJAMc-u5YbtM64sFVI_1v-c5ttFGQu2PGvnYd8jGHE15JSVJTX1euJJ5Ej4ttV_h1EeO1Z_uZx56yKhhdMNiSRYDYXYrzbgioB9Tzwv9B0D4-3Yddy93hU0ZravSUjVoKrICcQ9OqN0KbHjP5u2FPoIPyYbi3pKP26Z-8a0-0tywpUVjK5qUrXKMhJ9v0rJoMiPtLC_PnAyueuhtmg=w1280",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "971f25b61fbe8a1ba1c6",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQeklhEvpCwDXg_jYxTC-HMiiOkcYXDVuE9WjATEVy0SqEdlZZKaiOE7oigyiF4kYOkMg4QPkXhH1ijaHi0Br84Fd9P8hWvSnUzWDVwxcSvus33pU5fqJKwZg2zkVkRG7f2NqDAVuBajkmyCZvFZMkvz6wT-fqL62kModeVd2H84wN5vIQ5LMqUV3Zrs6BSZuh1L2vHCEVIHgTZ-cLFb1PVV4SYRccF4yOa1QmzwKK0=w1280",
+      "local": "/media/971f25b61fbe8a1ba1c6.jpg",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2025",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQeklhEvpCwDXg_jYxTC-HMiiOkcYXDVuE9WjATEVy0SqEdlZZKaiOE7oigyiF4kYOkMg4QPkXhH1ijaHi0Br84Fd9P8hWvSnUzWDVwxcSvus33pU5fqJKwZg2zkVkRG7f2NqDAVuBajkmyCZvFZMkvz6wT-fqL62kModeVd2H84wN5vIQ5LMqUV3Zrs6BSZuh1L2vHCEVIHgTZ-cLFb1PVV4SYRccF4yOa1QmzwKK0=w1280",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "8bd84f2a95b64050d9aa",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQcaMqQkYhAdxiyFfDeeFzM9HYOFosIiMAaYm-0WjakTg9U9V1vfwAbyZISwalA0qA7dVYTpWIwZYqudafnl4qmFit1uRDSqbkTui_5G5W8jEVMzwrMk-4PddPUjkgud8sQr-3v5QqRgS-8IL4SEc694A_P03AZWpuxQhtWU5vwTQeqFUnsxtR86m3ysjrMuA6Jjk4f_Rg1kl_IomQSnNBUdzXbbqGqfUspU4qcsudk=w1280",
+      "local": "/media/8bd84f2a95b64050d9aa.png",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2025",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQcaMqQkYhAdxiyFfDeeFzM9HYOFosIiMAaYm-0WjakTg9U9V1vfwAbyZISwalA0qA7dVYTpWIwZYqudafnl4qmFit1uRDSqbkTui_5G5W8jEVMzwrMk-4PddPUjkgud8sQr-3v5QqRgS-8IL4SEc694A_P03AZWpuxQhtWU5vwTQeqFUnsxtR86m3ysjrMuA6Jjk4f_Rg1kl_IomQSnNBUdzXbbqGqfUspU4qcsudk=w1280",
+          "placement": "image"
+        },
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2025/tutorial-2025",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQcaMqQkYhAdxiyFfDeeFzM9HYOFosIiMAaYm-0WjakTg9U9V1vfwAbyZISwalA0qA7dVYTpWIwZYqudafnl4qmFit1uRDSqbkTui_5G5W8jEVMzwrMk-4PddPUjkgud8sQr-3v5QqRgS-8IL4SEc694A_P03AZWpuxQhtWU5vwTQeqFUnsxtR86m3ysjrMuA6Jjk4f_Rg1kl_IomQSnNBUdzXbbqGqfUspU4qcsudk=w1280",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "29752a1d7c165f6743b8",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQcsqyq9wfzDFmrzHWZBg6ylaB2An04bqDmxa6-9dFXcYIEziUItsAAs_FvGurgJznhA0VQpuWG86OgUZBMaPA4XQZOEP-QDxXan1KIB5OXOj1aOeVDT5sYtC4HvpECzHerCVkEAxUkgzk6cXq99WMOwuTnBhILDsvvd6KdhyIktndmHP-GZFfTmWUmIHWeczyx9EQxuAZvY07o-FIAPbwl8y6Ua7vWPN3tSBFrzFHk=w1280",
+      "local": "/media/29752a1d7c165f6743b8.jpg",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2025",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQcsqyq9wfzDFmrzHWZBg6ylaB2An04bqDmxa6-9dFXcYIEziUItsAAs_FvGurgJznhA0VQpuWG86OgUZBMaPA4XQZOEP-QDxXan1KIB5OXOj1aOeVDT5sYtC4HvpECzHerCVkEAxUkgzk6cXq99WMOwuTnBhILDsvvd6KdhyIktndmHP-GZFfTmWUmIHWeczyx9EQxuAZvY07o-FIAPbwl8y6Ua7vWPN3tSBFrzFHk=w1280",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "5258aa0e05d8324ea8a8",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQdlwW-Rwf7zsFql3bZOfIQ1NTFKenFCBLUcc_i0Yqgqz0jTKaRKTvNQdIIsNmrdQIxGc3-GIw6arxtZ55vD3YXzek_dcBisJNrKZERYYIbQ_3o-hwMOmpm83lJ-Pc5w8ZfD8E64peiPSchb4gBvqDy0uKYFFGC5yVCMnv5s6JRGc1pDGvgPfpjqrlri38D9Mr2siAu9y_YHAGy9Ub608_RwvFvzIpJl3UCNbG5l=w1280",
+      "local": "/media/5258aa0e05d8324ea8a8.jpg",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2025",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQdlwW-Rwf7zsFql3bZOfIQ1NTFKenFCBLUcc_i0Yqgqz0jTKaRKTvNQdIIsNmrdQIxGc3-GIw6arxtZ55vD3YXzek_dcBisJNrKZERYYIbQ_3o-hwMOmpm83lJ-Pc5w8ZfD8E64peiPSchb4gBvqDy0uKYFFGC5yVCMnv5s6JRGc1pDGvgPfpjqrlri38D9Mr2siAu9y_YHAGy9Ub608_RwvFvzIpJl3UCNbG5l=w1280",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "8761e8b5fac99221eef7",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQdTc1AlkaoLuTJ5WXrrj8MgcyTQuaT-IV_Eu-te4Gy7tI1qkp1_uF3fRvZl87l-WgMAXFRwTYhMsu7WpdIuk8_y3rpW6C0a4jA2xkwhPuaWi1DOmQ_k4zToimr2sgInIApPxbQy1brB7HshIlJ94E2cWWR6pxxvAQmZC0UmPgju5C43PpM32VDhh5iW9yaQgOU625GlntVe0ytL9TFo7x8bESRPrQesVrRIZviv=w1280",
+      "local": "/media/8761e8b5fac99221eef7.jpg",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2025",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQdTc1AlkaoLuTJ5WXrrj8MgcyTQuaT-IV_Eu-te4Gy7tI1qkp1_uF3fRvZl87l-WgMAXFRwTYhMsu7WpdIuk8_y3rpW6C0a4jA2xkwhPuaWi1DOmQ_k4zToimr2sgInIApPxbQy1brB7HshIlJ94E2cWWR6pxxvAQmZC0UmPgju5C43PpM32VDhh5iW9yaQgOU625GlntVe0ytL9TFo7x8bESRPrQesVrRIZviv=w1280",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "e3ad7d86b0f2899782e0",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQeXq_r4qqq6r1d45z7gnweQRpehTRNWgYy4adF3v3ryL8ZmXt4R1YrZe5HQnnioY-wk9e44EkocC2PbAV2f0rvLoX6GLxgaHzZjQkTeT8tubpxQF7iwF8xXp5e2TczO5zZ0UIcsSdxFnhuSEDTsPUDs4rqmAOOQELOgkHig4xW_BWQmJhOWIfcLb-26OrFWv1Jh-57UZxKAlT3b4dHxS0NeGxZiskINHLLoVCTrzj0=w1280",
+      "local": "/media/e3ad7d86b0f2899782e0.png",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2025",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQeXq_r4qqq6r1d45z7gnweQRpehTRNWgYy4adF3v3ryL8ZmXt4R1YrZe5HQnnioY-wk9e44EkocC2PbAV2f0rvLoX6GLxgaHzZjQkTeT8tubpxQF7iwF8xXp5e2TczO5zZ0UIcsSdxFnhuSEDTsPUDs4rqmAOOQELOgkHig4xW_BWQmJhOWIfcLb-26OrFWv1Jh-57UZxKAlT3b4dHxS0NeGxZiskINHLLoVCTrzj0=w1280",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "9b5797908b0f7bd61468",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQdThJmh1nYQmDi9JryJo176Kop0n6rzaChbsnyzpnuln6Nj17PCVKK9SvEenD4M1vN2nGrYg0w-eKfrTewzg4EI3GmBjD3NBbdsT9iwkb5E98Ig8ozq2BIiD4XSjow2FrzPPb3r05W9xgQMDIqzJVkwzWUggOYSn_PVOnlE8uB70g4Lw4PQDPAkd1s9=w1600",
+      "local": "/media/9b5797908b0f7bd61468.png",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2025/tutorial-2025",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQdThJmh1nYQmDi9JryJo176Kop0n6rzaChbsnyzpnuln6Nj17PCVKK9SvEenD4M1vN2nGrYg0w-eKfrTewzg4EI3GmBjD3NBbdsT9iwkb5E98Ig8ozq2BIiD4XSjow2FrzPPb3r05W9xgQMDIqzJVkwzWUggOYSn_PVOnlE8uB70g4Lw4PQDPAkd1s9=w16383",
+          "placement": "background"
+        }
+      ]
+    },
+    {
+      "key": "586d8d66dab65d37e717",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQcZjbzy-J4Ibqebc3jXgLsewArE5PvBohk2wgJ2GQSHzPmr8qCZsWZ5JBv3tZkyTxMT9LVc8cBq8FjF4LEnem135orAnv-A63_ifPist4n0kCk-8lrfr2S37rspR2HHAPSwgXvpnpsnHhUSaV4zcbkmM6aQ45d04PrK0xohF2VmK-cr-s2W_P_yMPMI8Msd4jBA9K6OsFwC5TcN7v4dlGrdw-HCDR2Ehxbhe8xthl8=w1280",
+      "local": "/media/586d8d66dab65d37e717.jpg",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2025/tutorial-2025",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQcZjbzy-J4Ibqebc3jXgLsewArE5PvBohk2wgJ2GQSHzPmr8qCZsWZ5JBv3tZkyTxMT9LVc8cBq8FjF4LEnem135orAnv-A63_ifPist4n0kCk-8lrfr2S37rspR2HHAPSwgXvpnpsnHhUSaV4zcbkmM6aQ45d04PrK0xohF2VmK-cr-s2W_P_yMPMI8Msd4jBA9K6OsFwC5TcN7v4dlGrdw-HCDR2Ehxbhe8xthl8=w1280",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "8a5874fccd0cf33b8fa5",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQfvofAPQwE6d1H4tRytogHQTltq4KAmhb1MW3CT1Iree2_C_x8C2FsJd7RfEQykZiH8MjsRujaXKn685D6-e3DYejjsOs9ekC-cJeU6idtnjpJEVTRQT5BFpvXfupKGpDC9vnmqKEDdq3ew2szEd5zps9zq-MDRIZKGP_RIjgCUn9DiIuHOOtUvA4wpvlSqb6QS5ON6Bp-mBqq66yVMDGQbNetZhExBxW5O4PeBJAQ=w1280",
+      "local": "/media/8a5874fccd0cf33b8fa5.jpg",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2025/tutorial-2025",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQfvofAPQwE6d1H4tRytogHQTltq4KAmhb1MW3CT1Iree2_C_x8C2FsJd7RfEQykZiH8MjsRujaXKn685D6-e3DYejjsOs9ekC-cJeU6idtnjpJEVTRQT5BFpvXfupKGpDC9vnmqKEDdq3ew2szEd5zps9zq-MDRIZKGP_RIjgCUn9DiIuHOOtUvA4wpvlSqb6QS5ON6Bp-mBqq66yVMDGQbNetZhExBxW5O4PeBJAQ=w1280",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "0b234d5d258aa68a6dd8",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQeG7rnJ8894HXYnfRH4i4zhyh_Qw8CWckSunTPxikaRjEzDI1zB6IzJwRCtrMltxPMKUxmOIoKRGKSQ_sV_3z0B5VzBByKm3kgcrEMMh93-TLGsoUHbLYXjKxQA6l5rloY1qqI0CJA3NE43Y10MCFoa8_aBj4OA05-o6lN7nO4f6eY92gqGueMoNlPvUEvUD0qalSs2mLs-ZZrTL0YNHZhLqAZ9PO6fpAL01_pcAn8=w1280",
+      "local": "/media/0b234d5d258aa68a6dd8.jpg",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2025/tutorial-2025",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQeG7rnJ8894HXYnfRH4i4zhyh_Qw8CWckSunTPxikaRjEzDI1zB6IzJwRCtrMltxPMKUxmOIoKRGKSQ_sV_3z0B5VzBByKm3kgcrEMMh93-TLGsoUHbLYXjKxQA6l5rloY1qqI0CJA3NE43Y10MCFoa8_aBj4OA05-o6lN7nO4f6eY92gqGueMoNlPvUEvUD0qalSs2mLs-ZZrTL0YNHZhLqAZ9PO6fpAL01_pcAn8=w1280",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "f64bb40b90a688d0100d",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQf6fT6H__OccMgTWZjXivI3XOSh0UyBKJ0FiulZ87zcQsFaJ6tvJRoaOgJuGJrKdpgdaRQJB2ZB36JXywtobZM89jJ_ihUThsqBxcWycozZefjrcdioDemeJPglqIZ6TNr0Xrr-OwsKM8eCUgVc5lxcHHtOoBHu3kzgDd31pgY9TyunREPZbdrPXkFgHrw=w1280",
+      "local": "/media/f64bb40b90a688d0100d.png",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com/agriculture-vision-2026",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQf6fT6H__OccMgTWZjXivI3XOSh0UyBKJ0FiulZ87zcQsFaJ6tvJRoaOgJuGJrKdpgdaRQJB2ZB36JXywtobZM89jJ_ihUThsqBxcWycozZefjrcdioDemeJPglqIZ6TNr0Xrr-OwsKM8eCUgVc5lxcHHtOoBHu3kzgDd31pgY9TyunREPZbdrPXkFgHrw=w1280",
+          "placement": "image"
+        }
+      ]
+    },
+    {
+      "key": "1acdb42017249565a4d4",
+      "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQcGw462ONAUr71FGULrzgYecktYsL3s-AjUbp56e9koh9mmdpCjw1WpWt94sgqyrAdxAo3wJnYbILzo3MktMn8QqqYtYjUQBN3mQgtc3tRE6ss67x9h-EBazlPigZJbGN_a_kA6Homk6Xk6wywCzA9KnjpnILVzmgNtfvSgD2S95_lmM4WGQQhcElbFO3s=w1280",
+      "local": "/media/1acdb42017249565a4d4.png",
+      "appears_in": [
+        {
+          "page": "https://www.agriculture-vision.com",
+          "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQcGw462ONAUr71FGULrzgYecktYsL3s-AjUbp56e9koh9mmdpCjw1WpWt94sgqyrAdxAo3wJnYbILzo3MktMn8QqqYtYjUQBN3mQgtc3tRE6ss67x9h-EBazlPigZJbGN_a_kA6Homk6Xk6wywCzA9KnjpnILVzmgNtfvSgD2S95_lmM4WGQQhcElbFO3s=w16383",
+          "placement": "image"
+        }
+      ]
+    }
+  ]
+}

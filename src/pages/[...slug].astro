@@ -1,0 +1,14 @@
+---
+import Workshop from '../layouts/Workshop.astro';
+import pages from '../content/snapshot.json';
+
+interface SourcePage { path: string; title: string; html: string; source: string; heroHtml?: string; heroImage?: string; heroMode?: string; description?: string }
+export function getStaticPaths() {
+  return (pages as SourcePage[]).map((page) => ({
+    params: { slug: page.path.replace(/^\/+|\/+$/g, '') || undefined },
+    props: { page },
+  }));
+}
+const { page } = Astro.props as { page: SourcePage };
+---
+<Workshop page={page} />

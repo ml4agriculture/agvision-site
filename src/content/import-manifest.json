@@ -1,0 +1,15 @@
+{
+  "source": "https://www.agriculture-vision.com",
+  "route_count": 36,
+  "images_local": 145,
+  "images_expected": 145,
+  "images_missing": 0,
+  "logo": "/media/1acdb42017249565a4d4.png",
+  "media_counts": {
+    "inline_images": 189,
+    "galleries": 22,
+    "gallery_images": 44
+  },
+  "images_without_alt_in_snapshot": 29,
+  "unresolved_internal_links": {}
+}
