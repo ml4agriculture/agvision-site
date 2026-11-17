@@ -1,0 +1,20 @@
+---
+const token = import.meta.env.PUBLIC_CF_WEB_ANALYTICS_TOKEN?.trim();
+const buildBranch = process.env.WORKERS_CI_BRANCH;
+const enabled = import.meta.env.PROD && (!buildBranch || buildBranch === 'main')
+  && /^[A-Za-z0-9_-]+$/.test(token ?? '');
+// Add an exact canonical hostname here only when it becomes a production route.
+const productionHostnames = ['agvision-site.leandro-g-almeida.workers.dev'];
+---
+{enabled && <script define:vars={{ token, productionHostnames }}>
+  const { hostname, protocol } = window.location;
+  const beaconUrl = 'https://static.cloudflareinsights.com/beacon.min.js';
+  if (protocol === 'https:' && productionHostnames.includes(hostname)
+      && !document.querySelector('script[data-cf-beacon]')) {
+    const beacon = document.createElement('script');
+    beacon.type = 'module';
+    beacon.src = beaconUrl;
+    beacon.dataset.cfBeacon = JSON.stringify({ token });
+    document.body.append(beacon);
+  }
+</script>}
