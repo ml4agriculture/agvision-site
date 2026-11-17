@@ -21,6 +21,23 @@ npm run preview
 
 For self-hosting, serve `dist/` from your static web server with directory indexes (`/path/` resolves to `/path/index.html`) and redirect slashless directory routes as appropriate. This version assumes it is served from the root of its domain. There is no automatic domain change or deployment.
 
+## Cloudflare Workers pull-request previews
+
+In the existing `agvision-site` Worker's **Settings → Builds**, keep `main`
+as the production branch and use `npm run build` as the build command. Enable
+preview builds for non-production branches and set only the **Preview deploy
+command** to:
+
+```sh
+npx --yes wrangler@4.164.0 preview
+```
+
+`wrangler.jsonc` serves Astro's `dist/` as static assets. The preview command
+publishes to the Worker's preview hostname on `workers.dev`, not the live
+custom domain. Leave the existing production deploy command and DNS unchanged.
+Keep preview branch filters scoped to the branches you want Cloudflare to build.
+See [Workers Builds branch settings](https://developers.cloudflare.com/workers/ci-cd/builds/build-branches/).
+
 ## Content and design
 
 - `src/content/snapshot.json`: editable page records with source URL, title, route, and cleaned HTML; archived 2020–2026 workshop pages and extras.
