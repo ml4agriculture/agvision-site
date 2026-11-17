@@ -1,0 +1,258 @@
+{
+  "source": "https://www.agriculture-vision.com",
+  "route_count": 36,
+  "entries": [
+    {
+      "path": "/",
+      "status": 200,
+      "title": "Vision for Agriculture",
+      "url": "https://www.agriculture-vision.com/",
+      "sha256": "f95d13b174aece2a272d553345f7d3528789dc9dc3185327eb1ee0a61c08af99"
+    },
+    {
+      "path": "/agriculture-vision-2020",
+      "status": 200,
+      "title": "Vision for Agriculture - Agriculture-Vision 2020",
+      "url": "https://www.agriculture-vision.com/agriculture-vision-2020",
+      "sha256": "3bbf2b3e8223b8f982a8e17a8d5db2d5948495c78c531fa4f1912a978ef7ed74"
+    },
+    {
+      "path": "/agriculture-vision-2020/call-for-papers",
+      "status": 200,
+      "title": "Vision for Agriculture - Call for Papers",
+      "url": "https://www.agriculture-vision.com/agriculture-vision-2020/call-for-papers",
+      "sha256": "01f86b5f321afec1f06ed72056125c1dc895b98b96bd2560a7bf62ec8c90e40b"
+    },
+    {
+      "path": "/agriculture-vision-2020/dataset",
+      "status": 200,
+      "title": "Vision for Agriculture - Dataset",
+      "url": "https://www.agriculture-vision.com/agriculture-vision-2020/dataset",
+      "sha256": "6d22a5b58b008bace7a55cc3e5d0ee46740cbb01f6397f7dfd92e8002d4fa6e6"
+    },
+    {
+      "path": "/agriculture-vision-2020/prize-challenge",
+      "status": 200,
+      "title": "Vision for Agriculture - Prize Challenge",
+      "url": "https://www.agriculture-vision.com/agriculture-vision-2020/prize-challenge",
+      "sha256": "e7e59975b94104e1f28fdf0e7ee8876c9f440191093a4704b2c1c28e5ca30160"
+    },
+    {
+      "path": "/agriculture-vision-2020/program-schedule",
+      "status": 200,
+      "title": "Vision for Agriculture - Program Schedule",
+      "url": "https://www.agriculture-vision.com/agriculture-vision-2020/program-schedule",
+      "sha256": "d243ad1cd1d8422c73c4ed3437c25797fa6318c7bd79285cc126dac64522bd67"
+    },
+    {
+      "path": "/agriculture-vision-2021",
+      "status": 200,
+      "title": "Vision for Agriculture - Agriculture-Vision 2021",
+      "url": "https://www.agriculture-vision.com/agriculture-vision-2021",
+      "sha256": "c36483bd597f2a61442bcec01c496655c1b2092dd68af45d74a5de0da007e603"
+    },
+    {
+      "path": "/agriculture-vision-2021/call-for-papers-2021",
+      "status": 200,
+      "title": "Vision for Agriculture - Call for Papers 2021",
+      "url": "https://www.agriculture-vision.com/agriculture-vision-2021/call-for-papers-2021",
+      "sha256": "78d56ca464ae47ace2b44348d49cc00c7154169e7ef5c2d0ecc4671ffdba6523"
+    },
+    {
+      "path": "/agriculture-vision-2021/dataset-2021",
+      "status": 200,
+      "title": "Vision for Agriculture - Dataset 2021",
+      "url": "https://www.agriculture-vision.com/agriculture-vision-2021/dataset-2021",
+      "sha256": "474846c90b2295a4f6799a8addc8f781299d414521caa838baca1915840e7db8"
+    },
+    {
+      "path": "/agriculture-vision-2021/prize-challenge-2021",
+      "status": 200,
+      "title": "Vision for Agriculture - Prize Challenge 2021",
+      "url": "https://www.agriculture-vision.com/agriculture-vision-2021/prize-challenge-2021",
+      "sha256": "eb0c3d0fdc3b4f90748280b2a14fc1c30dff8ce0306bf25ee8050a2917aadca3"
+    },
+    {
+      "path": "/agriculture-vision-2021/program-schedule-2021",
+      "status": 200,
+      "title": "Vision for Agriculture - Program Schedule 2021",
+      "url": "https://www.agriculture-vision.com/agriculture-vision-2021/program-schedule-2021",
+      "sha256": "7a789d4e1f4b3b719aa35c1fb363127a491a68554edfb3b2ad547a117dc90881"
+    },
+    {
+      "path": "/agriculture-vision-2022",
+      "status": 200,
+      "title": "Vision for Agriculture - Agriculture-Vision 2022",
+      "url": "https://www.agriculture-vision.com/agriculture-vision-2022",
+      "sha256": "b5482173fd17a6dab8a0971c3d614094f6417e2ea6d5bdd5433b8833bdbae2ce"
+    },
+    {
+      "path": "/agriculture-vision-2022/call-for-papers-2022",
+      "status": 200,
+      "title": "Vision for Agriculture - Call for Papers 2022",
+      "url": "https://www.agriculture-vision.com/agriculture-vision-2022/call-for-papers-2022",
+      "sha256": "41242aa2026537861c36a8ef22daad579e994c7809d80d24314b8fbc30e0faa0"
+    },
+    {
+      "path": "/agriculture-vision-2022/prize-challenge-2022",
+      "status": 200,
+      "title": "Vision for Agriculture - Prize Challenge 2022",
+      "url": "https://www.agriculture-vision.com/agriculture-vision-2022/prize-challenge-2022",
+      "sha256": "c679daa0ec9024031eaad381fa5d5601833378570be6f45b6ac18745da5a3ecc"
+    },
+    {
+      "path": "/agriculture-vision-2022/prize-challenge-2022/agriculture-vision-challenge-2022",
+      "status": 200,
+      "title": "Vision for Agriculture - Agriculture-Vision Challenge 2022",
+      "url": "https://www.agriculture-vision.com/agriculture-vision-2022/prize-challenge-2022/agriculture-vision-challenge-2022",
+      "sha256": "6fb95b5394d46bedc0afb0a2901fc706b16d842754ff41cb2954b8cc2d322343"
+    },
+    {
+      "path": "/agriculture-vision-2022/prize-challenge-2022/cropharvest-challenge-2022",
+      "status": 200,
+      "title": "Vision for Agriculture - CropHarvest Challenge 2022",
+      "url": "https://www.agriculture-vision.com/agriculture-vision-2022/prize-challenge-2022/cropharvest-challenge-2022",
+      "sha256": "d02fa548a9f90870f4ac8862c6f9b3dfd6de51761f3ba9057de2b606712f69f2"
+    },
+    {
+      "path": "/agriculture-vision-2022/program-schedule-2022",
+      "status": 200,
+      "title": "Vision for Agriculture - Program Schedule 2022",
+      "url": "https://www.agriculture-vision.com/agriculture-vision-2022/program-schedule-2022",
+      "sha256": "f7f2ea6ad187b15f46ee095cb9fdb75ff4c9835abe33bda7090214ee61181f82"
+    },
+    {
+      "path": "/agriculture-vision-2023",
+      "status": 200,
+      "title": "Vision for Agriculture - Agriculture-Vision 2023",
+      "url": "https://www.agriculture-vision.com/agriculture-vision-2023",
+      "sha256": "5796464bc74d043f9fc0996c5b9099c05e3703b55339bdd29dbd31818b84a7b5"
+    },
+    {
+      "path": "/agriculture-vision-2023/call-for-papers-2023",
+      "status": 200,
+      "title": "Vision for Agriculture - Call for Papers 2023",
+      "url": "https://www.agriculture-vision.com/agriculture-vision-2023/call-for-papers-2023",
+      "sha256": "ef6cc1c1d61c6f5b86928f13d2b5738a7f6745ebb7f43a087fb4cce825794228"
+    },
+    {
+      "path": "/agriculture-vision-2023/program-schedule-2023",
+      "status": 200,
+      "title": "Vision for Agriculture - Program Schedule 2023",
+      "url": "https://www.agriculture-vision.com/agriculture-vision-2023/program-schedule-2023",
+      "sha256": "374a79f0ffd4e98b65d6cb87577797189e4e4ccee2fbbb2a577094c28507d551"
+    },
+    {
+      "path": "/agriculture-vision-2024",
+      "status": 200,
+      "title": "Vision for Agriculture - Agriculture-Vision 2024",
+      "url": "https://www.agriculture-vision.com/agriculture-vision-2024",
+      "sha256": "d5a61743331280eea37b4114d6d03adca52c347dd33674b9dde56731b9ba0474"
+    },
+    {
+      "path": "/agriculture-vision-2024/call-for-papers-2024",
+      "status": 200,
+      "title": "Vision for Agriculture - Call for Papers 2024",
+      "url": "https://www.agriculture-vision.com/agriculture-vision-2024/call-for-papers-2024",
+      "sha256": "a7a343ba2e9ea5dd55f5a4ba384b8da7631e5ec83946976ef0d007a901cc50f5"
+    },
+    {
+      "path": "/agriculture-vision-2024/prize-challenge-2024",
+      "status": 200,
+      "title": "Vision for Agriculture - Prize Challenge 2024",
+      "url": "https://www.agriculture-vision.com/agriculture-vision-2024/prize-challenge-2024",
+      "sha256": "b1207e279f54ce5da24244a081024e34db1801b3221ba1321d76eedb5702ba2e"
+    },
+    {
+      "path": "/agriculture-vision-2024/program-schedule-2024",
+      "status": 200,
+      "title": "Vision for Agriculture - Program Schedule 2024",
+      "url": "https://www.agriculture-vision.com/agriculture-vision-2024/program-schedule-2024",
+      "sha256": "8f98fa4019808c626d1339e370a04f2e33a464dfd8a39c7261654259aa55b1eb"
+    },
+    {
+      "path": "/agriculture-vision-2025",
+      "status": 200,
+      "title": "Vision for Agriculture - Agriculture-Vision 2025",
+      "url": "https://www.agriculture-vision.com/agriculture-vision-2025",
+      "sha256": "146d5493ceec6dd562025f4da7de77677d574197a12f7fc66a5f04496dfc6259"
+    },
+    {
+      "path": "/agriculture-vision-2025/call-for-papers-2025",
+      "status": 200,
+      "title": "Vision for Agriculture - Call for Papers 2025",
+      "url": "https://www.agriculture-vision.com/agriculture-vision-2025/call-for-papers-2025",
+      "sha256": "46594141649e0f4ae7499a7bbaec8747850466eb484bc2469733189d8deebc3f"
+    },
+    {
+      "path": "/agriculture-vision-2025/prize-challenge-2025",
+      "status": 200,
+      "title": "Vision for Agriculture - Prize Challenge 2025",
+      "url": "https://www.agriculture-vision.com/agriculture-vision-2025/prize-challenge-2025",
+      "sha256": "d0d49b02af2c071ecf2474917f4889aa8e5c5d4198b2e2fc60f1a2335841f38d"
+    },
+    {
+      "path": "/agriculture-vision-2025/program-schedule-2025",
+      "status": 200,
+      "title": "Vision for Agriculture - Program Schedule 2025",
+      "url": "https://www.agriculture-vision.com/agriculture-vision-2025/program-schedule-2025",
+      "sha256": "b77a28eefeeb489198c525d7a2384318b5c3542c148d535992855b05e6fcd0c2"
+    },
+    {
+      "path": "/agriculture-vision-2025/tutorial-2025",
+      "status": 200,
+      "title": "Vision for Agriculture - Tutorial 2025",
+      "url": "https://www.agriculture-vision.com/agriculture-vision-2025/tutorial-2025",
+      "sha256": "da6e06620d558167df6210a7bcc3d35738259643cb852fe05a75ed0a1264f0ac"
+    },
+    {
+      "path": "/agriculture-vision-2026",
+      "status": 200,
+      "title": "Vision for Agriculture",
+      "url": "https://www.agriculture-vision.com/agriculture-vision-2026",
+      "sha256": "7c03ddf643f6ba65bc8f4d047788331a84ba63df9623726e2177c234c0349f52"
+    },
+    {
+      "path": "/agriculture-vision-2026/call-for-papers-2026",
+      "status": 200,
+      "title": "Vision for Agriculture - Call for Papers 2026",
+      "url": "https://www.agriculture-vision.com/agriculture-vision-2026/call-for-papers-2026",
+      "sha256": "0dbef21f34eba2633e011fc3e0119c4880594d784975adfb4ec98b59a20899af"
+    },
+    {
+      "path": "/agriculture-vision-2026/program-schedule-2026",
+      "status": 200,
+      "title": "Vision for Agriculture - Program Schedule 2026",
+      "url": "https://www.agriculture-vision.com/agriculture-vision-2026/program-schedule-2026",
+      "sha256": "6470f8bd32a168c7e9ed014ed1c54553b43b6ae93cc7f4eb3c248dd1ecd2f0b3"
+    },
+    {
+      "path": "/contact-us",
+      "status": 200,
+      "title": "Vision for Agriculture - Contact Us",
+      "url": "https://www.agriculture-vision.com/contact-us",
+      "sha256": "3835eaabacbc055ff46fd3f132fe6bd072d3bf3f94b4042d39cc6b8330ad70ad"
+    },
+    {
+      "path": "/dataset-terms",
+      "status": 200,
+      "title": "Vision for Agriculture - Dataset Terms",
+      "url": "https://www.agriculture-vision.com/dataset-terms",
+      "sha256": "803bbb28f3fdbb1505c20ce75de139443c2a0e0dc074da9c713713dd9258f76d"
+    },
+    {
+      "path": "/qa",
+      "status": 200,
+      "title": "Vision for Agriculture - Q&A",
+      "url": "https://www.agriculture-vision.com/qa",
+      "sha256": "c34228f7d3dc7eaa0ad1e1a040997cc1601e03d10c1636e10f4dbe0c7b1cb633"
+    },
+    {
+      "path": "/submission-terms",
+      "status": 200,
+      "title": "Vision for Agriculture - Submission Terms",
+      "url": "https://www.agriculture-vision.com/submission-terms",
+      "sha256": "e33cba0ba723580ece3615e24c9532b3d0bb639f8efff174fe492378b92a0ae5"
+    }
+  ]
+}

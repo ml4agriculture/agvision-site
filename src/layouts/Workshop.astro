@@ -1,0 +1,142 @@
+---
+import nav from '../content/navigation.json';
+import media from '../content/import-manifest.json';
+import '../styles/site.css';
+
+interface SourcePage { path: string; title: string; html: string; source: string; heroHtml?: string; heroImage?: string; heroMode?: string; description?: string }
+interface NavLink { path: string; label: string }
+const { page } = Astro.props as { page: SourcePage };
+const links = (nav as NavLink[]).map((l) => ({ ...l, label: l.label || 'Agriculture-Vision 2026' }));
+const top = links.filter(({path}) => path.split('/').filter(Boolean).length === 1);
+const active = (path: string) => page.path === path || (page.path === '/' && path === '/agriculture-vision-2026');
+const within = (path: string) => active(path) || page.path.startsWith(path + '/');
+---
+<!doctype html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="generator" content={Astro.generator} />
+    <title>{page.title}</title>
+    {page.description && <meta name="description" content={page.description} />}
+  </head>
+  <body data-route={page.path}>
+    <a class="skip-link" href="#main">Skip to main content</a>
+    <header class="site-header">
+      <div class="nav-shell">
+        <a class="brand" href="/">{media.logo && <img src={media.logo} alt="" width="72" height="45" />}<span>Vision for Agriculture</span></a>
+        <button class="nav-toggle" type="button" aria-controls="workshop-nav" aria-expanded="false" aria-label="Open navigation"><span aria-hidden="true">☰</span></button>
+        <nav class="workshop-nav" id="workshop-nav" aria-label="Workshop navigation">
+          <ul class="nav-years">
+            {top.map(({path,label}) => {
+              const children = links.filter((l) => l.path.startsWith(path + '/'));
+              return <li class:list={['nav-item', { 'is-active': within(path), 'archives-mobile': top.indexOf(top.find((l) => l.path === path)!) > 2 }]}>
+                <a href={path} aria-current={active(path) ? 'page' : undefined}>{label}</a>
+                {children.length > 0 && <>
+                  <button class="submenu-toggle" type="button" aria-label={`Pages for ${label}`} aria-expanded="false"><span aria-hidden="true">▾</span></button>
+                  <ul class="nav-children">
+                    {children.map((l) => <li class:list={[{ 'nested-link': l.path.split('/').filter(Boolean).length > 2 }]}>
+                      <a href={l.path} aria-current={active(l.path) ? 'page' : undefined}>{l.label}</a>
+                    </li>)}
+                  </ul>
+                </>}
+              </li>;
+            })}
+            <li class="nav-item nav-more">
+              <button type="button" class="submenu-toggle more-button" aria-expanded="false">More <span aria-hidden="true">▾</span></button>
+              <ul class="nav-children">
+                {top.slice(3).map(({path,label}) => <li>
+                  <a href={path} aria-current={active(path) ? 'page' : undefined}>{label}</a>
+                  {links.filter((l) => l.path.startsWith(path + '/')).map((l) => <a class="more-child" href={l.path} aria-current={active(l.path) ? 'page' : undefined}>{l.label}</a>)}
+                </li>)}
+              </ul>
+            </li>
+          </ul>
+        </nav>
+        <button class="search-toggle" type="button" aria-label="Search this site">
+          <svg aria-hidden="true" viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2"><circle cx="10" cy="10" r="6"/><path d="m15 15 5 5"/></svg>
+        </button>
+      </div>
+    </header>
+    <main id="main">
+      {page.heroHtml && <div class:list={['page-hero', page.heroMode]} style={page.heroImage ? `--hero-image: url("${page.heroImage}")` : undefined} set:html={page.heroHtml} />}
+      <article class="page-content" set:html={page.html} />
+    </main>
+    <dialog class="search-panel" aria-labelledby="site-search-title">
+      <div class="search-top"><strong id="site-search-title">Search this site</strong><form method="dialog"><button aria-label="Close search">Close</button></form></div>
+      <label for="site-search-query" class="visually-hidden">Search workshop history</label>
+      <input id="site-search-query" type="search" placeholder="Search workshop history" autocomplete="off" />
+      <p class="search-status" role="status"></p>
+      <ol class="search-results"></ol>
+    </dialog>
+    <script>
+      type IndexRow = { path: string; title: string; text: string };
+      const search = document.querySelector<HTMLDialogElement>('.search-panel');
+      const searchButton = document.querySelector<HTMLButtonElement>('.search-toggle');
+      const searchInput = document.querySelector<HTMLInputElement>('#site-search-query');
+      const searchStatus = document.querySelector<HTMLElement>('.search-status');
+      const searchResults = document.querySelector<HTMLElement>('.search-results');
+      let index: Promise<IndexRow[]> | undefined;
+      searchButton?.addEventListener('click', () => { search?.showModal(); searchInput?.focus(); });
+      searchInput?.addEventListener('input', async () => {
+        const value = searchInput.value.trim();
+        const terms = value.toLowerCase().split(/\s+/);
+        searchResults?.replaceChildren();
+        if (searchStatus) searchStatus.textContent = '';
+        if (value.length < 2) return;
+        try {
+          index ??= fetch('/search-index.json').then((response) => {
+            if (!response.ok) throw new Error('Missing search index');
+            return response.json();
+          });
+          const rows = await index;
+          if (searchInput.value.trim() !== value) return;
+          const results = rows.map((row) => ({
+            ...row, score: terms.reduce((score, term) => score + (row.title.toLowerCase().includes(term) ? 3 : row.text.toLowerCase().includes(term) ? 1 : 0), 0),
+          })).filter((row) => row.score).sort((a,b) => b.score-a.score).slice(0,16);
+          if (searchStatus) searchStatus.textContent = results.length ? `${results.length} matching pages` : 'No matching pages.';
+          for (const row of results) {
+            const item = document.createElement('li'), link = document.createElement('a'), snippet = document.createElement('p');
+            link.href = row.path;
+            link.textContent = row.title;
+            const at = row.text.toLowerCase().indexOf(terms[0]);
+            snippet.textContent = row.text.slice(Math.max(0, at-40), Math.max(0, at-40)+120).trim() + '…';
+            item.append(link, snippet);
+            searchResults?.append(item);
+          }
+        } catch {
+          index = undefined;
+          if (searchStatus) searchStatus.textContent = 'Search is temporarily unavailable. Use the year menu to browse.';
+        }
+      });
+      const header = document.querySelector('.site-header');
+      const refreshHeader = () => header?.classList.toggle('is-scrolled', window.scrollY > 35);
+      refreshHeader();
+      window.addEventListener('scroll', refreshHeader, { passive: true });
+      const menu = document.querySelector<HTMLButtonElement>('.nav-toggle');
+      const nav = document.querySelector<HTMLElement>('#workshop-nav');
+      const buttons = Array.from(document.querySelectorAll<HTMLButtonElement>('.submenu-toggle'));
+      const update = (button: HTMLButtonElement, open: boolean) => button.setAttribute('aria-expanded', String(open));
+      menu?.addEventListener('click', () => {
+        const open = menu.getAttribute('aria-expanded') !== 'true';
+        update(menu, open);
+        menu.setAttribute('aria-label', open ? 'Close navigation' : 'Open navigation');
+        nav?.classList.toggle('is-open', open);
+      });
+      for (const button of buttons) button.addEventListener('click', () => {
+        const open = button.getAttribute('aria-expanded') !== 'true';
+        for (const other of buttons) update(other, false);
+        update(button, open);
+      });
+      document.addEventListener('click', (event) => {
+        if (event.target instanceof Node && !nav?.contains(event.target)) for (const button of buttons) update(button, false);
+      });
+      document.addEventListener('keydown', (event) => {
+        if (event.key !== 'Escape') return;
+        const expanded = buttons.find((b) => b.getAttribute('aria-expanded') === 'true');
+        if (expanded) { update(expanded, false); expanded.focus(); }
+        else if (menu?.getAttribute('aria-expanded') === 'true') { menu.click(); menu.focus(); }
+      });
+    </script>
+  </body>
+</html>
