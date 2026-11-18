@@ -65,8 +65,8 @@ The local draft is at `/agriculture-vision-2027/`, implemented in
 `src/pages/agriculture-vision-2027.astro`. It uses the existing workshop theme
 and leaves the current homepage and all 2020–2026 archive content intact.
 The draft marks acceptance and the workshop date as unconfirmed and contains
-only an overview of the proposed research scope. It does not announce a
-lineup, program, submission deadline, format, or sponsors.
+an overview of the proposed research scope and the approved confirmed speaker
+lineup. It does not announce a program, submission deadline, format, or sponsors.
 
 To review the built draft:
 
@@ -90,6 +90,12 @@ public copy, and any program or participation details with the organizers.
 Then make publication and the homepage/navigation change an explicit,
 separate update. This draft does not change Cloudflare, DNS, or deployment
 configuration.
+
+The confirmed invited speakers live in `src/content/speakers-2027.json`.
+Entries contain only approved public-facing names, roles, affiliations, and
+links to their organizations' public leadership pages. Speaker participation
+remains conditional on workshop acceptance; no talk titles or times are assigned.
+Add further speakers only after confirmation and approval to show them publicly.
 
 #### Calendar links
 

@@ -2,6 +2,7 @@
 import Workshop from '../layouts/Workshop.astro';
 import WorkshopCalendar from '../components/WorkshopCalendar.astro';
 import workshop from '../content/workshop-2027.json';
+import speakers from '../content/speakers-2027.json';
 import { createWorkshopCalendar } from '../lib/workshop-calendar.mjs';
 
 const calendar = createWorkshopCalendar(workshop);
@@ -51,6 +52,7 @@ const focusAreas = [
     </div>
     <nav class="edition-navigation" aria-label="2027 page sections">
       <a href="#overview">Overview</a>
+      <a href="#speakers">Speakers</a>
       <a href="#research-focus">Research focus</a>
       <a href="#past-editions">Past editions</a>
     </nav>
@@ -75,6 +77,21 @@ const focusAreas = [
       <p>The <a href="https://cvpr.thecvf.com/Conferences/2027/CallForWorkshops">CVPR call for workshops</a> lists proposal notifications by <time datetime="2026-12-22">22 December 2026</time>.</p>
       <WorkshopCalendar calendar={calendar} />
     </aside>
+  </section>
+
+  <section class="edition-speakers" id="speakers" aria-labelledby="speakers-title">
+    <div class="section-heading">
+      <p class="section-label">2027 lineup</p>
+      <h2 id="speakers-title">Confirmed invited speakers</h2>
+      <p>Participation is subject to workshop acceptance. Talk titles and times will be announced once finalized.</p>
+    </div>
+    <ul class="speaker-list">
+      {speakers.map(({ name, role, organization, url }) => <li>
+        <h3>{name}</h3>
+        <p>{role}</p>
+        <a href={url}>{organization}</a>
+      </li>)}
+    </ul>
   </section>
 
   <section class="edition-focus" id="research-focus" aria-labelledby="focus-title">
@@ -142,6 +159,12 @@ const focusAreas = [
   .edition-status dt { font-size: .82rem; color: var(--muted); }
   .edition-status dd { margin: 2px 0 0; font-weight: 600; font-size: .94rem; }
   .edition-status p { font-size: .82rem; }
+  section.edition-speakers { padding-top: 12px; padding-bottom: 48px; }
+  .speaker-list { list-style: none; display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 28px; margin: 30px 0 0; padding: 0; }
+  .speaker-list li { margin: 0; padding-top: 20px; border-top: 3px solid var(--accent); }
+  .speaker-list h3 { font-weight: 400; font-size: 1.5rem; margin: 0 0 12px; }
+  .speaker-list p { font-size: .9rem; margin: 0; }
+  .speaker-list a { display: inline-flex; align-items: center; min-height: 44px; font-size: .9rem; font-weight: 600; }
   section.edition-focus { background: var(--shade); padding-top: 48px; padding-bottom: 48px; }
   .section-heading { max-width: 720px; }
   .focus-areas { margin-top: 30px; border-top: 1px solid #ccc; }
@@ -155,6 +178,7 @@ const focusAreas = [
   .edition-years a { display: flex; align-items: center; justify-content: center; min-width: 94px; min-height: 54px; border: 1px solid #b9b9b9; border-radius: 3px; font-weight: 600; text-decoration: none; }
   .edition-years a:hover { background: var(--shade); border-color: var(--accent); text-decoration: underline; }
   .archive-note { color: var(--muted); font-size: .85rem; }
+  @media (max-width: 1050px) { .speaker-list { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
   @media (max-width: 767px) {
     section.edition-hero { padding: 88px 20px 36px; }
     .draft-notice { display: block; padding: 16px 18px; }
@@ -163,9 +187,12 @@ const focusAreas = [
     section.edition-overview { grid-template-columns: 1fr; gap: 28px; padding-top: 32px; padding-bottom: 36px; }
     .overview-copy h2, .section-heading h2 { font-size: 1.75rem; }
     .edition-status { padding: 22px; }
+    section.edition-speakers { padding-bottom: 36px; }
+    .speaker-list { gap: 24px; }
     section.edition-focus, section.edition-archive { padding-top: 36px; padding-bottom: 36px; }
     .focus-area { grid-template-columns: 1fr; gap: 12px; }
     .edition-years { gap: 10px; }
     .edition-years a { min-width: 84px; }
   }
+  @media (max-width: 479px) { .speaker-list { grid-template-columns: 1fr; } }
 </style>

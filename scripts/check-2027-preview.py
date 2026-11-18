@@ -88,6 +88,11 @@ def main():
     assert page.robots == ["noindex, nofollow"], "Draft must opt out of search indexing"
     assert "Spatial Intelligence in Agriculture" in markup
     assert "Acceptance pending" in markup
+    assert "Confirmed invited speakers" in markup
+    for name in ("Tyler Niday", "Igor Susmelj", "Gaurav Bansal", "Kenny Lee"):
+        assert name in markup, f"Confirmed speaker missing: {name}"
+    assert "Amy Tabb" not in markup, "Tentative speaker must not appear as confirmed"
+    assert "Participation is subject to workshop acceptance." in markup
     assert "Calendar links will be available once the workshop schedule is confirmed." in markup
     assert "calendar.google.com" not in markup, "Pending workshop must not offer a Google Calendar action"
     assert not list((dist / ROUTE.lstrip("/")).glob("*.ics")), "Pending workshop must not emit a calendar file"

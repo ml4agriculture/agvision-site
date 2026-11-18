@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Tyler Niday",
+    "role": "Co-founder & CEO",
+    "organization": "Bonsai Robotics",
+    "url": "https://bonsairobotics.ai/about/"
+  },
+  {
+    "name": "Igor Susmelj",
+    "role": "Co-founder & CTO",
+    "organization": "Lightly AI",
+    "url": "https://www.lightly.ai/about-us"
+  },
+  {
+    "name": "Gaurav Bansal",
+    "role": "VP of Engineering, Autonomy",
+    "organization": "Blue River Technology",
+    "url": "https://www.bluerivertechnology.com/culture/"
+  },
+  {
+    "name": "Kenny Lee",
+    "role": "Co-founder & CEO",
+    "organization": "Aigen",
+    "url": "https://aigen.io/about"
+  }
+]
