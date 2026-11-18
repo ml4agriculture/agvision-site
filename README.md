@@ -59,6 +59,39 @@ See [Workers Builds branch settings](https://developers.cloudflare.com/workers/c
 
 ## Content and design
 
+### Unpublished 2027 edition
+
+The local draft is at `/agriculture-vision-2027/`, implemented in
+`src/pages/agriculture-vision-2027.astro`. It uses the existing workshop theme
+and leaves the current homepage and all 2020–2026 archive content intact.
+The draft marks acceptance and the workshop date as unconfirmed and contains
+only an overview of the proposed research scope. It does not announce a
+lineup, program, submission deadline, format, or sponsors.
+
+To review the built draft:
+
+```sh
+npm run build
+npm run check:parity
+npm run check:2027
+npm run preview -- --port 4327
+```
+
+Open <http://127.0.0.1:4327/agriculture-vision-2027/>. The draft is absent from
+the public navigation and search index; there is currently no generated
+sitemap. Preserve this exclusion if a sitemap is added. Its `noindex, nofollow`
+metadata requests search-engine exclusion; it is **not access control**.
+Production analytics are omitted for the draft. Do not store private proposal
+documents or correspondence in this repository.
+
+Before release, confirm acceptance, the assigned workshop date, approved
+public copy, and any program or participation details with the organizers.
+Then make publication and the homepage/navigation change an explicit,
+separate update. This draft does not change Cloudflare, DNS, or deployment
+configuration.
+
+### Archive sources
+
 - `src/content/snapshot.json`: editable page records with source URL, title, route, and cleaned HTML; archived 2020–2026 workshop pages and extras.
 - `src/content/navigation.json`: display names/order and original archive hierarchy.
 - `src/content/inventory.json`: official source discovery baseline for parity checks.
