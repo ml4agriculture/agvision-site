@@ -21,6 +21,25 @@ npm run preview
 
 For self-hosting, serve `dist/` from your static web server with directory indexes (`/path/` resolves to `/path/index.html`) and redirect slashless directory routes as appropriate. This version assumes it is served from the root of its domain. There is no automatic domain change or deployment.
 
+## Production visit analytics
+
+1. In [Cloudflare Web Analytics](https://developers.cloudflare.com/web-analytics/get-started/),
+   add `agvision-site.leandro-g-almeida.workers.dev` as a site with **manual**
+   setup. Do not enable automatic beacon injection for the same site.
+2. Copy the public site token from the snippet (not a Cloudflare API token).
+   In the `agvision-site` Worker's **Settings → Builds → Variables and secrets**,
+   set `PUBLIC_CF_WEB_ANALYTICS_TOKEN` for production builds only. Do not set it
+   for previews or as a runtime binding. Rebuild production to activate the tag.
+3. Open the production site over HTTPS, then look for visits and page views in
+   Cloudflare Web Analytics. Counts are shown in the dashboard, not on the site.
+
+The site omits analytics when the token is missing. Even a production build
+only loads the beacon at the exact HTTPS production hostname, not at a PR
+preview, a local address, or the current Google Sites domain. If the canonical
+domain moves to this Worker, register the actual production hostname in
+Cloudflare Web Analytics and review the allowlist in
+`src/components/ProductionAnalytics.astro` before collecting there.
+
 ## Cloudflare Workers pull-request previews
 
 In the existing `agvision-site` Worker's **Settings → Builds**, keep `main`
