@@ -1,5 +1,10 @@
 ---
 import Workshop from '../layouts/Workshop.astro';
+import WorkshopCalendar from '../components/WorkshopCalendar.astro';
+import workshop from '../content/workshop-2027.json';
+import { createWorkshopCalendar } from '../lib/workshop-calendar.mjs';
+
+const calendar = createWorkshopCalendar(workshop);
 
 // Keep unreleased editions separate from snapshot.json: that file supplies the
 // current homepage, archive routes, and public search index.
@@ -65,9 +70,10 @@ const focusAreas = [
         <div><dt>Edition</dt><dd>8th · 2027</dd></div>
         <div><dt>Proposal</dt><dd>Submitted to CVPR 2027</dd></div>
         <div><dt>Acceptance</dt><dd>Pending</dd></div>
-        <div><dt>Workshop date</dt><dd>To be confirmed</dd></div>
+        <div><dt>Workshop date</dt><dd>{calendar ? calendar.dateLabel : 'To be confirmed'}</dd></div>
       </dl>
       <p>The <a href="https://cvpr.thecvf.com/Conferences/2027/CallForWorkshops">CVPR call for workshops</a> lists proposal notifications by <time datetime="2026-12-22">22 December 2026</time>.</p>
+      <WorkshopCalendar calendar={calendar} />
     </aside>
   </section>
 

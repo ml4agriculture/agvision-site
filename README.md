@@ -74,6 +74,7 @@ To review the built draft:
 npm run build
 npm run check:parity
 npm run check:2027
+npm run test:calendar
 npm run preview -- --port 4327
 ```
 
@@ -89,6 +90,34 @@ public copy, and any program or participation details with the organizers.
 Then make publication and the homepage/navigation change an explicit,
 separate update. This draft does not change Cloudflare, DNS, or deployment
 configuration.
+
+#### Calendar links
+
+`src/content/workshop-2027.json` is the single source for calendar metadata and
+schedule status. Keep `schedule.status` as `pending` until the assigned workshop
+schedule is confirmed. Pending state renders only an explanatory sentence;
+neither a Google Calendar link nor a `.ics` route/file is generated.
+
+Once confirmed, set `schedule.status` to `confirmed` and provide `start` and
+`end` as ISO date/times with seconds and explicit offsets, `timeZone` as an IANA
+timezone name, and `updatedAt` as the UTC revision time ending in `Z`. The local
+date/time and offset must agree with that timezone, including daylight saving.
+Include `schedule.location` only after a venue is known. Set `url` to the
+approved official workshop page (currently the existing official homepage),
+retain the stable `uid`, and update the page's acceptance copy as part of release.
+
+A confirmed build adds accessible Google Calendar and `.ics` download links
+to the workshop status panel. Both carry the same title, official URL, start
+and end; unknown location is omitted. The `.ics` uses UTC instants, escaped
+text, CRLF line endings and UTF-8-aware line folding per
+[RFC 5545](https://www.rfc-editor.org/rfc/rfc5545). Visitors choose whether to
+save it in their calendar; the site does not create events or send invitations.
+
+`npm run test:calendar` checks DST conversion, escaping/folding, invalid input,
+and both output formats. It also builds a fictitious confirmed event in a
+temporary directory, then rebuilds that fixture as pending to verify removal
+of links and downloads. It never modifies the real pending schedule or opens
+a calendar service.
 
 ### Archive sources
 

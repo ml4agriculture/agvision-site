@@ -88,6 +88,9 @@ def main():
     assert page.robots == ["noindex, nofollow"], "Draft must opt out of search indexing"
     assert "Spatial Intelligence in Agriculture" in markup
     assert "Acceptance pending" in markup
+    assert "Calendar links will be available once the workshop schedule is confirmed." in markup
+    assert "calendar.google.com" not in markup, "Pending workshop must not offer a Google Calendar action"
+    assert not list((dist / ROUTE.lstrip("/")).glob("*.ics")), "Pending workshop must not emit a calendar file"
     assert "static.cloudflareinsights.com" not in markup, "Draft must not load production analytics"
     assert "openreview.net" not in markup and "mailto:" not in markup, "Keep proposal access and contact details out of the draft"
 
@@ -119,7 +122,7 @@ def main():
     for sitemap in dist.rglob("*sitemap*"):
         if sitemap.is_file():
             assert ROUTE not in sitemap.read_text(), f"Draft leaked into {sitemap}"
-    print("2027 preview: title, status, noindex, analytics exclusion, links, and archive/search/sitemap isolation passed.")
+    print("2027 preview: title, pending calendar state, noindex, analytics exclusion, links, and archive/search/sitemap isolation passed.")
     if args.baseline:
         check_baseline(dist, args.baseline)
 
