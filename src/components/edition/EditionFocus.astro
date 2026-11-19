@@ -1,0 +1,13 @@
+---
+import type { Edition } from '../../lib/edition-schema';
+import SectionHeading from './SectionHeading.astro';
+interface Props { research: NonNullable<Edition['research']> }
+const { research } = Astro.props;
+---
+<section class="edition-focus" id="research-focus" aria-labelledby="focus-title">
+  <SectionHeading id="focus-title" {...research} />
+  <div class="focus-areas">
+    {research.areas.map(({ title, text }) => <div class="focus-area"><h3>{title}</h3><p>{text}</p></div>)}
+  </div>
+  {research.note && <p class="participation-note">{research.note}</p>}
+</section>

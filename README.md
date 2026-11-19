@@ -14,6 +14,7 @@ npm run dev
 Open <http://127.0.0.1:4321/>. For a production-equivalent preview:
 
 ```sh
+npm run check
 npm run build
 npm run check:parity
 npm run preview
@@ -62,7 +63,8 @@ See [Workers Builds branch settings](https://developers.cloudflare.com/workers/c
 ### Unpublished 2027 edition
 
 The local draft is at `/agriculture-vision-2027/`, implemented in
-`src/pages/agriculture-vision-2027.astro`. It uses the existing workshop theme
+`src/pages/agriculture-vision-2027.astro`, a thin route using the reusable
+`src/layouts/EditionPage.astro` template. It uses the existing workshop theme
 and leaves the current homepage and all 2020–2026 archive content intact.
 The draft marks acceptance and the workshop date as unconfirmed and contains
 an overview of the proposed research scope and the approved confirmed speaker
@@ -75,6 +77,7 @@ npm run build
 npm run check:parity
 npm run check:2027
 npm run test:calendar
+npm run test:edition
 npm run preview -- --port 4327
 ```
 
@@ -91,7 +94,10 @@ Then make publication and the homepage/navigation change an explicit,
 separate update. This draft does not change Cloudflare, DNS, or deployment
 configuration.
 
-The confirmed invited speakers live in `src/content/speakers-2027.json`.
+Edition content lives in `src/content/editions/2027.json`, validated by the
+`editions` Astro content collection. The confirmed invited speakers are in its
+`speakers.people` array. See [the edition template guide](docs/edition-template.md)
+for components, rendering boundaries, and creating another edition.
 Entries contain only approved public-facing names, roles, affiliations, and
 links to their organizations' public leadership pages. Speaker participation
 remains conditional on workshop acceptance; no talk titles or times are assigned.
@@ -99,8 +105,8 @@ Add further speakers only after confirmation and approval to show them publicly.
 
 #### Calendar links
 
-`src/content/workshop-2027.json` is the single source for calendar metadata and
-schedule status. Keep `schedule.status` as `pending` until the assigned workshop
+`src/content/editions/2027.json` is the single source for page and calendar
+metadata, including schedule status. Keep `schedule.status` as `pending` until the assigned workshop
 schedule is confirmed. Pending state renders only an explanatory sentence;
 neither a Google Calendar link nor a `.ics` route/file is generated.
 
@@ -113,7 +119,9 @@ approved official workshop page (currently the existing official homepage),
 retain the stable `uid`, and update the page's acceptance copy as part of release.
 
 A confirmed build adds accessible Google Calendar and `.ics` download links
-to the workshop status panel. Both carry the same title, official URL, start
+to the workshop status panel. A React island also displays the schedule in the
+visitor’s timezone once visible; the host-time schedule and links work without
+JavaScript. Both calendar actions carry the same title, official URL, start
 and end; unknown location is omitted. The `.ics` uses UTC instants, escaped
 text, CRLF line endings and UTF-8-aware line folding per
 [RFC 5545](https://www.rfc-editor.org/rfc/rfc5545). Visitors choose whether to

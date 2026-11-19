@@ -12,7 +12,7 @@ const { calendar } = Astro.props;
     <h3 id="calendar-title">Add to calendar</h3>
     <div class="calendar-actions">
       <a href={calendar.googleUrl}>Add to Google Calendar</a>
-      <a href={calendar.downloadPath} download="agriculture-vision-2027.ics">Download calendar file (.ics)</a>
+      <a href={calendar.downloadPath} download={calendar.downloadFilename}>Download calendar file (.ics)</a>
     </div>
     <p class="calendar-help">The calendar file works with Apple Calendar, Outlook, and other calendar apps.</p>
   </section> : <p class="calendar-pending">Calendar links will be available once the workshop schedule is confirmed.</p>}

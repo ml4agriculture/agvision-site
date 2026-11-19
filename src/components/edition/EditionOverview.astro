@@ -1,0 +1,14 @@
+---
+import type { Edition } from '../../lib/edition-schema';
+import SectionHeading from './SectionHeading.astro';
+interface Props { overview: Edition['overview'] }
+const { overview } = Astro.props;
+---
+<section class="edition-overview" id="overview" aria-labelledby="overview-title">
+  <div class="overview-copy">
+    <SectionHeading id="overview-title" {...overview} />
+    {overview.paragraphs.map((paragraph) => <p>{paragraph}</p>)}
+    {overview.link && <a class="archive-button" href={overview.link.href}>{overview.link.label}</a>}
+  </div>
+  <slot name="status" />
+</section>

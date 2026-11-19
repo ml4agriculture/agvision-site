@@ -11,7 +11,8 @@ const root = fileURLToPath(new URL('../', import.meta.url));
 // Deliberately fictitious; never served, opened in a calendar, or assigned to
 // the real workshop. Crosses the US spring DST change: elapsed time is 1 hour.
 const fixture = {
-  title: 'FICTITIOUS calendar test: Café, crops; vision & robotics 🌿 '.repeat(3),
+  path: '/fictitious-2030',
+  title: 'FICTITIOUS calendar test: Café, crops; vision & robotics 🌿 '.repeat(3).trim(),
   url: 'https://example.org/fictitious-workshop?source=calendar&edition=test',
   uid: 'fictitious-calendar-test@example.org',
   description: 'Fixture only: Café, crops; path\\test\nBEGIN:VALARM',
@@ -34,7 +35,7 @@ const decodeText = (value) => value.replace(/\\([nN,;\\])/g, (_, character) => /
 test('pending or absent schedule never creates a link or calendar payload, even with stale dates', () => {
   assert.equal(createWorkshopCalendar({}), null);
   assert.equal(createWorkshopCalendar(withSchedule({ status: 'pending' })), null);
-  const real = JSON.parse(readFileSync(join(root, 'src/content/workshop-2027.json'), 'utf8'));
+  const real = JSON.parse(readFileSync(join(root, 'src/content/editions/2027.json'), 'utf8'));
   assert.equal(real.schedule.status, 'pending');
   assert.equal(createWorkshopCalendar(real), null);
 });
@@ -100,40 +101,65 @@ test('invalid confirmed schedules fail instead of creating misleading events', (
   ]) assert.throws(() => createWorkshopCalendar(withSchedule(patch)), undefined, JSON.stringify(patch));
 });
 
-test('isolated Astro build renders confirmed links/file, then removes both on return to pending', { timeout: 60000 }, () => {
+test('isolated Astro build renders confirmed links/file, then removes both on return to pending', { timeout: 90000 }, () => {
   // macOS aliases /var to /private/var; Vite needs one canonical root.
   const temp = realpathSync(mkdtempSync(join(tmpdir(), 'agvision-calendar-fixture-')));
-  const realData = readFileSync(join(root, 'src/content/workshop-2027.json'), 'utf8');
+  const realData = readFileSync(join(root, 'src/content/editions/2027.json'), 'utf8');
   try {
     cpSync(join(root, 'src'), join(temp, 'src'), { recursive: true });
-    for (const file of ['package.json', 'astro.config.mjs']) cpSync(join(root, file), join(temp, file));
+    for (const file of ['package.json', 'astro.config.mjs', 'tsconfig.json']) cpSync(join(root, file), join(temp, file));
     symlinkSync(join(root, 'node_modules'), join(temp, 'node_modules'), 'dir');
     symlinkSync(join(root, 'public'), join(temp, 'public'), 'dir');
-    const dataPath = join(temp, 'src/content/workshop-2027.json');
+    const configPath = join(temp, 'astro.config.mjs');
+    // Content and Vite caches must not follow the shared node_modules symlink.
+    writeFileSync(configPath, readFileSync(configPath, 'utf8').replace("output: 'static',", "output: 'static', cacheDir: './.fixture-cache/', vite: { cacheDir: './.fixture-vite/' },"));
+    const dataPath = join(temp, 'src/content/editions/2030.json');
+    const edition = { ...JSON.parse(realData), ...fixture, year: 2030, titlePrefix: 'FICTITIOUS', label: 'Fictitious 2030' };
+    // Prove the template supports a distinct edition and omitted optional blocks.
+    delete edition.speakers;
+    delete edition.research;
+    delete edition.archive;
+    delete edition.notice;
+    delete edition.noIndex; // safe collection default
+    writeFileSync(dataPath, JSON.stringify(edition));
+    writeFileSync(join(temp, 'src/pages/fictitious-2030.astro'), readFileSync(join(root, 'src/pages/agriculture-vision-2027.astro'), 'utf8').replaceAll('2027', '2030'));
+    cpSync(join(temp, 'src/pages/agriculture-vision-2027'), join(temp, 'src/pages/fictitious-2030'), { recursive: true });
+    const endpoint = join(temp, 'src/pages/fictitious-2030/[calendar].ics.ts');
+    writeFileSync(endpoint, readFileSync(endpoint, 'utf8').replaceAll('2027', '2030'));
     const build = () => execFileSync(process.execPath, [realpathSync(join(root, 'node_modules/.bin/astro')), 'build', '--root', temp], {
-      cwd: temp, encoding: 'utf8', timeout: 25000, maxBuffer: 2 * 1024 * 1024,
+      cwd: temp, encoding: 'utf8', timeout: 30000, maxBuffer: 2 * 1024 * 1024,
     });
-    writeFileSync(dataPath, JSON.stringify(fixture));
     build();
-    const htmlPath = join(temp, 'dist/agriculture-vision-2027/index.html');
-    const icsPath = join(temp, 'dist/agriculture-vision-2027/workshop.ics');
+    const htmlPath = join(temp, 'dist/fictitious-2030/index.html');
+    const icsPath = join(temp, 'dist/fictitious-2030/workshop.ics');
     const html = readFileSync(htmlPath, 'utf8').replaceAll('&amp;', '&');
     const expected = createWorkshopCalendar(fixture);
     assert.ok(html.includes(`href="${expected.googleUrl}"`));
     assert.ok(html.includes(`href="${expected.downloadPath}"`));
-    assert.ok(html.includes('download="agriculture-vision-2027.ics"'));
+    assert.ok(html.includes('download="fictitious-2030.ics"'));
     assert.ok(html.includes('id="calendar-title"'));
     assert.ok(!html.includes('Calendar links will be available'));
     assert.equal(readFileSync(icsPath, 'utf8'), expected.ics);
+    assert.ok(html.includes('noindex, nofollow'));
+    assert.ok(html.includes('<astro-island'));
+    assert.ok(html.includes('client="visible"'));
+    assert.ok(html.includes('Times above use the workshop timezone.'));
+    for (const anchor of ['speakers', 'research-focus', 'past-editions']) {
+      assert.ok(!html.includes(`href="#${anchor}"`), 'Omitted blocks must not leave broken navigation');
+      assert.ok(!html.includes(`id="${anchor}"`));
+    }
+    // Optional outside-repository build for background browser hydration checks.
+    if (process.env.AGVISION_TEST_ARTIFACTS) cpSync(join(temp, 'dist'), process.env.AGVISION_TEST_ARTIFACTS, { recursive: true });
 
-    writeFileSync(dataPath, JSON.stringify(withSchedule({ status: 'pending' })));
+    writeFileSync(dataPath, JSON.stringify({ ...edition, schedule: { status: 'pending' } }));
     build();
     const pending = readFileSync(htmlPath, 'utf8');
     assert.ok(pending.includes('Calendar links will be available once the workshop schedule is confirmed.'));
     assert.ok(!pending.includes('calendar.google.com'));
-    assert.ok(!pending.includes('href="/agriculture-vision-2027/workshop.ics"'));
+    assert.ok(!pending.includes('href="/fictitious-2030/workshop.ics"'));
+    assert.ok(!pending.includes('<astro-island'), 'Pending editions must not hydrate React');
     assert.equal(existsSync(icsPath), false, 'A pending rebuild must remove the previously generated calendar');
-    assert.equal(readFileSync(join(root, 'src/content/workshop-2027.json'), 'utf8'), realData);
+    assert.equal(readFileSync(join(root, 'src/content/editions/2027.json'), 'utf8'), realData);
   } finally {
     rmSync(temp, { recursive: true, force: true });
   }

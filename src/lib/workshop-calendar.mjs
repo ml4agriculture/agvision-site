@@ -42,11 +42,17 @@ function requiredText(value, field) {
   return value;
 }
 
-/** Return no payload at all until the organizer explicitly confirms a schedule. */
+/**
+ * Return no payload at all until the organizer explicitly confirms a schedule.
+ * @param {Pick<import('./edition-schema').Edition, 'title' | 'description' | 'url' | 'uid' | 'path' | 'schedule'>} workshop
+ */
 export function createWorkshopCalendar(workshop) {
   const schedule = workshop.schedule;
   if (schedule?.status !== 'confirmed') return null;
 
+  if (!/^\/[a-z0-9]+(?:[/-][a-z0-9]+)*$/.test(workshop.path)) {
+    throw new Error('Calendar path must be an absolute internal edition path without a trailing slash.');
+  }
   const title = requiredText(workshop.title, 'title');
   const uid = requiredText(workshop.uid, 'UID');
   const officialUrl = new URL(requiredText(workshop.url, 'official URL'));
@@ -101,7 +107,8 @@ export function createWorkshopCalendar(workshop) {
   });
   return {
     ics, googleUrl: google.href,
-    downloadPath: '/agriculture-vision-2027/workshop.ics',
+    downloadPath: `${workshop.path}/workshop.ics`,
+    downloadFilename: `${workshop.path.split('/').at(-1)}.ics`,
     start: schedule.start, end: schedule.end,
     dateLabel: `${formatter.format(start)} – ${formatter.format(end)}`,
   };
