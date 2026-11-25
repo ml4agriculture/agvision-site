@@ -4,7 +4,7 @@ import nav from '../content/navigation.json';
 import media from '../content/import-manifest.json';
 import '../styles/site.css';
 
-interface SourcePage { path: string; title: string; html: string; source: string; heroHtml?: string; heroImage?: string; heroMode?: string; description?: string }
+interface SourcePage { path: string; title: string; html: string; source: string; heroHtml?: string; heroImage?: string; heroMode?: string; description?: string; noIndex?: boolean }
 interface NavLink { path: string; label: string }
 const { page } = Astro.props as { page: SourcePage };
 const links = (nav as NavLink[]).map((l) => ({ ...l, label: l.label || 'Agriculture-Vision 2026' }));
@@ -20,6 +20,7 @@ const within = (path: string) => active(path) || page.path.startsWith(path + '/'
     <meta name="generator" content={Astro.generator} />
     <title>{page.title}</title>
     {page.description && <meta name="description" content={page.description} />}
+    {page.noIndex && <meta name="robots" content="noindex, nofollow" />}
   </head>
   <body data-route={page.path}>
     <a class="skip-link" href="#main">Skip to main content</a>
@@ -61,7 +62,9 @@ const within = (path: string) => active(path) || page.path.startsWith(path + '/'
     </header>
     <main id="main">
       {page.heroHtml && <div class:list={['page-hero', page.heroMode]} style={page.heroImage ? `--hero-image: url("${page.heroImage}")` : undefined} set:html={page.heroHtml} />}
-      <article class="page-content" set:html={page.html} />
+      {Astro.slots.has('default')
+        ? <article class="page-content"><slot /></article>
+        : <article class="page-content" set:html={page.html} />}
     </main>
     <dialog class="search-panel" aria-labelledby="site-search-title">
       <div class="search-top"><strong id="site-search-title">Search this site</strong><form method="dialog"><button aria-label="Close search">Close</button></form></div>
@@ -139,6 +142,6 @@ const within = (path: string) => active(path) || page.path.startsWith(path + '/'
         else if (menu?.getAttribute('aria-expanded') === 'true') { menu.click(); menu.focus(); }
       });
     </script>
-    <ProductionAnalytics />
+    {!page.noIndex && <ProductionAnalytics />}
   </body>
 </html>

@@ -1,0 +1,20 @@
+---
+import type { Edition } from '../../lib/edition-schema';
+import type { createWorkshopCalendar } from '../../lib/workshop-calendar.mjs';
+import WorkshopCalendar from '../WorkshopCalendar.astro';
+import LocalSchedule from './LocalSchedule';
+interface Props { status: Edition['status']; calendar: ReturnType<typeof createWorkshopCalendar> }
+const { status, calendar } = Astro.props;
+---
+<aside class="edition-status" aria-labelledby="status-title">
+  <h2 id="status-title">Workshop status</h2>
+  <dl>
+    <div><dt>Edition</dt><dd>{status.edition}</dd></div>
+    <div><dt>Proposal</dt><dd>{status.proposal}</dd></div>
+    <div><dt>Acceptance</dt><dd>{status.acceptance}</dd></div>
+    <div><dt>Workshop date</dt><dd>{calendar ? calendar.dateLabel : 'To be confirmed'}</dd></div>
+  </dl>
+  {calendar && <LocalSchedule client:visible start={calendar.start} end={calendar.end} />}
+  {status.notification && <p>The <a href={status.notification.url}>{status.notification.label}</a> lists proposal notifications by <time datetime={status.notification.date}>{status.notification.dateLabel}</time>.</p>}
+  <WorkshopCalendar calendar={calendar} />
+</aside>

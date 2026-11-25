@@ -14,6 +14,7 @@ npm run dev
 Open <http://127.0.0.1:4321/>. For a production-equivalent preview:
 
 ```sh
+npm run check
 npm run build
 npm run check:parity
 npm run preview
@@ -58,6 +59,81 @@ Keep preview branch filters scoped to the branches you want Cloudflare to build.
 See [Workers Builds branch settings](https://developers.cloudflare.com/workers/ci-cd/builds/build-branches/).
 
 ## Content and design
+
+### Unpublished 2027 edition
+
+The local draft is at `/agriculture-vision-2027/`, implemented in
+`src/pages/agriculture-vision-2027.astro`, a thin route using the reusable
+`src/layouts/EditionPage.astro` template. It uses the existing workshop theme
+and leaves the current homepage and all 2020–2026 archive content intact.
+The draft marks acceptance and the workshop date as unconfirmed and contains
+an overview of the proposed research scope and the approved confirmed speaker
+lineup. It does not announce a program, submission deadline, format, or sponsors.
+
+To review the built draft:
+
+```sh
+npm run build
+npm run check:parity
+npm run check:2027
+npm run test:calendar
+npm run test:edition
+npm run preview -- --port 4327
+```
+
+Open <http://127.0.0.1:4327/agriculture-vision-2027/>. The draft is absent from
+the public navigation and search index; there is currently no generated
+sitemap. Preserve this exclusion if a sitemap is added. Its `noindex, nofollow`
+metadata requests search-engine exclusion; it is **not access control**.
+Production analytics are omitted for the draft. Do not store private proposal
+documents or correspondence in this repository.
+
+Before release, confirm acceptance, the assigned workshop date, approved
+public copy, and any program or participation details with the organizers.
+Then make publication and the homepage/navigation change an explicit,
+separate update. This draft does not change Cloudflare, DNS, or deployment
+configuration.
+
+Edition content lives in `src/content/editions/2027.json`, validated by the
+`editions` Astro content collection. The confirmed invited speakers are in its
+`speakers.people` array. See [the edition template guide](docs/edition-template.md)
+for components, rendering boundaries, and creating another edition.
+Entries contain only approved public-facing names, roles, affiliations, and
+links to their organizations' public leadership pages. Speaker participation
+remains conditional on workshop acceptance; no talk titles or times are assigned.
+Add further speakers only after confirmation and approval to show them publicly.
+
+#### Calendar links
+
+`src/content/editions/2027.json` is the single source for page and calendar
+metadata, including schedule status. Keep `schedule.status` as `pending` until the assigned workshop
+schedule is confirmed. Pending state renders only an explanatory sentence;
+neither a Google Calendar link nor a `.ics` route/file is generated.
+
+Once confirmed, set `schedule.status` to `confirmed` and provide `start` and
+`end` as ISO date/times with seconds and explicit offsets, `timeZone` as an IANA
+timezone name, and `updatedAt` as the UTC revision time ending in `Z`. The local
+date/time and offset must agree with that timezone, including daylight saving.
+Include `schedule.location` only after a venue is known. Set `url` to the
+approved official workshop page (currently the existing official homepage),
+retain the stable `uid`, and update the page's acceptance copy as part of release.
+
+A confirmed build adds accessible Google Calendar and `.ics` download links
+to the workshop status panel. A React island also displays the schedule in the
+visitor’s timezone once visible; the host-time schedule and links work without
+JavaScript. Both calendar actions carry the same title, official URL, start
+and end; unknown location is omitted. The `.ics` uses UTC instants, escaped
+text, CRLF line endings and UTF-8-aware line folding per
+[RFC 5545](https://www.rfc-editor.org/rfc/rfc5545). Visitors choose whether to
+save it in their calendar; the site does not create events or send invitations.
+
+`npm run test:calendar` checks DST conversion, escaping/folding, invalid input,
+and both output formats. It also builds a fictitious confirmed event in a
+temporary directory, then rebuilds that fixture as pending to verify removal
+of links and downloads. It never modifies the real pending schedule or opens
+a calendar service.
+
+### Archive sources
 
 - `src/content/snapshot.json`: editable page records with source URL, title, route, and cleaned HTML; archived 2020–2026 workshop pages and extras.
 - `src/content/navigation.json`: display names/order and original archive hierarchy.

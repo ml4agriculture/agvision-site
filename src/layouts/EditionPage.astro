@@ -1,0 +1,41 @@
+---
+import type { Edition } from '../lib/edition-schema';
+import { createWorkshopCalendar } from '../lib/workshop-calendar.mjs';
+import Workshop from './Workshop.astro';
+import EditionHero from '../components/edition/EditionHero.astro';
+import EditionIntro from '../components/edition/EditionIntro.astro';
+import EditionOverview from '../components/edition/EditionOverview.astro';
+import EditionStatus from '../components/edition/EditionStatus.astro';
+import EditionSpeakers from '../components/edition/EditionSpeakers.astro';
+import EditionFocus from '../components/edition/EditionFocus.astro';
+import EditionArchive from '../components/edition/EditionArchive.astro';
+import '../styles/edition.css';
+
+interface Props { edition: Edition }
+const { edition } = Astro.props;
+// This executes at build time; only the island's start/end strings reach React.
+const calendar = createWorkshopCalendar(edition);
+const sections = [
+  { id: 'overview', label: 'Overview' },
+  ...(edition.speakers ? [{ id: 'speakers', label: 'Speakers' }] : []),
+  ...(edition.research ? [{ id: 'research-focus', label: 'Research focus' }] : []),
+  ...(edition.archive ? [{ id: 'past-editions', label: 'Past editions' }] : []),
+];
+const page = {
+  path: edition.path, title: edition.metaTitle, description: edition.metaDescription,
+  noIndex: edition.noIndex, html: '', source: '',
+};
+---
+<Workshop page={page}>
+  <div class="workshop-edition">
+    <EditionHero edition={edition} />
+    <EditionIntro year={edition.year} notice={edition.notice} sections={sections} />
+    <EditionOverview overview={edition.overview}>
+      <EditionStatus slot="status" status={edition.status} calendar={calendar} />
+    </EditionOverview>
+    {edition.speakers && <EditionSpeakers speakers={edition.speakers} />}
+    {edition.research && <EditionFocus research={edition.research} />}
+    {edition.archive && <EditionArchive archive={edition.archive} />}
+    <slot />
+  </div>
+</Workshop>

@@ -1,0 +1,14 @@
+---
+import type { Edition } from '../../lib/edition-schema';
+import SectionHeading from './SectionHeading.astro';
+interface Props { speakers: NonNullable<Edition['speakers']> }
+const { speakers } = Astro.props;
+---
+<section class="edition-speakers" id="speakers" aria-labelledby="speakers-title">
+  <SectionHeading id="speakers-title" {...speakers} />
+  <ul class="speaker-list">
+    {speakers.people.map(({ name, role, organization, url }) => <li>
+      <h3>{name}</h3><p>{role}</p><a href={url}>{organization}</a>
+    </li>)}
+  </ul>
+</section>

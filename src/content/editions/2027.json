@@ -1,0 +1,141 @@
+{
+  "title": "The 8th International Workshop on Agriculture-Vision: Challenges & Opportunities for Computer Vision in Agriculture",
+  "url": "https://www.agriculture-vision.com/",
+  "uid": "agriculture-vision-2027@agriculture-vision.com",
+  "description": "Spatial Intelligence in Agriculture",
+  "schedule": {
+    "status": "pending"
+  },
+  "path": "/agriculture-vision-2027",
+  "year": 2027,
+  "label": "Agriculture-Vision 2027",
+  "titlePrefix": "The 8th International Workshop on",
+  "metaTitle": "Agriculture-Vision 2027 — Proposed workshop",
+  "metaDescription": "A preview of the proposed 8th Agriculture-Vision workshop, exploring spatial intelligence and embodied AI in agriculture. Acceptance is pending.",
+  "noIndex": true,
+  "hero": {
+    "image": "/media/57525b0cc9604731bb64.png",
+    "context": "Proposed for IEEE/CVF CVPR 2027 · Acceptance pending"
+  },
+  "notice": {
+    "title": "2027 edition preview",
+    "text": "This workshop has been proposed for CVPR 2027. Acceptance and the workshop date have not yet been confirmed."
+  },
+  "overview": {
+    "eyebrow": "The proposed 2027 edition",
+    "title": "From visual understanding to physical action",
+    "paragraphs": [
+      "Agriculture-Vision brings computer vision research into conversation with the challenges of agriculture. The proposed eighth edition focuses on spatial intelligence and embodied AI: how machines can understand agricultural environments and use that understanding to act within them.",
+      "From crop monitoring to robotic harvesting and autonomous navigation, agricultural systems must work with complex plant structures, occlusion, and changing field conditions. The proposed research scope connects 3D representations, multimodal learning, and robotics with these practical challenges."
+    ],
+    "link": {
+      "label": "Explore the 2026 edition",
+      "href": "/agriculture-vision-2026"
+    }
+  },
+  "status": {
+    "edition": "8th · 2027",
+    "proposal": "Submitted to CVPR 2027",
+    "acceptance": "Pending",
+    "notification": {
+      "label": "CVPR call for workshops",
+      "url": "https://cvpr.thecvf.com/Conferences/2027/CallForWorkshops",
+      "date": "2026-12-22",
+      "dateLabel": "22 December 2026"
+    }
+  },
+  "speakers": {
+    "eyebrow": "2027 lineup",
+    "title": "Confirmed invited speakers",
+    "intro": "Participation is subject to workshop acceptance. Talk titles and times will be announced once finalized.",
+    "people": [
+      {
+        "name": "Tyler Niday",
+        "role": "Co-founder & CEO",
+        "organization": "Bonsai Robotics",
+        "url": "https://bonsairobotics.ai/about/"
+      },
+      {
+        "name": "Igor Susmelj",
+        "role": "Co-founder & CTO",
+        "organization": "Lightly AI",
+        "url": "https://www.lightly.ai/about-us"
+      },
+      {
+        "name": "Gaurav Bansal",
+        "role": "VP of Engineering, Autonomy",
+        "organization": "Blue River Technology",
+        "url": "https://www.bluerivertechnology.com/culture/"
+      },
+      {
+        "name": "Kenny Lee",
+        "role": "Co-founder & CEO",
+        "organization": "Aigen",
+        "url": "https://aigen.io/about"
+      }
+    ]
+  },
+  "research": {
+    "eyebrow": "Research focus",
+    "title": "Spatial intelligence in the field",
+    "intro": "The proposed scope spans computer vision methods and their use in agriculture.",
+    "areas": [
+      {
+        "title": "Understanding agricultural spaces",
+        "text": "Spatial intelligence, 3D scene representations and world models, including neural radiance fields and Gaussian splatting; analysis of agricultural imagery across space and time."
+      },
+      {
+        "title": "Connecting perception to action",
+        "text": "Embodied AI, vision-language-action models, and transfer from simulation to real agricultural environments, connecting visual understanding with robotic systems."
+      },
+      {
+        "title": "Learning across data and environments",
+        "text": "Multimodal foundation models, sensor and data fusion, and resources and benchmarks for agricultural vision, alongside other novel applications in agriculture."
+      }
+    ],
+    "note": "Program and participation details will be announced after workshop acceptance."
+  },
+  "archive": {
+    "eyebrow": "Workshop archive",
+    "title": "Explore past editions",
+    "intro": "Browse the workshop series, from its first edition in 2020 through 2026.",
+    "years": [
+      {
+        "year": 2026,
+        "href": "/agriculture-vision-2026",
+        "label": "Agriculture-Vision 2026"
+      },
+      {
+        "year": 2025,
+        "href": "/agriculture-vision-2025",
+        "label": "Agriculture-Vision 2025"
+      },
+      {
+        "year": 2024,
+        "href": "/agriculture-vision-2024",
+        "label": "Agriculture-Vision 2024"
+      },
+      {
+        "year": 2023,
+        "href": "/agriculture-vision-2023",
+        "label": "Agriculture-Vision 2023"
+      },
+      {
+        "year": 2022,
+        "href": "/agriculture-vision-2022",
+        "label": "Agriculture-Vision 2022"
+      },
+      {
+        "year": 2021,
+        "href": "/agriculture-vision-2021",
+        "label": "Agriculture-Vision 2021"
+      },
+      {
+        "year": 2020,
+        "href": "/agriculture-vision-2020",
+        "label": "Agriculture-Vision 2020"
+      }
+    ],
+    "note": "Calls for papers, schedules, and participation details in the archive belong to their original editions."
+  }
+}

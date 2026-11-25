@@ -1,0 +1,30 @@
+---
+import type { createWorkshopCalendar } from '../lib/workshop-calendar.mjs';
+
+interface Props {
+  calendar: ReturnType<typeof createWorkshopCalendar>;
+}
+const { calendar } = Astro.props;
+---
+
+<div class="workshop-calendar">
+  {calendar ? <section aria-labelledby="calendar-title">
+    <h3 id="calendar-title">Add to calendar</h3>
+    <div class="calendar-actions">
+      <a href={calendar.googleUrl}>Add to Google Calendar</a>
+      <a href={calendar.downloadPath} download={calendar.downloadFilename}>Download calendar file (.ics)</a>
+    </div>
+    <p class="calendar-help">The calendar file works with Apple Calendar, Outlook, and other calendar apps.</p>
+  </section> : <p class="calendar-pending">Calendar links will be available once the workshop schedule is confirmed.</p>}
+</div>
+
+<style>
+  .workshop-calendar { border-top: 1px solid var(--line); margin-top: 20px; padding-top: 18px; }
+  h3 { font-size: 1.15rem; margin: 0 0 14px; }
+  .calendar-actions { display: flex; flex-direction: column; gap: 10px; }
+  .calendar-actions a { display: flex; align-items: center; justify-content: center; min-height: 44px; padding: 10px 14px; border: 1px solid var(--action); border-radius: 3px; font-size: .85rem; font-weight: 600; text-align: center; text-decoration: none; }
+  .calendar-actions a:first-child { color: #fff; background: var(--action); }
+  .calendar-actions a:hover { color: #fff; background: #972f2f; border-color: #972f2f; }
+  p.calendar-help { font-size: .82rem; color: var(--muted); margin-top: 12px; }
+  p.calendar-pending { font-size: .85rem; }
+</style>

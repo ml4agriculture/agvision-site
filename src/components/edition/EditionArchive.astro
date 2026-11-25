@@ -1,0 +1,13 @@
+---
+import type { Edition } from '../../lib/edition-schema';
+import SectionHeading from './SectionHeading.astro';
+interface Props { archive: NonNullable<Edition['archive']> }
+const { archive } = Astro.props;
+---
+<section class="edition-archive" id="past-editions" aria-labelledby="archive-title">
+  <SectionHeading id="archive-title" {...archive} />
+  <ul class="edition-years">
+    {archive.years.map(({ year, href, label }) => <li><a href={href} aria-label={label}>{year}</a></li>)}
+  </ul>
+  {archive.note && <p class="archive-note">{archive.note}</p>}
+</section>

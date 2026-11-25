@@ -1,0 +1,9 @@
+---
+import { getEntry } from 'astro:content';
+import EditionPage from '../layouts/EditionPage.astro';
+
+// Explicit routes keep newly authored editions out of the public archive/nav.
+const edition = await getEntry('editions', '2027');
+if (!edition) throw new Error('Missing 2027 edition content');
+---
+<EditionPage edition={edition.data} />

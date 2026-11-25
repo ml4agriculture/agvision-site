@@ -1,0 +1,13 @@
+---
+import type { Edition } from '../../lib/edition-schema';
+interface Props { edition: Pick<Edition, 'label' | 'title' | 'titlePrefix' | 'description' | 'hero'> }
+const { edition } = Astro.props;
+---
+<section class="edition-hero" aria-labelledby="edition-title" style={`--edition-hero-image: url('${edition.hero.image}')`}>
+  <div class="hero-inner">
+    <p class="edition-label">{edition.label}</p>
+    <h1 id="edition-title"><span>{edition.titlePrefix}</span> {edition.title.slice(edition.titlePrefix.length).trim()}</h1>
+    <p class="edition-theme">{edition.description}</p>
+    <p class="edition-context">{edition.hero.context}</p>
+  </div>
+</section>
